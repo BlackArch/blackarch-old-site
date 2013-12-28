@@ -1,0 +1,80 @@
+cat common/start
+cat common/header
+
+cat <<\EOF
+<div id="maincontent">
+	<div id="left">
+		<h3><a href="">Major release and site redesign!</a><d>28 Dec 2013</d></h3>
+		<hr>
+		<p>We redesigned our website. We hope you like the new style.</p>
+		<p>We also released a bunch of new tools. There are over 600 tools in the repo
+			now. The full list of tools is <a href="tools.html">here</a>.</p>
+		<br/><br/>
+		<h3><a href="">Updates to Pacman.conf!</a><d>20 Dec 2013</d></h3>
+		<hr>
+		<p>We changed the directory structure of the repository. Please modify your
+			pacman.conf files like so:
+			<br /><br />
+			<b>[blackarch] <br/>
+				Server = http://blackarch.org/blackarch/$repo/os/$arch</b>
+			<br /><br />
+			The repository directory structure now resembles that of the official Arch
+			repositories. The new structure will make it easier for mirrors to sync with
+			our repository.</p>
+		<br/><br/>
+		<h3><a href="">We did it!</a><d>24 Nov 2013</d></h3>
+		<hr>
+		<p>Thanks to everyone's interest in this project we finally pissed off our ISP!
+			It makes us happy to know that so many people appreciate our hard work and are
+			using BlackArch Linux. We have managed to push a record 1.2TB a month of traffic
+			and downloads. The shiny new server is up and alive, thank you for being patient
+			with us. We are currently replicating mirrors across the USA to help with any
+			potential future disruptions. For the latest updates please come back and visit
+			us or follow us on twitter. Thanks everyone!</p>
+		<br/><br/>
+		<h3><a href="">Securabit Podcast</a><d>16 Sep 2013</d></h3>
+		<hr>
+		<p>We're on <a href="http://securabit.com/">Securabit Podcast</a>. Thanks to
+			<a href="https://twitter.com/secbitchris">Chris Gerling</a>,
+			<a href="https://twitter.com/thechrisam">Chris Mills</a>, and
+			<a href="https://twitter.com/mpbailey1911">Mike Bailey</a> for having me as a
+			guest. You can
+			<a href="http://securabit.com/?powerpress_pinw=3378-podcast">listen</a> to the
+			podcast or <a href="http://traffic.libsyn.com/securabit/SecuraBit_EP119.mp3">download</a>
+			it. They have relaunched their virtual lab environment
+			<a href="http://www.gh0st.net/">Gh0st Networks</a>, it's a great free tool for
+			the community to help grow a more secure internet. Their philosphy is screw all
+			the "hats", Gh0st Networks is about learning, exploring, exploiting and
+			connecting in a world where finance and politics are now a few of the motives
+			behind the creation of malware today. Research and reverse engineer these
+			plagues towards the common goal of a secure internet.</p>
+		<br/><br/>
+		<h3><a href="">Extended downtime</a><d>25 Aug 2013</d></h3>
+		<hr>
+		<p>We're continuing work to upgrade our infrastructure, as a part of this
+			improvement our domain service provider experienced some issues which resulted
+			in slow proprogation of our DNS records across the globe. This was the root
+			cause of our extended downtime. This issue has now been corrected, we apologize
+			for the inconvenience.</p>
+		<br/><br/>
+		<h3><a href="">Speak candidly</a><d>24 Aug 2013</d></h3>
+		<hr>
+		<p> We have recently relocated all tools in the repository to comply with
+			<a href="http://www.pathname.com/fhs/">FHS</a>. We would like to hear from
+			anyone that was familiar with the <code>/pentest</code> path structure and how
+			they feel about the current format. Did anyone depend on <code>/pentest</code>
+			to remember what tools you have in your arsenal? Do you prefer having all tools
+			available to you in your <code>$PATH</code>? Please feel free to comment below
+			and speak your mind!</p>
+	</div>
+</div>
+EOF
+
+echo '<div id="right">'
+cat common/recent_updates
+cat common/blurb_tweets
+cat common/blurb_donate
+cat common/blurb_irc
+echo '<br /><br /></div></div>'
+cat common/footer
+cat common/end

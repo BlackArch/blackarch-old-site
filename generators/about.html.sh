@@ -1,33 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-<meta name="keywords" content="pentesting, infosec, information security, security, software development, hacking">
-<meta name="description" content="A lightweight, pentest distribution: BlackArch Linux is a lightweight expansion to Arch Linux for penetration testers.">
-<link rel="stylesheet" href="css/main.css" type="text/css" media="screen, projection"/>
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
-<title>BlackArch</title>
-</head>
-<body>
-<div id="wrap">
-<div id="header_top">
-<h1 id="logo"><a href="index.html">blackarch<span class="grey">linux</span></a></h1>
-<ul>
-<li><a href="index.html">home</a></li>
-<li><a href="about.html">about</a></li>
-<li><a href="download.html">download</a></li>
-<li><a href="tools.html">tools</a></li>
-<li><a href="https://github.com/BlackArch/blackarch">github</a></li>
-</ul>
-<div id="bar"></div>
-</div>
+cat common/start
+cat common/header
+
+cat <<EOF
 <div id="dl_body">
 	<h3>What is BlackArch Linux?</h3>
 	<hr>
 	BlackArch Linux is a lightweight expansion to
 	<a href="https://www.archlinux.org">Arch Linux</a> for penetration testers and security researchers.
 	<br /><br />
-	The repository contains <b>606</b> tools. You can install tools individually or
+	The repository contains <b>${TOOL_COUNT}</b> tools. You can install tools individually or
 	in groups. BlackArch is compatible with existing Arch installs. For more information, see the
 	<a href="https://github.com/BlackArch/blackarch/blob/master/docs/README.md"><b>installation instructions</b></a>.
 	<br /><br />
@@ -104,24 +85,7 @@
 		</tr>
 	</table>
 </div>
-<div id="footer">
-	<p>Copyright &copy; 2012-2014 <a href="http://www.blackarch.org/">blackarch.org</a></p>
-	<p>The registered trademark Linux&reg; is used pursuant to a sublicense from
-		LMI, the exclusive licensee of Linus Torvalds, owner of the mark on a world-wide
-		basis.</p>
-</div>
-</div>
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', '']);
-	_gaq.push(['_trackPageview']);
+EOF
 
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript';
-		ga.async = true; ga.src = ('https:' == document.location.protocol ?
-			'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
-</body>
-</html>
+cat common/footer
+cat common/end

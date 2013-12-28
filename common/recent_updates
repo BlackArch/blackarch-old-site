@@ -1,0 +1,11 @@
+<p id="info">
+	<a><b>Recent Updates</b></a>
+	<br /><br />
+	pack 0.0.4 <a id="applink" href="https://github.com/BlackArch/blackarch/blob/master/packages/pack/PKGBUILD">update</a><br>
+	wol-e 2.0 <a id="applink" href="https://github.com/BlackArch/blackarch/blob/master/packages/wol-e/PKGBUILD">new tool</a><br>
+	wifi-honey 1.0 <a id="applink" href="https://github.com/BlackArch/blackarch/blob/master/packages/wifi-honey/PKGBUILD">new tool</a><br>
+	weevley 1.1 <a id="applink" href="https://github.com/BlackArch/blackarch/blob/master/packages/weevely/PKGBUILD">new tool</a><br>
+	webslayer r5 <a id="applink" href="https://github.com/BlackArch/blackarch/blob/master/packages/webslayer/PKGBUILD">new tool</a><br>
+	2013-08-10 <a id="applink" href="http://www.blackarch.org/tools.html">new release</a>
+</p>
+<br />
