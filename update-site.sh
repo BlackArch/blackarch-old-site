@@ -28,14 +28,16 @@ update_tools() {
     tr -d '"'`"
     url="`grep 'url' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
     tr -d '"'`"
+
     echo "<tr>" >> tmpl/foo.html
     echo "<td>${pkgname}</td>" >> tmpl/foo.html
     echo "<td>${pkgver}</td>" >> tmpl/foo.html
     echo "<td>${pkgdesc}</td>" >> tmpl/foo.html
-    echo "<td>${url}</td>" >> tmpl/foo.html
+    echo "<td><a href=\"${url}\">${url}</a></td>" >> tmpl/foo.html
     echo "</tr>" >> tmpl/foo.html
   done
 
+  echo "<!-- generated `date` -->" >> tmpl/tools.html
   cat tmpl/tools_start.html tmpl/foo.html tmpl/tools_end.html >> tmpl/tools.html
 }
 
@@ -49,7 +51,7 @@ git_clone() {
   if [ ! -d "/tmp/BA" ]
   then
     git clone https://git@github.com/BlackArch/blackarch.git /tmp/BA \
-      > /dev/null 2>&1
+	  > /dev/null 2>&1
   fi
 }
 
