@@ -114,9 +114,10 @@ ol {
 }
 
 #logo {
-  no-repeat center left;
   float: left;
-  width: 350px;
+  padding-top: 12px;
+  width: 100px;
+  background: url("../images/logo.png") center left no-repeat;
   margin: 0 0 7px;
 }
 
