@@ -14,9 +14,10 @@ cat <<EOF
 	<br /><br />
 	This is a relatively new project. You will probably find little bugs here and
 	there. To report bugs and request new tools, please visit the
-	<a href="https://github.com/BlackArch/blackarch/issues">issue tracker</a> on Github or
-	<a href="mailto:blackarchlinux@gmail.com"
-		title="Contact BlackArch Team">email</a> us.
+	<a href="https://github.com/BlackArch/blackarch/issues">issue tracker</a>
+	on Github, stop by <a href="contact.html">IRC</a>, or <a
+	href="mailto:blackarchlinux@gmail.com" title="Contact BlackArch
+	Team">email</a> us.
 	<br /><br />
 	<h3>Who is behind BlackArch Linux?</h3>
 	<hr>
