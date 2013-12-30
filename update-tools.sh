@@ -3,7 +3,8 @@ update_tools() {
 
   rm -f data/tools
 
-  for f in git/blackarch/packages/*/PKGBUILD ; do
+  grep -l 'groups=(' git/blackarch/packages/*/PKGBUILD |
+  while read f ; do
     pkgname="`grep '^pkgname=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
     tr -d '"'`"
     pkgver="`grep '^pkgver=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
@@ -25,9 +26,9 @@ handle_git() {
       > /dev/null 2>&1
   else
     echo "[*] updating git repo"
-    cd git/blackarch
+    ( cd git/blackarch
     git pull origin master \
-      > /dev/null 2>&1
+      > /dev/null 2>&1 )
   fi
 }
 
