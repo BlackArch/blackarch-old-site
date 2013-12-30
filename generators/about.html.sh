@@ -74,6 +74,14 @@ cat <<EOF
 			<td>Commiter</td>
 		</tr>
 		<tr>
+			<td></td>
+			<td>sudokode</td>
+			<td>sudokode[at]gmail.com</td>
+			<td></td>
+			<td></td>
+			<td>Committer</td>
+		</tr>
+		<tr>
 			<td>James Roe</td>
 			<td>t60r</td>
 			<td>james.roe.jr[at]gmail.com</td>
