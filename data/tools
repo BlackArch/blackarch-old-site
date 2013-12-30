@@ -11,21 +11,17 @@ aeskeyfind	1.0	A tool to find AES key in RAM	http://citp.princeton.edu/memory/co
 afflib	3.7.1	An extensible open format for the storage of disk images and related forensic information	http://www.afflib.org
 against	20131208	A very fast ssh attacking script which includes a multithreaded port scanning module tcp connect for discovering possible targets and a multithreaded brute-forcing module which attacks parallel multiprocessing all discovered hosts or given ip-adresses from a list	http://nullsecurity.net/tools/cracker.html
 aimage	3.2.5	A program to create aff-images.	http://www.afflib.org
-aircrack-ng-beta	1.2	A key cracker for the 802.11 WEP and WPA-PSK protocols	http://www.aircrack-ng.org
 airflood	0.1	A modification of aireplay that allows for a DOS in in the AP. This program fills the table of clients of the AP with random MACs doing impossible new connections.	http://packetstormsecurity.com/files/51127/airflood-0.1.tar.gz.html
 airgraph-ng	2364	Graphing tool for the aircrack suite	http://www.aircrack-ng.org
 airoscript	20131212	Script to simplify the use of aircrack-ng tools	http://midnightresearch.com/projects/wicrawl/
 air	2.0.0	A GUI front-end to dd/dc3dd designed for easily creating forensic images.	http://air-imager.sourceforge.net/
 airpwn	1.4	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
-amap	5.4	Next-generation tool for assisting network penetration testing.	http://freeworld.thc.org/releases.php
-android-apktool	1.5.2	a tool for reengineering Android apk files	http://forum.xda-developers.com/showthread.php?t
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK adb and fastboot	http://developer.android.com/sdk/index.html
 android-udev-rules	1.0.4	Android udev rules	https://github.com/bbqlinux/android-udev-rules
 arachni	0.4.5.2	Arachni is a feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
 arduino	1.0.5	Arduino SDK includes patched avrdude and librxtx	http://arduino.cc/en/Main/Software
-argtable	2.11	ANSI C command line parser	http://argtable.sourceforge.net/
 armitage	2013.08.21	A graphical cyber attack management tool for Metasploit	http://www.fastandeasyhacking.com/
 arpalert	2.0.12	Monitor ARP changes in ethernet networks	http://www.arpalert.org/
 arpantispoofer	1.0.1.32	A utility to detect and resist BIDIRECTIONAL ARP spoofing. It can anti-spoof for not only the local host, but also other hosts in the same subnet. It is also a handy helper for gateways which dont work well with ARP.	http://arpantispoofer.sourceforge.net/
@@ -36,11 +32,8 @@ asleap	2.2	Actively recover LEAP/PPTP passwords.	http://www.willhackforsushi.com
 asp-audit	2BETA	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
 autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backdoor-factory	0.r33.879fcbd	Patch win32/64 binaries with shellcode	https://github.com/secretsquirrel/the-backdoor-factory
-backports-drivers-frag+ack	1	$_patch for compat-drivers-patched	https://backports.wiki.kernel.org/index.php/Main_Page
-backports-patched	3.12.1_1	Backports provides drivers released on newer kernels backported for usage on older kernels. Patched flavor	https://backports.wiki.kernel.org/index.php/Main_Page
 batctl	2013.4.0	B.A.T.M.A.N. advanced control and management tool	http://www.open-mesh.net/
 batman-adv	2013.4.0	batman kernel module, included upstream since .38	http://www.open-mesh.net/
-batman-alfred	2013.4.0	Almighty Lightweight Fact Remote Exchange Daemon	http://www.open-mesh.net/
 bbqsql	1.2	SQL injection exploitation tool	https://github.com/neohapsis/bbqsql
 bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	http://www.aldeid.com/wiki/Bed
 beef	0.4.4.8.11.gadde527	BeEF, the Browser Exploitation Framework - it is a penetration testing tool that focuses on the web browser	http://beefproject.com/
@@ -49,24 +42,16 @@ bfbtester	2.0.1	Performs checks of single and multiple argument command line ove
 binwalk	1.2.2	A tool for searching a given binary image for embedded files	http://code.google.com/p/binwalk/
 binwally	0.r3.ca092a7	Binary and Directory tree comparison tool using the Fuzzy Hashing concept ssdeep	https://github.com/bmaia/binwally
 bios_memimage	1.2	A tool to dump RAM contents to disk aka cold boot attack.	http://citp.princeton.edu/memory/code/
-blackarch-devtools	20131223	Tools for BlackArch Linux package maintainers	
-blackarch-dwm	6.0	Dynamic window manager for X	http://dwm.suckless.org
-blackarch-install-scripts	0.1	Easy Blackarch Install Script	https://github.com/BlackArch/blackarch-install-scripts
-blackarch-keyring	20130708	BlackArch PGP keyring	https://github.com/BlackArchLinux/blackarch-keyring
-blackarch-mirrorlist	20131217	BlackArch Linux mirror list for use by pacman	http://www.blackarch.org/mirrorlist/
 blackhash	0.2	Creates a filter from system hashes	http://16s.us/blackhash/
-bladerf	0.9.0	Driver for bladeRF, allowing general purpose software defined radio SDR.	https://github.com/Nuand/bladeRF
 bletchley	0.0.1	A collection of practical application cryptanalysis tools.	https://code.google.com/p/bletchley/
 blindelephant	6	A web application fingerprinter. Attempts to discover the version of a known web application by comparing static files at known locations 	http://blindelephant.sourceforge.net/
 blindsql	1.0	Set of bash scripts for blind SQL injection attacks	http://www.enye-sec.org/programas.html
 bluebugger	0.1	bluebugger is an implementation of the bluebug technique which was discovered by Martin Herfurt.	http://packetstormsecurity.com/files/54024/bluebugger-0.1.tar.gz.html
-bluediving	0.9	A Bluetooth penetration testing suite	http://bluediving.sourceforge.net/
 bluelog	1.0.4	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode	http://www.digifail.com/software/bluelog.shtml
 bluepot	0.1	A Bluetooth Honeypot written in Java, it runs on Linux	https://code.google.com/p/bluepot/
 blueprint	0.1_3	A perl tool to identify Bluetooth devices.	http://trifinite.org/trifinite_stuff_blueprinting.html
 blueranger	1.0	A simple Bash script which uses Link Quality to locate Bluetooth device radios.	http://www.hackfromacave.com/projects/blueranger.html
 bluesnarfer	0.1	A bluetooth attacking tool	http://www.alighieri.org/project.html
-bmap-tools	3.1	Tool for copying largely sparse files using information from a block map file	http://git.infradead.org/users/dedekind/bmap-tools.git
 bob-the-butcher	0.7.1	A distributed password cracker package.	http://btb.banquise.net/
 braa	0.82	A mass snmp scanner	http://s-tech.elsat.net.pl/braa/
 braces	0.4	A Bluetooth Tracking Utility.	http://braces.shmoo.com/
@@ -83,9 +68,7 @@ bulk-extractor	1.3.1	Bulk Email and URL extraction tool	http://afflib.org
 bully	1.0.20	A wifi-protected-setup WPS brute force attack tool.	http://code.google.com/p/bully/
 bunny	0.93	A closed loop, high-performance, general purpose protocol-blind fuzzer for C programs.	http://code.google.com/p/bunny-the-fuzzer/
 burpsuite	1.5	An integrated platform for attacking web applications free edition.	http://portswigger.net/burp/
-byacc-noconflict	20130925	Non-conflicting version of byacc not providing bison/yacc	http://invisible-island.net/byacc/
 canari	1.0	A transform framework for maltego	http://www.canariproject.com
-canto	0.7.10	A ncurses Atom/RSS/RDF aggregator	http://codezen.org/canto/
 capstone	1.0	A lightweight multi-platform, multi-architecture disassembly framework.	http://www.capstone-engine.org/index.html
 carwhisperer	0.2	The carwhisperer project intends to sensibilise manufacturers of carkits and other Bluetooth appliances without display and keyboard for the possible security threat evolving from the use of standard passkeys.	http://trifinite.org/trifinite_stuff_carwhisperer.html
 casefile	1.0.1	The little brother to Maltego without transforms, but combines graph and link analysis to examine links between manually added data to mind map your information	http://www.paterva.com/web6/products/casefile.php
@@ -113,7 +96,6 @@ creddump	0.3	A python tool to extract various credentials and secrets from Windo
 creepy	20121023	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	http://github.com/ilektrojohn/creepy
 crunch	3.4	A wordlist generator for all combinations/permutations of a given character set	http://sourceforge.net/projects/crunch-wordlist/
 cryptcat	1.2.1	A lightweight version of netcat with integrated transport encryption capabilities.	http://sourceforge.net/projects/cryptcat
-cryptohazemultiforcer	1.31	High performance multihash brute forcer with CUDA support	http://www.cryptohaze.com/multiforcer.php
 csrftester	1.0	The OWASP CSRFTester Project attempts to give developers the ability to test their applications for CSRF flaws.	http://www.owasp.org/index.php/Category:OWASP_CSRFTester_Project
 ctunnel	0.6	Tunnel and/or proxy TCP or UDP connections via a cryptographic tunnel.	http://nardcore.org/ctunnel
 cupp	3.0	Common User Password Profiler	http://www.remote-exploit.org/?page_id
@@ -135,8 +117,6 @@ dhcdrop	0.5	Remove illegal dhcp servers with IP-pool underflow. Stable version	h
 dhcpig	20131208	Enumerates hosts, subdomains, and emails from a given domain using google	https://github.com/kamorin/DHCPig
 dirb	2.04	A web content scanner, brute forceing for hidden files	http://dirb.sourceforge.net/
 dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
-${_subarchs[@]/#/$pkgbase-}	4.7.2	An x-tools & distcc services package for BlackArch ARM only for x86_64	http://archlinuxarm.org/developers/distcc-cross-compiling
-distorm	3.3.0	The ultimate disassembler for AMD64, X86-64	http://code.google.com/p/distorm/
 dmitry	1.3a	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 dnmap	0.6	The distributed nmap framwork	http://sourceforge.net/projects/dnmap/
 dns2tcp	0.5.2	A tool for relaying TCP connections over DNS	http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en
@@ -184,7 +164,6 @@ fimap	1.00	A little tool for local and remote file inclusion auditing and exploi
 findmyhash	1.1.2	Crack different types of hashes using free online services	http://code.google.com/p/findmyhash/
 firewalk	5.0	An active reconnaissance network security tool	http://packetfactory.openwall.net/projects/firewalk/
 firmware-mod-kit	099	 Modify firmware images without recompiling!	http://code.google.com/p/firmware-mod-kit
-flamerobin	0.9.2	A tool to handle Firebird database management	http://www.flamerobin.org/
 flare	0.6	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
 flasm	1.62	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
 flawfinder	1.27	Searches through source code for potential security flaws	http://www.dwheeler.com/flawfinder
@@ -200,7 +179,6 @@ fuzzdb	1.09	Attack and Discovery Pattern Database for Application Fuzz Testing	h
 fuzzdiff	latest	A simple tool designed to help out with crash analysis during fuzz testing. It selectively un-fuzzes portions of a fuzzed file that is known to cause a crash, re-launches the targeted application, and sees if it still crashes.	http://vsecurity.com/resources/tool
 g72x++	1	Decoder for the g72x++ codec.	http://www.ps-auxw.de/
 galleta	20040505_1	Examine the contents of the IEs cookie files for forensic purposes	http://www.jonesdykstra.com/
-gengetopt	2.22.6	A tool to write command line option parsing code for C programs.	http://www.gnu.org/software/gengetopt/gengetopt.html
 genlist	20131216	Generates lists of IP addresses.	
 geoedge	latest	This little tools is designed to get geolocalization information of a host, it get the information from two sources maxmind and geoiptool.	
 geoipgen	0.4	GeoIPgen is a country to IP addresses generator.	http://code.google.com/p/geoipgen/
@@ -208,7 +186,6 @@ getsids	0.0.1	Getsids tries to enumerate Oracle Sids by sending the services com
 ghettotooth	latest	Ghettodriving for bluetooth	http://www.oldskoolphreak.com/tfiles/ghettotooth.txt
 ghost-phisher	1.62	GUI suite for phishing and penetration attacks	http://code.google.com/p/ghost-phisher
 giskismet	20110805	A program to visually represent the Kismet data in a flexible manner.	http://www.giskismet.org
-gnupg-largekeys	2.0.22	Complete and free implementation of the OpenPGP standard	http://www.gnupg.org/
 golismero	2.0	Opensource web security testing framework	https://github.com/golismero/golismero
 goodork	2.2	A python script designed to allow you to leverage the power of google dorking straight from the comfort of your command line.	http://goo-dork.blogspot.com/
 goofile	1.5	Command line filetype search	https://code.google.com/p/goofile/
@@ -217,15 +194,12 @@ gooscan	1.0.9	A tool that automates queries against Google search appliances, bu
 gqrx	2.2.0	SDR receiver for Funcube Dongle, RTL-SDR, USRP and OsmoSDR devices	http://www.oz9aec.net/index.php/gnu-radio/gqrx-sdr
 grabber	0.1	A web application scanner. Basically it detects some kind of vulnerabilities in your website.	http://rgaucher.info/beta/grabber/
 grepforrfi	0.1	Simple script for parsing web logs for RFIs and Webshells v1.2	http://www.irongeek.com/downloads/grepforrfi.txt
-gr-fcdproplus	3.7.4	GNU Radio source block for Funcube Dongle Pro +	https://github.com/dl1ksv/gr-fcdproplus
 grokevt	0.4.1	A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files.	http://code.google.com/p/grokevt/
-gr-osmosdr	0.1.1	GNU Radio source block for Funcube Dongle, RTL-SDR, USRP and OsmoSDR devices	http://sdr.osmocom.org/trac/
 gsa	4.0.2	OpenVAS web frontend	http://www.openvas.org/
 gsd	1.2.2	OpenVAS GUI frontend	http://www.openvas.org/
 guymager	0.7.1	A forensic imager for media acquisition	http://guymager.sourceforge.net/
 gwtenum	20131217	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k
 hackersh	0.2.0	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	http://www.hackersh.org/
-hackrf	2013.07.1	Driver for HackRF, allowing general purpose software defined radio SDR.	https://github.com/mossmann/hackrf
 halberd	0.2.3	Halberd discovers HTTP load balancers. It is useful for web application security auditing and for load balancer configuration testing.	http://halberd.superadditive.com/
 halcyon	0.1	A repository crawler that runs checksums for static files found within a given git repository.	http://www.blackhatlibrary.net/Halcyon
 hamster	2.0.0	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
@@ -234,10 +208,6 @@ hashcat	0.46	A multithreaded cross platform hash cracker.	http://hashcat.net/has
 hashcat-utils	0.9	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id
 hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
 hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
-haskell-iconv	0.4.1.1	Provides an interface to the POSIX iconv library functions for string encoding conversion	http://hackage.haskell.org/package/iconv
-haskell-line2pdf	0.0.7	Simple command-line utility to convert text into PDF	http://hackage.haskell.org/package/line2pdf
-haskell-openafp	1.3.2	IBM AFP document format parser and generator	http://hackage.haskell.org/package/OpenAFP
-haskell-openafp-utils	1.3.1.2	Assorted utilities to work with AFP data streams	http://hackage.haskell.org/package/OpenAFP-Utils
 hcraft	1.0.0	HTTP Vuln Request Crafter	http://sourceforge.net/projects/hcraft/
 hexinject	1.5	A very versatile packet injector and sniffer that provides a command-line framework for raw network access	http://hexinject.sourceforge.net
 hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL.	https://code.google.com/p/hexorbase/
@@ -265,7 +235,6 @@ ikecrack	1.00	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analysi
 ikeprobe	latest	Determine vulnerabilities in the PSK implementation of the VPN server.	http://www.ernw.de/download/ikeprobe.zip
 ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	http://ikecrack.sourceforge.net/
 ike-scan	1.9	A tool that uses IKE protocol to discover, fingerprint and test IPSec VPN servers	http://www.nta-monitor.com/tools/ike-scan/
-impacket	0.9.10	Collection of Python2 classes focused on providing access to network packets	http://oss.coresecurity.com/projects/impacket.html
 inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
 intrace	1.5	Traceroute-like application piggybacking on existing TCP connections	http://intrace.googlecode.com
@@ -305,21 +274,11 @@ leo	4.11	Literate programmers editor, outliner, and project manager	http://webpa
 leroy-jenkins	0.r1.c5f57d6	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
-libbtbb	2012.10.R3	A library to decode Bluetooth baseband packets, as produced by the Ubertooth and GR-Bluetooth projects.	http://sourceforge.net/projects/libbtbb/
-libcli	1.9.7	A shared library for including a Cisco-like command-line interface into other software.	https://github.com/dparrish/libcli
-libdaq-static	2.0.1	Data Acquisition library for packet I/O.	http://www.snort.org/
-libdnet-ipv6	1.12	A simplified, portable interface to several low-level networking routines	http://code.google.com/p/libdnet/
 libewf	20130416	A library for support of the Expert Witness Compression Format EWF	https://code.google.com/p/libewf/
-libnfc	1.7.0_rc7	The first free NFC SDK and Programmers API	http://www.libnfc.org/documentation/introduction
-libowfat	0.29	GPL reimplementation of libdjb	http://www.fefe.de/libowfat/
-libvidcap	0.2.1	A cross-platform library for capturing video from webcams and other video capture devices.	http://libvidcap.sourceforge.net
-libxml-perl	0.08	Perl library for working with XML	http://search.cpan.org/~KMACLEOD/libxml-perl
-lightblue	0.4	A cross-platform Bluetooth API for Python which provides simple access to Bluetooth operations	http://lightblue.sourceforge.net/
 linux-exploit-suggester	0.r29.b8c82ed	A Perl script that tries to suggest exploits based OS version number	https://github.com/PenturaLabs/Linux_Exploit_Suggester
 list-urls	0.1	Extracts links from webpage	http://www.whoppix.net
 lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
-lorcon-old	197	Create what libradiate could have been: A generic library for injecting 802.11 frames, capable of injection via multiple driver frameworks, without forcing modification of the application code, old API version	http://802.11ninja.net/lorcon/
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
 lynis	1.3.8	An auditing tool for Unix specialists	http://www.rootkit.nl/projects/lynis.html
 magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
@@ -354,9 +313,6 @@ miranda-upnp	1.3	A Python-based Universal Plug-N-Play client application designe
 missidentify	1.0	A program to find Win32 applications	http://missidentify.sourceforge.net/
 mitmap	20131208	Shell Script for launching a Fake AP with karma functionality and	http://www.darkoperator.com/tools-and-scripts/
 mitmproxy	0.8	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
-mkbaiso	13	Tools for creating BlackArch Linux live and install iso images	https://github.com/BlackArch/mkbaiso
-moloch	0.9.2	An open source large scale IPv4 full PCAP capturing, indexing and database system.	https://github.com/aol/moloch
-morbid	0.8.7.3	A Twisted-based publish/subscribe messaging server that uses the STOMP protocol	http://pypi.python.org/pypi/morbid/
 morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
 mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers.	http://www.cqure.net/wp/mssqlscan/
 ms-sys	2.2.0	A tool to write Win9x-.. master boot records mbr under linux - RTM!	http://ms-sys.sourceforge.net/
@@ -365,8 +321,6 @@ multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multi
 nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
 nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
 nbtool	20131218	Some tools for NetBIOS and DNS investigation, attacks, and communication.	http://wiki.skullsecurity.org/Nbtool
-ncpfs	2.2.6	ncpfs allows you to mount volumes of NetWare servers under Linux.	http://www.novell.com/
-ncp	1.2.4	A fast file copy tool for LANs.	http://www.fefe.de/ncp/
 netactview	0.5.1	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
 netcommander	1.3	An easy-to-use arp spoofing tool	https://github.com/evilsocket/netcommander
 netdiscover	0.3	An active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	http://nixgeneration.com/~jaime/netdiscover/
@@ -384,14 +338,11 @@ nipper	0.11.7	Network Infrastructure Parser	https://www.titania-security.com/
 nishang	0.3.0	Using PowerShell for Penetration Testing	https://code.google.com/p/nishang/
 nkiller2	2.0	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
 nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
-node-ar-drone	v0.2.1.30.gf83cd0a	A node.js client for controlling Parrot AR Drone 2.0 quad-copters	https://github.com/felixge/node-ar-drone
 nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
 notspikefile	20131215	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
 nsec3walker	20101223	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
 oat	1.3.1	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
 obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities	http://bluetooth-pentest.narod.ru/
-obmenu-generator	0.58	A fast pipe/static menu generator for the Openbox Window Manager with icons support.	http://trizenx.blogspot.ro/2012/02/obmenu-generator.html
-oclhashcat	1.00	Worlds fastest WPA cracker with dictionary mutation engine	http://hashcat.net/oclhashcat/
 oh-my-zsh-git	2183.a38af27	A community-driven framework for managing your zsh configuration.	https://github.com/robbyrussell/oh-my-zsh
 ohrwurm	0.1	A small and simple RTP fuzzer	http://mazzoo.de/
 ollydbg	201g	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
@@ -399,14 +350,11 @@ onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP
 openvas-administrator	1.3.2	OpenVAS scanner administration tool	http://www.openvas.org/
 openvas-client	3.0.3	A lightweight client. Although it is deprecated by upstream, it is still preferred by some. Please do not mark this as out-dated.	http://www.openvas.org/
 openvas-cli	1.2.0	The OpenVAS Command-Line Interface	http://www.openvas.org/
-openvas-libraries	6.0.1	The OpenVAS libraries	http://www.openvas.org/
 openvas-manager	4.0.4	The OpenVAS Manager is a layer between the OpenVAS Scanner and various client applications	http://www.openvas.org/
 openvas-scanner	3.4.0	The OpenVAS scanning Daemon	http://www.openvas.org/
 orakelcrackert	1.00	This tool can crack passwords which are encrypted using Oracles latest SHA1 based password protection algorithm.	http://freeworld.thc.org/thc-orakelcrackert11g/
-orbited	0.7.10	A browserjavascript->tcp bridge; Comet is used to emulate TCP connections in the browser; Allows you to connect a web browser directly to an IRC or XMPP server, for instance.	http://www.orbited.org
 origami	1.0.0_beta1b	A ruby framework designed to parse, analyze, and forge PDF documents.	http://security-labs.org/origami/
 oscanner	1.0.6	An Oracle assessment framework developed in Java.	http://www.cqure.net/wp/oscanner/
-osm-gps-map	0.7.3	GTK+ library for showing OSM tiles	http://nzjrs.github.com/osm-gps-map/
 owabf	1.3	Outlook Web Access bruteforcer tool.	http://netsec.rs/70/tools.html
 owtf	0.40	The Offensive Web Testing Framework	https://www.owasp.org/index.php/OWASP_OWTF
 p0f	3.06b	Purely passive TCP/IP traffic fingerprinting tool 	http://lcamtuf.coredump.cx/p0f3/
@@ -434,93 +382,7 @@ pdgmail	1.0	A password dictionary attack tool that targets windows authenticatio
 peach	3.0.202	A SmartFuzzer that is capable of performing both generation and mutation based fuzzing	http://peachfuzzer.com/
 peepdf	0.2	A Python tool to explore PDF files in order to find out if the file can be harmful or not	http://code.google.com/p/peepdf/
 pentbox	1.5	A security suite that packs security and stability testing oriented tools for networks and systems	http://www.pentbox.net
-perl-algorithm-c3	0.08	Algorithm::C3	http://search.cpan.org/~FLORA/${_cpanname}
-perl-algorithm-generatesequence	0.02	A sequence generator.	http://search.cpan.org/~gomor/Net-Frame-Layer-ICMPv6-1.08/lib/Net/Frame/Layer/ICMPv6.pm
-perl-algorithm-permute	0.12	Perl module for handy and fast permutations with object oriented interface	http://search.cpan.org/dist/Algorithm-Permute/
-perl-cisco-copyconfig	1.4	IOS running-config manipulation	http://search.cpan.org/dist/Cisco-CopyConfig
-perl-class-errorhandler	0.02	Base class for error handling	http://search.cpan.org/dist/Class-ErrorHandler
-perl-class-gomor	1.02	Another class and object builder	http://search.cpan.org/dist/Class-Gomor
-perl-class-loader	2.03	Loads modules and creates objects on demand	http://search.cpan.org/~VIPUL/Class-Loader-2.03/
-perl-class-load-xs	0.06	XS implementation of parts of Class::Load	http://search.cpan.org/dist/${_pkgname}/
-perl-convert-ascii-armour	1.4	Converts binary octets into ASCII armoured messages	http://search.cpan.org/~VIPUL/Convert-ASCII-Armour-1.4/
-perl-convert-pem	0.08	Read/write encrypted ASN.1 PEM files	http://search.cpan.org/dist/Convert-PEM
-perl-cpan-meta-check	0.008	Verify requirements in a CPAN::Meta object	http://search.cpan.org/dist/CPAN-Meta-Check
-perl-cpan-meta	2.132830	the distribution metadata for a CPAN dist	http://search.cpan.org/dist/CPAN-Meta
-perl-crypt-des_ede3	0.01	Perl module for triple-DES EDE encryption/decryption	http://search.cpan.org/~btrott/Crypt-DES_EDE3
-perl-crypt-dh	0.07	Perl/CPAN Module Crypt::DH: Diffie-Hellman key exchange system	http://search.cpan.org/~mithaldu/Crypt-DH-0.07/lib/Crypt/DH.pm
-perl-crypt-dsa	1.17	DSA Signatures and Key Generation	http://search.cpan.org/dist/Crypt-DSA
-perl-crypt-idea	1.10	Perl interface to IDEA block cipher	http://search.cpan.org/~DPARIS/Crypt-IDEA-1.10/
-perl-crypt-primes	0.50	Provable Prime Number Generator suitable for Cryptographic Applications	http://search.cpan.org/~VIPUL/Crypt-Primes-0.50/
-perl-crypt-random	1.25	Cryptographically Secure, True Random Number Generator	http://search.cpan.org/~VIPUL/Crypt-Random-1.25/
-perl-crypt-rsa	1.99	RSA public-key cryptosystem.	http://search.cpan.org/dist/Crypt-RSA
-perl-data-buffer	0.04	Read/write buffer class	http://search.cpan.org/dist/Data-Buffer
-perl-data-dumper	2.145	stringified perl data structures, suitable for both printing and eval	http://search.cpan.org/dist/Data-Dumper/
-perl-devel-stacktrace	1.30	Stacktrace object w/ info form caller	http://search.cpan.org/~DROLSKY/Devel-StackTrace
-perl-digest-bubblebabble	0.02	Create bubble-babble fingerprints	http://search.cpan.org/dist/Digest-BubbleBabble
-perl-digest-crc	0.18	Generic interface to CRC algorithms	http://search.cpan.org/dist/Digest-CRC/
-perl-digest-md2	2.03	Perl interface to the MD2 Algorithm	http://search.cpan.org/~GAAS/Digest-MD2-2.03/
-perl-digest-md4	1.5	Digest::MD4::Perl - Perl interface to the MD4 Algorithm	http://search.cpan.org/dist/Digest-MD4
-perl-digest-perl-md5	1.8	Perl implementation of Ron Rivests MD5 Algorithm	http://search.cpan.org/dist/Digest-Perl-MD5
-perl-eval-closure	0.11	safely and cleanly create closures via string eval	http://search.cpan.org/dist/${_pkgname}/
-perl-exception-class	1.37	A module that allows you to declare real exception classes in Perl	http://search.cpan.org/dist/$_cpanname
-perl-expect	1.21		http://search.cpan.org/dist/Expect
-perl-extutils-config	0.007	ExtUtils::Config - A wrapper for perls configuration	http://search.cpan.org/dist/ExtUtils-Config/
-perl-extutils-helpers	0.021	ExtUtils::Helpers - Various portability utilities for module builders	http://search.cpan.org/dist/ExtUtils-Helpers/
-perl-extutils-installpaths	0.009	ExtUtils::InstallPaths - Build.PL install path logic made easy	http://search.cpan.org/dist/ExtUtils-InstallPaths/
-perl-file-homedir	1.00	Find your home and other directories on any platform	https://metacpan.org/release/$_cpanname
-perl-html-linkextractor	0.13	Extract links from an HTML document	http://search.cpan.org/dist/HTML-LinkExtractor/
-perl-http-dav	0.47	A client module for the WebDAV protocol	http://search.cpan.org/dist/HTTP-DAV
-perl-io-socket-socks	0.62	Provides a way to create socks client or server both 4 and 5 version	http://search.cpan.org/~oleg/IO-Socket-Socks-0.62
-perl-iptables-parse	1.1	IPTables::Parse - Perl extension for parsing iptables and ip6tables firewall rulesets	http://search.cpan.org/~mrash/IPTables-Parse/
-perl-libwhisker2	2.5	A full-featured Perl library used for HTTP-related functions, including vulnerability scanning and exploitation	http://sourceforge.net/projects/whisker/
-perl-linux-desktopfiles	0.08	Perl module to get and parse the Linux .desktop files	https://metacpan.org/module/Linux::DesktopFiles
-perl-lwp-protocol-https	6.04	Provide https support for LWP::UserAgent	https://metacpan.org/release/LWP-Protocol-https
-perl-lwp-protocol-socks	1.6	Adds support for the socks protocol and proxy facility	http://search.cpan.org/~scr/LWP-Protocol-socks-1.3/
-perl-math-bigint-gmp	1.37	Big integer calculations using the GNU Multiple Precision Arithmetic Library.	http://search.cpan.org/~PJACKLAM/Math-BigInt-GMP-1.37/
-perl-math-gmp	2.06	High speed arbitrary size integer math 	http://search.cpan.org/~TURNSTEP/Math-GMP-2.06/
-perl-math-pari	2.01080605	Perl interface to PARI	http://search.cpan.org/~ilyaz/Math-Pari-2.01080605/Pari.pm
-perl-module-build-tiny	0.028	A tiny replacement for Module::Build	http://search.cpan.org/dist/Module-Build-Tiny
-perl-moose	2.1005	A postmodern object system for Perl 5	https://metacpan.org/release/$_cpanname
-perl-mro-compat	0.12	mro::* interface compatibility for Perls < 5.9.5	http://search.cpan.org/dist/MRO-Compat
-perl-net-cidr	0.17	Manipulate IPv4/IPv6 netblocks in CIDR notation	http://search.cpan.org/dist/Net-CIDR
-perl-net-frame-device	1.10	Get network device information and gateway.	http://search.cpan.org/~gomor/Net-Frame-Device-1.10/lib/Net/Frame/Device.pm
-perl-net-frame-dump	1.13	Base-class for a tcpdump like implementation.	http://search.cpan.org/~gomor/Net-Frame-Dump-1.13/lib/Net/Frame/Dump.pm
-perl-net-frame-layer-icmp6	1.08	Internet Control Message Protocol v6 layer object.	http://search.cpan.org/~gomor/Net-Frame-Layer-ICMPv6-1.08/lib/Net/Frame/Layer/ICMPv6.pm
-perl-net-frame-layer-ipv6	1.05	Internet Protocol v6 layer object.	http://search.cpan.org/~gomor/Net-Frame-Layer-IPv6-1.05/lib/Net/Frame/Layer/IPv6.pm
-perl-net-frame-layer-sinfp3	1.01	Frame crafting made easy.	http://search.cpan.org/CPAN/authors/id/G/GO/GOMOR/Net-Frame-Layer-SinFP3-1.01.tar.gz
-perl-net-frame	1.09	The base framework for frame crafting.	http://search.cpan.org/dist/Net-Frame
-perl-net-frame-simple	1.05	Frame crafting made easy.	http://search.cpan.org/~gomor/Net-Frame-Simple-1.05/lib/Net/Frame/Simple.pm
-perl-net-libdnet6	0.26	Adds IPv6 support to Net::Libdnet.	http://search.cpan.org/~gomor/Net-Libdnet6-0.26/lib/Net/Libdnet6.pm
-perl-net-libdnet	0.98	Binding for Dug Songs libdnet	http://search.cpan.org/~gomor/Net-Libdnet/
-perl-net-netmask	1.9016	Parse, manipulate and lookup IP network blocks.	http://search.cpan.org/~muir/Net-Netmask-1.9016/
-perl-net-nslookup	2.01	Provide nslookup1-like capabilties.	http://search.cpan.org/~darren/Net-Nslookup-2.01/lib/Net/Nslookup.pm
-perl-netpacket	1.4.3	Assemble/disassemble network packets at the protocol level	http://search.cpan.org/dist/NetPacket/
-perl-net-pcap	0.17	Perl/CPAN Module Net::Pcap	https://metacpan.org/release/Net-Pcap
-perl-net-rawip	0.25	Perl extension to manipulate raw IP packets with interface to B<libpcap>	http://search.cpan.org/dist/Net-RawIP
-perl-net-socks	0.03	TCP/IP access through firewalls using SOCKS	http://search.cpan.org/~CLINTDW/SOCKS
-perl-net-ssh-perl	1.35	Perl client interface to SSH	http://search.cpan.org/dist/Net-SSH-Perl
-perl-net-whois-ip	1.10	Perl extension for looking up the whois information for ip addresses	http://search.cpan.org/dist/Net-Whois-IP
-perl-net-write	1.07	$_module - a portable interface to open and send raw data to network	https://metacpan.org/release/${_cpanname}
-perl-nmap-parser	1.19	Nmap::Parser	http://search.cpan.org/~APERSAUD/Nmap-Parser
-perl-number-bytes-human	0.09	Convert byte count to human readable format.	http://search.cpan.org/dist/Number-Bytes-Human/
-perl-number-range	0.10	Perl extension defining ranges of numbers and testing if a	http://search.cpan.org/dist/Number-Range
-perl-parallel-forkmanager	1.05	A simple parallel processing fork manager.	http://search.cpan.org/dist/${_pkgname}/
-perl-sort-key	1.32	Perl module that sorts arrays by one or multiple calculated keys.	http://search.cpan.org/~salva/Sort-Key/
-perl-sort-versions	1.5	Sort::Versions - a perl 5 module for sorting of revision-like numbers	http://search.cpan.org/~edavis/Sort-Versions/
-perl-sub-name	0.05	rename a sub	http://search.cpan.org/dist/$_cpanname
-perl-switch	2.16	A switch statement for Perl	http://search.cpan.org/dist/Switch
-perl-task-weaken	1.04	Ensure that a platform has weaken support	http://search.cpan.org/dist/$_cpanname
-perl-term-gnuplot	0.90380905	Draw vector graphics on terminals etc	http://search.cpan.org/dist/Term-Gnuplot
-perl-test-checkdeps	0.006	Check for presence of dependencies	http://search.cpan.org/dist/Test-CheckDeps
-perl-test-without-module	0.17	Test::Without::Module - Test fallback behaviour in absence of modules	http://search.cpan.org/dist/Test-Without-Module/
-perl-text-csv-xs	1.01	comma-separated values manipulation routines	http://search.cpan.org/dist/Text-CSV_XS
 perl-tftp	1.0b3	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TFTP/TFTP.pm
-perl-tie-encryptedhash	1.24	Hashes and objects based on hashes with encrypting fields	http://search.cpan.org/~VIPUL/Tie-EncryptedHash-1.24/
-perl-time-interval	1.233	Converts time intervals of days, hours, minutes, and seconds.	http://search.cpan.org/~ahicox/Time-Interval-1.233/Interval.pod
-perl-uniq	0.01	Perl extension for managing list of values.	http://search.cpan.org/~syamal/Uniq-0.01/Uniq.pm
-perl-unix-syslog	1.1	Interface to syslog functions in a C-library	http://search.cpan.org/dist/Unix-Syslog
-perl-xml-dom	1.44	Implements Level 1 of W3s DOM	http://search.cpan.org/dist/XML-DOM
-perl-yaml-libyaml	0.41	YAML module wrapping libyaml	http://search.cpan.org/dist/YAML-LibYAML
 pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
 phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
 php-mt-seed	3.2	PHP mt_rand seed cracker	http://www.openwall.com/php_mt_seed/
@@ -529,7 +391,6 @@ pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
 plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
 pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
-polenum	0.2	a python script to extract the password policy information from a windows machine.	http://labs.portcullis.co.uk/application/polenum/
 powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer. It can detect XSS, Injections SQL, LDAP, commands, code, XPATH and others.	http://www.powerfuzzer.com
 powersploit	2.2	A PowerShell Post-Exploitation Framework	https://github.com/mattifestation/PowerSploit
 propecia	2	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
@@ -540,67 +401,10 @@ pwdump	7.1	Extracts the binary SAM and SYSTEM file from the filesystem and then	
 pwnat	0.3	A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other	http://samy.pl/pwnat/
 pyinstaller	2.1	A program that converts packages Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
 pyminifakedns	0.1	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	http://code.activestate.com/recipes/491264/
-pymssql	2.0.0b1_dev_20111019	A fast MS SQL Server client library for Python directly using C API instead of ODBC. It is Python DB-API 2.0 compliant. Works on Linux, *BSD, Solaris, Mac OS X and Windows	http://code.google.com/p/pymssql/
 pyrit	0.4.0	WPA/WPA2-PSK attacking with gpu and cluster	http://code.google.com/p/pyrit
 pytacle	alpha2	Automates the task of sniffing GSM frames	http://packetstormsecurity.com/files/124299/pytacle-alpha2.tar.gz
-python2-async	0.6.1	Async aims to make writing asyncronous processing easier.	http://pypi.python.org/pypi/async
-python2-bbio	0.0.18	A module to control BeagleBone IO channels	https://github.com/adafruit/adafruit-beaglebone-io-python
-python2-clamd	1.0.1	A python interface to Clamd an anti-virus engine	https://pypi.python.org/pypi/clamd
-python2-cluster	1.1.2	Allows grouping a list of arbitrary objects into related groups clusters	http://python-cluster.sourceforge.net/
-python2-colorizer	0.1.7	Console colorizer, which acts like grep but paint each match in its own color.	http://github.com/svetlyak40wt/colorizer/
-python2-demjson	1.6	Encoder, decoder, and lint/validator for JSON JavaScript Object Notation compliant with RFC 4627	http://deron.meranda.us/python/demjson/
-python2-dpkt	1.7	This is a Python library for interacting with and creating packets.	http://code.google.com/p/dpkt/
-python2-elixir	0.7.1	A declarative layer on top of SQLAlchemy. It is a fairly thin wrapper, which provides the ability to define model objects following the Active Record design pattern	http://elixir.ematia.de/
-python2-esmre	0.3.1	Modules used to accelerate execution of a large collection of regular expressions using the Aho-Corasick algorithms	https://pypi.python.org/pypi/esmre
-python2-flickrapi	1.4.2	The official Python interface to the Flickr API	http://stuvel.eu/flickrapi
-python2-futures	2.1.4	Backport of the concurrent.futures package from Python 3.2	http://code.google.com/p/pythonfutures/
-python2-gitdb	0.5.4	IO of git-style object databases	http://pypi.python.org/pypi/gitdb
-python2-gitpython	0.3.2_rc1	A python library used to interact with Git repositories	http://gitorious.org/git-python
-python2-gnuplot	1.8	A Python package that interfaces to gnuplot	http://python2-gnuplot.sourceforge.net/
-python2-guess-language	0.2	Attempts to determine the natural language of a selection of Unicode utf-8 text	https://pypi.python.org/pypi/guess-language
-python2-magic	5.14	Python bindings to allow you to access the libmagic api	http://darwinsys.com/file/
-python2-msgpack	0.4.0	MessagePack deserializer	https://pypi.python.org/pypi/msgpack-python/
-python2-mysqldb	1.2.4	MySQL support for Python	http://mysql-python.sourceforge.net/
-python2-netaddr	0.7.10	A pure Python network address representation and manipulation library	http://github.com/drkjam/netaddr/
-python2-netlib	0.9.2	A collection of network utilities used by pathod and mitmproxy	http://cortesi.github.com/netlib
-python2-nfqueue	0.4	Python bindings for libnetfilter_queue by Pierre Chifflier	https://www.wzdftpd.net/redmine/projects/nfqueue-bindings/wiki/
-python2-ntlm	1.0.1	Python clients running on any operating system to provide NTLM authentication to a supporting server	http://code.google.com/p/python-ntlm
-python2-osmgpsmap	0.7.3	Python bindings for osm-gps-map	http://nzjrs.github.com/osm-gps-map/
-python2-pcapy	0.10.8	Python module for the libpcap packet capture library.	http://corelabs.coresecurity.com/index.php?module
-python2-pdfminer	20110515	A tool for extracting information from PDF documents	https://github.com/euske/pdfminer/
-python2-pefile	1.2.10_114	This is a Python library for PE file support and investigation.	http://code.google.com/p/pefile/
-python2-phply	0.3.1	PHP parser written in Python using PLY	https://github.com/ramen/phply
-python2-ply	3.4	Implementation of lex and yacc parsing tools for Python2	http://www.dabeaz.com/ply/
-python2-prettytable	0.7.2	A simple Python library for easily displaying tabular data in a visually appealing ASCII table format	http://pypi.python.org/pypi/PrettyTable
-python2-ptrace  	0.6.3	python-ptrace is a debugger using ptrace Linux, BSD and Darwin system call to trace processes written in Python.	http://bitbucket.org/haypo/python-ptrace/wiki/Home
-python2-pybloomfiltermmap	0.3.11	A Bloom filter bloomfilter for Python built on mmap	http://github.com/axiak/pybloomfiltermmap/
-python2-pydeep	0.2	This is the Python interface to ssdeep.	http://pypi.python.org/pypi/python-pydeep/
-python2-pydns	2.3.4	Python2 module for performing DNS queries	http://pydns.sourceforge.net
-python2-pyexiv2	0.3.2	A python binding to exiv2	http://tilloy.net/dev/pyexiv2
-python2-pygithub	1.20.0	Provides access to the full Github API v3	https://pypi.python.org/pypi/PyGithub
-python2-pygraphviz	1.1	PyGraphviz is a Python interface to the Graphviz graph layout and visualization package.	https://networkx.lanl.gov/pygraphviz
-python2-pylibpcap	0.6.4	Python module for the libpcap packet capture library, based on the original python libpcap module by Aaron Rhodes.	http://pylibpcap.sourceforge.net/
-python2-pynids	0.6.1	A Python wrapper for libnids.	http://jon.oberheide.org/pynids/
-python2-pypcap	1.1	Python extension module for libpcap.	http://code.google.com/p/pypcap/
-python2-pyside	1.2.1	Provides LGPL Qt bindings for Python and related tools for binding generation.	http://www.pyside.org
-python2-$_pkgname	4.2.3	SNMP library for Python	http://sourceforge.net/projects/pysnmp/
-python2-pytorctl	2013.10.16	A Python Tor controller with extensions to support path building and various constraints on node and path selection, as well as statistics gathering.	http://fscked.org/projects/torctl
-python2-pyusb	0.4.3	A native Python module written in C which provides USB access.	http://pyusb.berlios.de/
-python2-pyxml	0.8.4	A fast and simple micro-framework for small web applications.	http://www.python.org/community/sigs/current/xml-sig/
-python2-pyx	0.12.1	Python library for the creation of PostScript and PDF files	http://pyx.sourceforge.net
-python2-requests_ntlm	0.0.2.3	Allows for HTTP NTLM authentication using the requests library	http://code.google.com/p/python-ntlm
-python2-smmap	0.8.2	A pure git implementation of a sliding window memory map manager	http://pypi.python.org/pypi/smmap
-python2-texttable	0.8.1	Generate a formatted text table using ASCII characters.	https://pypi.python.org/pypi/texttable/
-python2-tldextract	1.2.2	Accurately separates the gTLD or ccTLD generic or country code top-level domain from the registered domain and subdomains of a URL	https://github.com/john-kurkowski/tldextract
-python2-tweepy	20100216	Twitter api library for python. forked but 100% compatible	http://github.com/m00n/tweepy
-python2-xdot	0.5	Interactive viewer for Graphviz dot files	https://github.com/jrfonseca/xdot.py
 python2-yara	1.7.2	A malware identification and classification tool	https://github.com/plusvic/yara
-pythonect	0.5.0	A general-purpose dataflow programming language written in Python	http://www.pythonect.org/
-python-ipcalc	1.0.0	IP subnet calculator for Python.	https://github.com/tehmaze/ipcalc/issues
-python-magic	5.14	Python bindings to allow you to access the libmagic api	http://darwinsys.com/file/
-python-urllib3	1.6	HTTP library with thread-safe connection pooling and file post support, Python 3 version	https://github.com/shazow/urllib3
 python-utidylib	0.2	Python bindings for Tidy HTML parser/cleaner.	http://utidylib.berlios.de
-python-xbee	2.1.0	Python tools for working with XBee radios	https://pypi.python.org/pypi/XBee
 radamsa	0.3	General purpose data fuzzer.	https://code.google.com/p/ouspg/wiki/Radamsa
 radare2	0.9.6	Open-source tools to disasm, debug, analyze and manipulate binary files	http://radare.org
 rainbowcrack	1.2	Password cracker based on the faster time-memory trade-off. With MySQL and Cisco PIX Algorithm patches	http://project-rainbowcrack.com/
@@ -624,7 +428,6 @@ rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reade
 rfidiot	0026925	An open source python library for exploring RFID devices.	http://rfidiot.org
 rfidtool	0.01	A opensource tool to read / write rfid tags	http://www.bindshell.net/tools/rfidtool.html
 rifiuti2	0.5.1	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	https://code.google.com/p/rifiuti2/
-rinetd	0.62	internet redirection server	http://www.boutell.com/rinetd
 ripdc	0.2	A script which maps domains related to an given ip address or domainname.	http://nullsecurity.net/tools/scanner
 rootbrute	20131208	Local root bruteforcer.	http://www.packetstormsecurity.org/
 ropeme	1.0	ROPME is a set of python scripts to generate ROP gadgets and payload.	http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/
@@ -635,212 +438,8 @@ rsmangler	1.4	rsmangler takes a wordlist and mangle it	http://www.randomstorm.co
 rtpbreak	1.3a	Detects, reconstructs and analyzes any RTP session	http://xenion.antifork.org/rtpbreak/
 rtp-flood	1.0	RTP flooder	http://www.hackingexposedvoip.com/
 rubilyn	0.0.1	64bit Mac OS-X kernel rootkit that uses no hardcoded address to hook the BSD subsystem in all OS-X Lion & below. It uses a combination of syscall hooking and DKOM to hide activity on a host.	http://nullsecurity.net/tools/backdoor.html
-ruby1.8	1.8.7_p370	An object-oriented language for quick and easy programming	http://www.ruby-lang.org/en/
-ruby1.8-rake	0.8.7	A simple ruby build program with capabilities similar to make	http://rake.rubyforge.org
-ruby1.8-sqlite3	1.3.6	A Ruby interface for the SQLite3 database engine.	http://rubygems.org/gems/sqlite3
-ruby1.9-activemodel	3.2.13	A toolkit for building modeling frameworks like Active Record and Active Resource.	http://www.rubyonrails.org
-ruby1.9-activerecord-deprecated_finders	1.0.3	This gem contains deprecated finder APIs extracted from Active Record.	https://github.com/rails/activerecord-deprecated_finders
-ruby1.9-activerecord	3.2.13	Object-relational mapper framework part of Rails.	http://www.rubyonrails.org
-ruby1.9-activesupport	3.2.13	Utility classes and extension to the standard library that were required by Rails, but found of general use.	http://www.rubyonrails.org
-ruby1.9-arel	3.0.2	Arel is a SQL AST manager for Ruby	http://github.com/rails/arel
-ruby1.9-atomic	1.1.14	An atomic reference implementation for JRuby, Rubinius, and MRI	http://github.com/headius/ruby-atomic
-ruby1.9-bcrypt-ruby	3.1.2	OpenBSDs bcrypt password hashing algorithm.	http://bcrypt-ruby.rubyforge.org
-ruby1.9-builder	3.0.4	A simple Ruby library to create XML markup and data structures	http://rubygems.org/gems/builder/
-ruby1.9-bundler	1.3.5	Manages an applications dependencies through its entire life, across many machines, systematically and repeatably.	http://gembundler.com
-ruby1.9-database_cleaner	0.9.1	Strategies for cleaning databases.  Can be used to ensure a clean state for testing.	http://github.com/bmabey/database_cleaner
-ruby1.9-diff-lcs	1.2.5	Provides a list of changes that represent the difference between two sequenced collections.	http://diff-lcs.rubyforge.org/
-ruby1.9-docile	1.1.1	Docile keeps your Ruby DSLs tame and well-behaved	http://ms-ati.github.com/docile/
-ruby1.9-factory_girl	4.2.0	factory_girl provides a framework and DSL for defining and using model instance factories.	https://github.com/thoughtbot/factory_girl
-ruby1.9-fivemat	1.2.1	Why settle for a test output format when you could have a test output fivemat?	https://github.com/tpope/fivemat
-ruby1.9-i18n	0.6.1	New wave Internationalization support for Ruby.	http://github.com/svenfuchs/i18n
-ruby1.9-json	1.7.7	JSON implementation as a Ruby extension in C	http://rubygems.org/gems/json
-ruby1.9-metasploit_data_models	0.16.7	Database code for MSF and Metasploit Pro	
-ruby1.9-mini_portile	0.5.2	Simplistic port-like solution for developers	http://github.com/luislavena/mini_portile
-ruby1.9-minitest	5.0.8	Provides a complete suite of testing facilities supporting TDD, BDD, mocking and benchmarking.	https://github.com/seattlerb/minitest
-ruby1.9-$_gemname	0.5.4	Binary-based efficient data interchange format support.	https://github.com/msgpack/msgpack-ruby
-ruby1.9-multi_json	1.0.4	A generic swappable back-end for JSON handling.	http://github.com/intridea/multi_json
-ruby1.9-network_interface	0.0.1	A cross platform gem to help get network interface information	https://github.com/rapid7/network_interface
-ruby1.9-nokogiri	1.5.9	Nokogiri 鋸 is an HTML, XML, SAX, and Reader parser	http://nokogiri.org
-ruby1.9-packetfu	1.1.9	PacketFu is a mid-level packet manipulation library.	https://github.com/todb/packetfu
-ruby1.9-pcaprub	0.11.3	libpcap bindings for ruby	http://github.com/shadowbq/pcaprub
-ruby1.9-pg	0.15.0	Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]	https://bitbucket.org/ged/ruby-pg
-ruby1.9	1.9.3_p448	An object-oriented language for quick and easy programming	http://www.ruby-lang.org/en/
-ruby1.9-rack	1.5.2	a modular Ruby webserver interface	http://rack.github.com/
-ruby1.9-rake	10.0.4	Ruby based make-like utility.	http://rake.rubyforge.org
-ruby1.9-redcarpet	2.2.2	Markdown that smells nice	http://github.com/vmg/redcarpet
-ruby1.9-robots	0.10.1	Simple robots.txt parser	http://github.com/fizx/robots
-ruby1.9-rspec-core	2.13.1	rspec-core gem	http://github.com/rspec/rspec-core
-ruby1.9-rspec-expectations	2.13.0	rspec-expectations-2.14.4	http://github.com/rspec/rspec-expectations
-ruby1.9-rspec-mocks	2.13.0	rspec-mocks-2.14.4	http://github.com/rspec/rspec-mocks
-ruby1.9-rspec	2.13.0	rspec gem 	http://github.com/rspec
-ruby1.9-shoulda-matchers	2.4.0	Making tests easy on the fingers and eyes	http://thoughtbot.com/community/
-ruby1.9-simplecov-html	0.5.3	Default HTML formatter for SimpleCov code coverage tool for ruby 1.9+	https://github.com/colszowka/simplecov-html
-ruby1.9-simplecov	0.5.4	Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites	http://github.com/colszowka/simplecov
-ruby1.9-thread_safe	0.1.3	Thread-safe collections and utilities for Ruby	http://github.com/headius/thread_safe
-ruby1.9-timecop	0.6.3	A gem providing time travel and time freezing capabilities, making it dead simple to test time-dependent code.  It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.	https://github.com/travisjeffery/timecop
-ruby1.9-tzinfo	0.3.37	A Ruby library for time zone transformations	http://tzinfo.rubyforge.org/
-ruby1.9-yard	0.8.5.2	Documentation tool for consistent and usable documentation in Ruby.	http://yardoc.org
-ruby-actionpack	3.2.11	On rails from request to response.	http://www.rubyonrails.org
-ruby-activemodel	4.0.1	A toolkit for building modeling frameworks like Active Record and Active Resource.	http://www.rubyonrails.org
-ruby-activerecord-deprecated_finders	1.0.3	This gem contains deprecated finder APIs extracted from Active Record.	https://github.com/rails/activerecord-deprecated_finders
-ruby-activerecord	4.0.1	Object-relational mapper framework part of Rails.	http://www.rubyonrails.org
-ruby-activesupport	4.0.0	Utility classes and extension to the standard library that were required by Rails, but found of general use.	http://www.rubyonrails.org
-ruby-addressable	2.3.3	URI Implementation	http://addressable.rubyforge.org/
-ruby-ansi	1.4.3	a superlative collection of ANSI escape code related libraries enabling ANSI colorization and stylization of console output	http://github.com/rubyworks/ansi
-ruby-arel	4.0.1	Arel is a SQL AST manager for Ruby	http://github.com/rails/arel
-ruby-atomic	1.1.14	An atomic reference implementation for JRuby, Rubinius, and MRI	http://github.com/headius/ruby-atomic
-ruby-bacon-bits	0.1.0	Making bacon a little tastier.	http://github.com/cldwalker/bacon-bits
-ruby-bacon	1.2.0	a small RSpec clone	http://github.com/chneukirchen/bacon
-ruby-bcrypt-ruby	3.1.2	OpenBSDs bcrypt password hashing algorithm.	http://bcrypt-ruby.rubyforge.org
-ruby-bond	0.4.3	Mission: Easy custom autocompletion for arguments, methods and beyond. Accomplished for irb and any other readline-like console environments.	http://tagaholic.me/bond/
-ruby-builder	3.0.0	A simple Ruby library to create XML markup and data structures	http://rubygems.org/gems/builder/
-ruby-bump	0.5.0	Bump your gem version file	https://github.com/gregorym/bump
-ruby-bundler	1.3.5	The best way to manage your applications dependencies	http://gembundler.com
-ruby-chars	0.2.2	A Ruby library for working with various character sets	https://github.com/postmodern/chars#readme
-ruby-coderay	1.1.0	Fast syntax highlighting for selected languages.	http://coderay.rubychan.de
-ruby-colored	1.2	>> puts this is red.red >> puts this is red with a blue background read: ugly.red_on_blue...	http://github.com/defunkt/colored
-ruby-combinatorics	0.4.3	Bringing more Combinatorics to Ruby	https://github.com/postmodern/combinatorics#readme
-ruby-crack	0.4.1	Really simple JSON and XML parsing, ripped from Merb and Rails.	http://github.com/jnunemaker/crack
-ruby-cssmin	1.0.3	Ruby library for minifying CSS.	https://github.com/rgrove/cssmin/
-ruby-curb	0.8.5	Ruby libcurl bindings	http://curb.rubyforge.org/
-ruby-daemons	1.1.9	A toolkit to create and control daemons in different ways	http://daemons.rubyforge.org
-ruby-database_cleaner	1.2.0	Strategies for cleaning databases.  Can be used to ensure a clean state for testing.	http://github.com/bmabey/database_cleaner
-ruby-data_objects	0.10.13	Provide a standard and simplified API for communicating with RDBMS from Ruby	http://github.com/datamapper/do
-ruby-data_paths	0.3.1	DataPaths is a library to manage multiple data/ directories.	https://github.com/postmodern/data_paths#readme
-ruby-diff-lcs	1.2.5	Diff::LCS computes the difference between two Enumerable sequences using the McIlroy-Hunt longest common subsequence LCS algorithm	http://diff-lcs.rubyforge.org/
-ruby-dm-aggregates	1.2.0	DataMapper plugin providing support for aggregates on collections	http://github.com/datamapper/dm-aggregates
-ruby-dm-core	1.2.1	DataMapper core library	http://github.com/datamapper/dm-core
-ruby-dm-do-adapter	1.2.0	DataObjects Adapter for DataMapper	http://github.com/datamapper/dm-sqlite-adapter
-ruby-dm-is-predefined	0.4.0	DataMapper plugin for adding predefined resources to models.	http://github.com/postmodern/dm-is-predefined
-ruby-dm-migrations	1.2.0	DataMapper plugin for writing and speccing migrations	http://github.com/datamapper/dm-migrations
-ruby-dm-serializer	1.2.2	DataMapper plugin for serializing Resources and Collections	http://datamapper.org
-ruby-dm-sqlite-adapter	1.2.0	Sqlite3 Adapter for DataMapper	http://github.com/datamapper/dm-sqlite-adapter
-ruby-dm-timestamps	1.2.0	DataMapper plugin for magical timestamps	http://github.com/datamapper/dm-timestamps
-ruby-dm-types	1.2.2	DataMapper plugin providing extra data types	http://datamapper.org
-ruby-dm-validations	1.2.0	Library for performing validations on DM models and pure Ruby object	http://github.com/datamapper/dm-validations
-ruby-docile	1.1.1	Docile keeps your Ruby DSLs tame and well-behaved	http://ms-ati.github.com/docile/
-ruby-domain_name	0.5.15	Domain Name manipulation library for Ruby	https://github.com/knu/ruby-domain_name
-ruby-do_sqlite3	0.10.13	Implements the DataObjects API for Sqlite3	http://github.com/datamapper/do
-ruby-em-websocket	0.3.8	EventMachine based WebSocket server	http://github.com/igrigorik/em-websocket
-ruby-erubis	2.7.0	Is an implementation of eRuby.	http://www.kuwata-lab.com/erubis
-ruby-ethon	0.6.2	Libcurl wrapper.	https://github.com/typhoeus/ethon
-ruby-eventmachine	1.0.3	A fast, single-threaded engine for arbitrary network communications	http://rubyeventmachine.com
-ruby-execjs	1.3.0	Run JavaScript code from Ruby.	https://github.com/sstephenson/execjs
-ruby-factory_girl	4.3.0	factory_girl provides a framework and DSL for defining and using model instance factories.	https://github.com/thoughtbot/factory_girl
-ruby-$_gemname	0.8.7	HTTP/REST API client library.	https://github.com/lostisland/faraday
-ruby-fastercsv	1.5.5	FasterCSV is CSV, but faster, smaller, and cleaner.	http://fastercsv.rubyforge.org
-ruby-ffi	1.9.3	Ruby FFI	http://wiki.github.com/ffi/ffi
-rubygems1.8	1.3.7	A package management framework for the Ruby programming language	http://docs.rubygems.org
-ruby-gscraper	0.4.0	Web-scraping interface to various Google Services.	https://github.com/postmodern/gscraper
-ruby-hexdump	0.2.3	Hexdump Strings and IO objects.	https://github.com/postmodern/hexdump#readme
-ruby-hike	1.2.1	A Ruby library for finding files in a set of paths.	http://github.com/sstephenson/hike
-ruby-hoe	3.7.2	Hoe is a rake/rubygems helper for project Rakefiles	http://www.zenspider.com/projects/hoe.html
-ruby-http_configuration	1.0.4	Gem that provides the ability to set defaults for proxies and timeouts for Net::HTTP.	http://github.com/bdurand/http_configuration
-ruby-http-cookie	1.0.2	A Ruby library to handle HTTP Cookies based on RFC 6265	https://github.com/sparklemotion/http-cookie
-ruby-http_parser	0.1.3	HTTP Parser Library	http://github.com/stormbrew/http_parser
-ruby-i18n	0.6.4	New wave Internationalization support for Ruby.	http://github.com/svenfuchs/i18n
-ruby-journey	1.0.4	Journey is a router. It routes requests.	http://github.com/tenderlove/journey
-ruby-jsmin	1.0.1	Ruby implementation of Douglas Crockfords JSMin JavaScript minifier	https://github.com/rgrove/jsmin/
-ruby-json	1.8.0	JSON implementation as a Ruby extension in C	http://rubygems.org/gems/json
-ruby-json_pure	1.8.1	JSON Implementation for Ruby	http://flori.github.com/json
-ruby-librex	0.0.68	Rex provides a variety of classes useful for security testing and exploit development	http://www.metasploit.com/
-ruby-libv8	3.16.14.3	Ruby gem binary distribution of the V8 JavaScript engine	https://github.com/cowboyd/libv8
-ruby-mechanize	2.7.2	Automates interaction with websites, handling cookies, redirects and forms	http://mechanize.rubyforge.org/
-ruby-metaclass	0.0.1	Adds a metaclass method to all Ruby objects	https://github.com/floehopper/metaclass
-ruby-metasploit_data_models	0.16.7	Database code for MSF and Metasploit Pro	
-ruby-mini_exiftool	2.3.0	This library is wrapper for the Exiftool command-line application http://www.sno.phy.queensu.ca/~phil/exiftool.	http://gitorious.org/mini_exiftool
-ruby-mini_portile	0.5.2	Simplistic port-like solution for developers	http://github.com/luislavena/mini_portile
-ruby-minitest	5.0.8	Provides a complete suite of testing facilities supporting TDD, BDD, mocking and benchmarking.	https://github.com/seattlerb/minitest
-ruby-mocha-on-bacon	0.2.2	A Mocha adapter for Bacon	https://github.com/alloy/mocha-on-bacon
-ruby-mocha	0.14.0	Mocking and stubbing library	http://gofreerange.com/mocha/docs
-ruby-msfrpc-client	1.0.1	Provides a Ruby client API to access the Rapid7 Metasploit Pro RPC service	http://www.metasploit.com/
-ruby-$_gemname	0.4.7	Binary-based efficient data interchange format support.	https://github.com/msgpack/msgpack-ruby
-ruby-multi_json	1.7.2	A generic swappable back-end for JSON handling.	http://github.com/intridea/multi_json
-ruby-$_gemname	1.1.5	A multipart form post accessory for Net::HTTP.	https://github.com/nicksieger/multipart-post
-ruby-net-http-digest_auth	1.4	An implementation of RFC 2617 - Digest Access Authentication	http://github.com/drbrain/net-http-digest_auth
-ruby-net-http-persistent	2.9	Manages persistent connections using Net::HTTP plus a speed fix for Ruby 1.8	http://docs.seattlerb.org/net-http-persistent
-ruby-net-ssh	2.7.0	Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.	https://github.com/net-ssh/net-ssh
-ruby-network_interface	0.0.1	A cross platform gem to help get network interface information	https://github.com/rapid7/network_interface
-ruby-nmap	0.1.0	A Ruby interface to Nmap.	https://github.com/sophsec/ruby-nmap#readme
-ruby-nokogiri	1.6.0	Nokogiri 鋸 is an HTML, XML, SAX, and Reader parser	http://nokogiri.org
-ruby-ntlm-http	0.1.1	Ruby/NTLM HTTP library.	http://www.mindflowsolutions.net
-ruby-object_loader	1.0.1	Loads Ruby Objects containing methods and procs from Ruby files.	https://github.com/postmodern/object_loader#readme
-ruby-open_namespace	0.4.1	Allows namespaces to load constants on-demand	https://github.com/postmodern/open_namespace
-ruby-packetfu	1.1.9	PacketFu is a mid-level packet manipulation library.	https://github.com/todb/packetfu
-ruby-paint	0.8.6	Ruby Terminal painter - no string extensions, 256 color support, effect support, and define custom shortcuts 	https://github.com/janlelis/paint
-ruby-parameters	0.4.4	Allows you to add annotated variables to your classes	https://github.com/postmodern/parameters#readme
-ruby-parseconfig	1.0.2	Config File Parser for Standard Unix/Linux Type Config Files	http://github.com/derks/ruby-parseconfig/
-ruby-pcaprub	0.11.3	libpcap bindings for ruby	http://github.com/shadowbq/pcaprub
-ruby-permutation	0.1.8	Permutation library in pure Ruby	http://flori.github.com/permutation
-ruby-pg	0.17.0	Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]	https://bitbucket.org/ged/ruby-pg
-ruby-progressbar	0.21.0	Ruby/ProgressBar is a text progress bar library for Ruby.	http://github.com/peleteiro/progressbar
-ruby-pullr	0.1.3	A Ruby library for quickly pulling down or updating any Repository.	http://github.com/postmodern/pullr
-ruby-rack-cache	1.2	HTTP Caching for Rack	http://tomayko.com/src/rack-cache
-ruby-rack	1.5.2	a modular Ruby webserver interface	http://rack.github.com/
-ruby-rack-protection	1.5.1	You should use protection!	https://github.com/rkh/rack-protection
-ruby-rack-ssl	1.3.2	Rack middleware to force SSL/TLS.	https://github.com/josh/rack-ssl
-ruby-rack-test	0.6.1	Is a small, simple testing API for Rack apps.	http://github.com/brynary/rack-test
-ruby-railties	3.2.11	Rails internals: application bootup, plugins, generators, and rake tasks.	http://www.rubyonrails.org
-ruby-rainbow	1.1.4	Rainbow is extension to rubys String class adding support for colorizing text on ANSI terminal	https://rubygems.org/gems/rainbow
-ruby-rdoc	4.0.1	RDoc produces HTML and command-line documentation for Ruby projects	http://docs.seattlerb.org/rdoc
-ruby-record	0.0.1	Record	https://github.com/rcvalle/record
-ruby-ref	1.0.4	Library that implements weak, soft, and strong references in Ruby.	https://github.com/bdurand/ref
-ruby-ripl-auto_indent	0.2.0	A ripl plugin which indents your entered Ruby code.	http://github.com/janlelis/ripl-auto_indent
-ruby-ripl-color_result	0.4.1	A ripl plugin to colorize ripl results.	http://github.com/janlelis/ripl-color_result
-ruby-ripl-multi_line	0.3.1	A ripl plugin for multi-line eval.	http://github.com/janlelis/ripl-multi_line
-ruby-ripl	0.7.0	ruby interactive print loop - A light, modular alternative to irb and a shell framework	http://github.com/cldwalker/ripl
-ruby-ripl-short_errors	0.1.0	Only show the first backtrace entry when errors are displayed.	https://github.com/janlelis/ripl-misc/blob/master/lib/ripl/short_errors.rb
-ruby-robots	0.10.1	Simple robots.txt parser	http://github.com/fizx/robots
-ruby-ronin-asm	0.2.0	A Ruby DSL for crafting Assembly programs and Shellcode.	http://ronin-ruby.github.io/
-ruby-ronin-exploits	0.3.1	Ronin Exploits is a Ruby library for Ronin that provides exploitation and payload crafting functionality	http://ronin-ruby.github.io/
-ruby-ronin-gen	1.2.0	A Ruby library for Ronin that provides various generators.	http://ronin-ruby.github.io/
-ruby-ronin-php	0.0.9	Ronin PHP is a Ruby library for Ronin that provides support for PHP related security tasks	http://ronin-ruby.github.io/
 ruby-ronin	1.5.0	A Ruby platform for exploit development and security research.	http://ronin-ruby.github.io/
-ruby-ronin-scanners	0.1.4	Ronin Scanners is a Ruby library for Ronin that provides Ruby interfaces to various third-party security scanners	http://ronin-ruby.github.io/
-ruby-ronin-sql	1.1.0	A Ruby DSL for crafting SQL Injections.	http://ronin-ruby.github.io/
 ruby-ronin-support	0.5.1	A support library for Ronin.	http://ronin-ruby.github.io/
-ruby-ronin-web	0.2.1	Ronin Web is a Ruby library for Ronin that provides support for web scraping and spidering functionality	http://ronin-ruby.github.io/
-ruby-rprogram	0.3.2	A library for creating wrappers around command-line programs.	https://github.com/postmodern/rprogram#readme
-ruby-rspec-core	2.14.7	rspec-core-2.14.7	http://github.com/rspec/rspec-core
-ruby-rspec-expectations	2.14.4	rspec-expectations-2.14.4	http://github.com/rspec/rspec-expectations
-ruby-rspec-mocks	2.14.4	rspec-mocks-2.14.4	http://github.com/rspec/rspec-mocks
-ruby-rspec	2.14.1	rspec-2.14.1	http://github.com/rspec
-ruby-ruby_indentation	0.2.0	Input: Ruby code. Output: Indentation level.	https://gist.github.com/1603460
-ruby-rubyzip	1.0.0	A ruby module for reading and writing zip files.	http://rubyzip.sourceforge.net/
-ruby-safe_yaml	0.9.7	SameYAML provides an alternative implementation of YAML.load suitable for accepting user input in Ruby applications.	http://dtao.github.com/safe_yaml/
-ruby-scandb	0.1.3	ScanDB is a library for importing and analyzing information generated by various network scanning utilities.	http://scandb.rubyforge.org/
-ruby-sdoc	0.3.20	rdoc html with javascript search index.	http://github.com/voloko/sdoc
-ruby-simplecov-html	0.5.3	Default HTML formatter for SimpleCov code coverage tool for ruby 1.9+	https://github.com/colszowka/simplecov-html
-ruby-simplecov	0.5.4	Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites	http://github.com/colszowka/simplecov
-ruby-$_gemname	0.2.0	Simply builds and verifies OAuth headers	https://github.com/laserlemon/simple_oauth
-ruby-sinatra	1.4.4	Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort. version 1.4.x	http://www.sinatrarb.com
-ruby-spider	0.4.4	A Web spidering library	http://spider.rubyforge.org/
-ruby-spidr	0.4.1	A versatile Ruby web spidering library	http://github.com/postmodern/spidr
-ruby-sprockets	2.8.2	Is a Rack-based asset packaging system that concatenates and serves JavaScript, CoffeeScript, CSS, LESS, Sass, and SCSS.	https://github.com/sstephenson/sprockets
-ruby-sqlite3	1.3.7	This module allows Ruby programs to interface with the SQLite3 database engine.	http://github.com/luislavena/sqlite3-ruby
-ruby-stringex	2.1.2	Some [hopefully] useful extensions to Rubys String class	http://github.com/rsl/stringex
-ruby-terminal-table	1.4.5	Simple, feature rich ascii table generation library	http://github.com/visionmedia/terminal-table
-ruby-test-unit	2.5.2	Ruby 1.9.x bundles minitest not Test::Unit. Test::Unit bundled in Ruby 1.8.x had not been improved but unbundled Test::Unit test-unit is improved actively. 	http://test-unit.rubyforge.org/
-ruby-therubyracer	0.12.0	Call JavaScript code and manipulate JavaScript objects from Ruby. Call Ruby code and manipulate Ruby objects from JavaScript.	https://github.com/cowboyd/therubyracer
-ruby-thin	1.6.1	A thin and fast web server	http://code.macournoyer.com/thin/
-ruby-thor	0.18.1	A scripting framework that replaces rake, sake and rubigen.	http://github.com/wycats/thor
-ruby-thread_safe	0.1.3	Thread-safe collections and utilities for Ruby	http://github.com/headius/thread_safe
-ruby-tilt	1.3.6	Generic interface to multiple Ruby template engines	http://github.com/rtomayko/tilt
-ruby-timecop	0.6.3	A gem providing time travel and time freezing capabilities, making it dead simple to test time-dependent code.  It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.	https://github.com/travisjeffery/timecop
-ruby-tins	0.8.3	Useful stuff.	http://flori.github.com/tins
-ruby-twitter	4.8.1	A Ruby interface to the Twitter API	http://sferik.github.com/twitter/
-ruby-typhoeus	0.6.7	Parallel HTTP library on top of libcurl multi.	https://github.com/typhoeus/typhoeus
-ruby-tzinfo	0.3.33	A Ruby library for time zone transformations	http://tzinfo.rubyforge.org/
-ruby-uglifier	2.3.0	Ruby wrapper for UglifyJS JavaScript compressor.	http://github.com/lautis/uglifier
-ruby-unf	0.1.3	A wrapper library to bring Unicode Normalization Form support to Ruby/JRuby	https://github.com/knu/ruby-unf
-ruby-uri-query_params	0.7.0	Access the query parameters of a URI, just like $_GET in PHP.	http://github.com/postmodern/uri-query_params
-ruby-uuidtools	2.1.4	UUID generator	http://uuidtools.rubyforge.org/
-ruby-webmock	1.16.1	Library for stubbing HTTP requests in Ruby.	http://github.com/bblimke/webmock
-ruby-webrobots	0.1.1	A Ruby library to help write robots.txt compliant web robots	https://github.com/knu/webrobots
-ruby-wirb	1.0.2	Wavy IRB: Colorizes irb results.	https://github.com/janlelis/wirb
-ruby-yard	0.8.7.3	Documentation tool for consistent and usable documentation in Ruby.	http://yardoc.org
-ruby-yasm	0.0.11	A Ruby interface to YASM.	https://github.com/sophsec/ruby-yasm#readme
-ruby-zip	2.0.2	zip is a Ruby library for reading and writing Zip files	http://github.com/postmodern/rubyzip2
 rww-attack	0.9.2	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Servers Remote Web Workplace portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
 safecopy	1.7	A disk data recovery tool to extract data from damaged media	http://safecopy.sourceforge.net/
 sakis3g	0.2.0e	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
@@ -860,7 +459,6 @@ set	5.3.4	Social-engineer toolkit. Aimed at penetration testing around Social-En
 sfuzz	0.7.0	Simple Fuzzer is a simple fuzzer	http://aconole.brad-x.com/programs/sfuzz.html
 shellcodecs	0.1	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
 shellnoob	2.0.0.0.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
-shiboken	1.2.1	Python bindings generator that uses API Extractor and outputs CPython code.	http://www.pyside.org
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
 simple-ducky	1.1.1	A payload generator	https://code.google.com/p/simple-ducky-payload-generator
 sinfp	1.21	A full operating system stack fingerprinting suite.	http://www.networecon.com/tools/sinfp/
@@ -873,7 +471,6 @@ sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
 skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
 skyjack	6.079851f	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control	https://github.com/samyk/skyjack
 slowhttptest	1.5	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
-slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service DoS attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
 smali	1.4.1	An assembler/disassembler for Androids dex format	http://code.google.com/p/smali/
 smbbf	0.9.1	SMB password bruteforcer.	http://packetstormsecurity.com/files/25381/smbbf-0.9.1.tar.gz.html
 smbrelay	3	SMB / HTTP to SMB replay attack toolkit.	http://www.tarasco.org/security/smbrelay/
@@ -886,7 +483,6 @@ sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriou
 snmpcheck	1.8	A free open source utility to get information via SNMP protocols.	http://www.nothink.org/perl/snmpcheck/
 snmpenum	1.7	snmp enumerator	http://www.filip.waeytens.easynet.be/
 snmpscan	0.1	A free, multi-processes SNMP scanner	http://www.nothink.org/perl/snmpscan/index.php
-snort	2.9.5.6	A lightweight network intrusion detection system.	http://www.snort.org
 snscan	1.05	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
 spade	114	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
 spectools	2010_04_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
@@ -894,7 +490,7 @@ spiderfoot	2.0.5	The Open Source Footprinting Tool	http://spiderfoot.net
 spiderpig-pdffuzzer	0.1	A javascript pdf fuzzer	https://code.google.com/p/spiderpig-pdffuzzer/
 spike	2.9	IMMUNITYsecs fuzzer creation kit in C	http://www.immunitysec.com/resources-freesoftware.shtml
 spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	http://www.immunitysec.com/resources-freesoftware.shtml
-sploitctl	0.8	Fetch, install and search exploit archives from exploit sites.	https://github.com/BlackArch/sploitctl
+sploitctl	0.9	Fetch, install and search exploit archives from exploit sites like exploit-db and packetstorm.	https://github.com/BlackArch/sploitctl
 sploitego	1.0	Maltego Penetration Testing Transforms	https://github.com/allfro/sploitego
 spooftooph	0.5	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	http://www.hackfromacave.com/projects/spooftooph.html
 sqid	0.3	A SQL injection digger.	http://sqid.rubyforge.org/
@@ -904,11 +500,9 @@ sqlninja	0.2.5	A tool targeted to exploit SQL Injection vulnerabilities on a web
 sqlpat	1.0.1	This tool should be used to audit the strength of Microsoft SQL Server passwords offline.	http://www.cqure.net/wp/sqlpat/
 sqlping	3	SQL Server scanning tool that also checks for weak passwords using wordlists.	http://www.sqlsecurity.com/downloads
 sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	http://sqlsus.sourceforge.net/
-ssdeep	2.9	A program for computing context triggered piecewise hashes	http://ssdeep.sourceforge.net/
 sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id
 ssh-privkey-crack	0.3	A SSH private key cracker	https://code.google.com/p/lusas/
 sshtrix	0.0.2	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
-sshuttle-git	sshuttle.0.61.r4.g9ce2fa0	Transparent proxy server that works as a poor mans VPN. Forwards all TCP packets over ssh and even DNS requests when using --dns option. Doesnt require admin privileges on the server side.	https://github.com/apenwarr/sshuttle
 sslcat	latest	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
 sslcaudit	1.1	Utility to perform security audits of SSL/TLS clients	https://github.com/grwl/sslcaudit
 ssldump	0.9b3	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
@@ -918,14 +512,12 @@ sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generat
 sslstrip	0.9	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links	http://www.thoughtcrime.org/software/sslstrip
 sslyze	0.6	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations	https://github.com/iSECPartners/sslyze
 statsprocessor	0.082	A high-performance word-generator based on per-position Markov-attack	http://hashcat.net/wiki/doku.php?id
-stomper	0.2.4	A transport neutral client implementation of the STOMP protocol.	http://code.google.com/p/stomper/
 stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
 subdomainer	1.2	A tool designed for obtaining subdomain names from public sources.	http://www.edge-security.com/subdomainer.php
 subterfuge	5.0	Automated Man-in-the-Middle Attack Framework	http://kinozoa.com
 sucrack	1.2.3	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	http://labs.portcullis.co.uk/application/sucrack
 sulley	1.0.b139d7c	A pure-python fully automated and unattended fuzzing framework	https://github.com/OpenRCE/sulley/
 superscan	4	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.com/us/resources/proddesc/superscan.htm
-suricata	1.4.6	An Open Source Next Generation Intrusion Detection and Prevention Engine	http://openinfosecfoundation.org/index.php/download-suricata
 swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
 synscan	5.02	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
 sysinternals-suite	20131208	Sysinternals tools suite	http://sysinternals.com
@@ -951,23 +543,17 @@ tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a 
 tnscmd	1.3	a lame tool to prod the oracle tnslsnr process 1521/tcp	http://www.jammed.com/~jwa/hacks/security/tnscmd/
 tor-autocircuit	0.2	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
 tpcat	latest	TPCAT is based upon pcapdiff by the EFF. TPCAT will analyze two packet captures taken on each side of the firewall as an example and report any packets that were seen on the source capture but didn’t make it to the dest.	http://sourceforge.net/projects/tpcat/
-trid-defs	2013.09.29	Filesignature database for trid	http://mark0.net/soft-trid-e.html
-trid	2.11	An utility designed to identify file types from their binary signatures	http://mark0.net/soft-trid-e.html
-trinity	1.1.923.gb5abbf0	A Linux System call fuzzer	http://codemonkey.org.uk/projects/trinity/
 trixd00r	0.0.1	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	http://nullsecurity.net/tools/backdoor.html
 truecrack	35	Password cracking for truecryptc volumes.	http://code.google.com/p/truecrack/
 tsh	0.6	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q
-tsh-sctp	r2.850a2da	An open-source UNIX backdoor	https://github.com/infodox/tsh-sctp
 tuxcut	5.0	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
 twofi	1.0	Twitter Words of Interest	http://www.digininja.org/projects/twofi.php
 u3-pwn	2.0	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
-u3-tool	0.3	Tool for controlling USB flash devices that confirm to the U3 specifications	http://u3-tool.sourceforge.net/
 uatester	1.06	User Agent String Tester	http://code.google.com/p/ua-tester/
 ubertooth	2012.10.R1	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
 udis86	1.7.2	A minimalistic disassembler library	http://udis86.sourceforge.net/
 udptunnel	19	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
 ufo-wardriving	4	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
-umit	1.0	A powerful nmap frontend.	http://www.umitproject.org/
 unicornscan	0.4.7	A new information gathering and correlation engine.	http://www.unicornscan.org/
 uniofuzz	20131208	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
 uniscan	6.2	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
@@ -994,7 +580,6 @@ vulscan	2.0	A collection of NSE scripts to turn Nmap into a vuln scanner	http://
 w3af	1.5	Web Application Attack and Audit Framework	http://w3af.sourceforge.net/
 waffit	30	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
 wapiti	2.3.0	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	http://wapiti.sourceforge.net/
-wavemon	0.7.5	Ncurses-based monitoring application for wireless network devices	http://eden-feed.erg.abdn.ac.uk/wavemon/
 webacoo	0.2.3	Web Backdoor Cookie Script-Kit	https://bechtsoudis.com/webacoo/
 webenum	0.1	Tool to enumerate http responses using dynamically generated queries and more. Useful for penetration tests against web servers.	http://code.google.com/p/webenum/
 webhandler	0.8.5	A handler for PHP system functions & also an alternative netcat handler.	https://github.com/lnxg33k/webhandler
@@ -1029,7 +614,6 @@ xprobe2	0.3	An active OS fingerprinting tool	http://sourceforge.net/apps/mediawi
 x-scan	3.3	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
 xspy	1.0c	A utility for monitoring keypresses on remote X servers	http://www.freshports.org/security/xspy/
 xsser	1.6	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	http://xsser.sourceforge.net/
-xssless	r24.59732fb	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
 xsss	0.40b	xsss is a brute force cross site scripting scanner	http://www.sven.de/xsss/
 yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
