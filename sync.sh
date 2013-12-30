@@ -1,7 +1,7 @@
 #!/bin/sh
 
 site=blackarch.org
-rdir=/var/www/blackarch.org
+rdir=/nginx/var/www
 
 cd "`dirname "$0"`"
 
