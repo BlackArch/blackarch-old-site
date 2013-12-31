@@ -22,7 +22,7 @@ cat <<EOF
 <td>${pkgname}</td>
 <td>${pkgver}</td>
 <td>${pkgdesc}</td>
-<td><a href=\"${url}\">${url}</a></td>
+<td><a href="${url}">${url}</a></td>
 </tr>
 EOF
 done < data/tools
