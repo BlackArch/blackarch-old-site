@@ -10,6 +10,6 @@ trap "kill $SSH_AGENT_PID" EXIT
 ssh-add
 
 # Delete manually or something.
-rsync --chmod a+rX,ug+w -avz ./ "$site:/$rdir" \
-  --exclude=.git --exclude=git --exclude=common --exclude=generators
+rsync --rsh="ssh -A -l ${USER}" --chmod "a+rX,ug+w" -avz ./ "$site:/$rdir" \
+  --exclude={.git,git,common,generators}
 #ssh "$site" '/var/www/blackarch.org/fixperms.sh'
