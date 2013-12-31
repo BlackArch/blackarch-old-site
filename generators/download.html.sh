@@ -29,24 +29,24 @@ USB stick using a utility like `dd`.
 <br /><br />
 <b>DVD</b>
 <br />
-<a href="iso/blackarchlinux-wm-dvd-2014.XX.XX-dual.iso">
+<a href="blackarch/iso/blackarchlinux-wm-dvd-2014.XX.XX-dual.iso">
 blackarchlinux-wm-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 3.9 GB
 <br />
-<a href="iso/blackarchlinux-kde-dvd-2014.XX.XX-dual.iso">
-blackarchlinux-kde-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 3.9 GB
+<a href="blackarch/iso/blackarchlinux-kde-dvd-2014.XX.XX-dual.iso">
+blackarchlinux-kde-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 4.X GB
 <br />
-<a href="iso/blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso">
-blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 3.9 GB
+<a href="blackarch/iso/blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso">
+blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 4.X GB
 <br /><br />
 <b>CD</b>
 <br />
-<a href="iso/blackarchlinux-wm-cd-2014.XX.XX-dual.iso">
+<a href="blackarch/iso/blackarchlinux-wm-cd-2014.XX.XX-dual.iso">
 blackarchlinux-wm-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
 <br />
-<a href="iso/blackarchlinux-kde-cd-2014.XX.XX-dual.iso">
+<a href="blackarch/iso/blackarchlinux-kde-cd-2014.XX.XX-dual.iso">
 blackarchlinux-kde-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
 <br />
-<a href="iso/blackarchlinux-gnome-cd-2014.XX.XX-dual.iso">
+<a href="blackarch/iso/blackarchlinux-gnome-cd-2014.XX.XX-dual.iso">
 blackarchlinux-gnome-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
 <br /><br />
 <h3>Mirror Sites</h3>
