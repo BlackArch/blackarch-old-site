@@ -27,6 +27,28 @@ The following list contains official BlackArch Live-ISO images. The images can
 be burned to a CD/DVD, mounted as an ISO file, or be directly written to a
 USB stick using a utility like `dd`.
 <br /><br />
+<b>DVD</b>
+<br />
+<a href="iso/blackarchlinux-wm-dvd-2014.XX.XX-dual.iso">
+blackarchlinux-wm-dvd-2014.XX.XX-dual.iso</a>
+<br />
+<a href="iso/blackarchlinux-kde-dvd-2014.XX.XX-dual.iso">
+blackarchlinux-kde-dvd-2014.XX.XX-dual.iso</a>
+<br />
+<a href="iso/blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso">
+blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso</a>
+<br /><br />
+<b>CD</b>
+<br />
+<a href="iso/blackarchlinux-wm-cd-2014.XX.XX-dual.iso">
+blackarchlinux-wm-cd-2014.XX.XX-dual.iso</a>
+<br />
+<a href="iso/blackarchlinux-kde-cd-2014.XX.XX-dual.iso">
+blackarchlinux-kde-cd-2014.XX.XX-dual.iso</a>
+<br />
+<a href="iso/blackarchlinux-gnome-cd-2014.XX.XX-dual.iso">
+blackarchlinux-gnome-cd-2014.XX.XX-dual.iso</a>
+<br /><br />
 <h3>Mirror Sites</h3>
 <hr>
 The following list contains official BlackArch Linux mirror sites.

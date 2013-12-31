@@ -2,6 +2,6 @@
 
 cd "`dirname "$0"`"
 
-chown website:website -R .
+chown www-data:www-data -R .
 chmod -R a+rX .
 chmod -R ug+w .
