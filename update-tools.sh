@@ -1,3 +1,7 @@
+get_field() {
+  grep "^${1}=" ${f} | tr -d '()' | cut -d '=' -f 2 | sed "s/^['\"]//;s/['\"]$//"
+}
+
 update_tools() {
   echo "[*] updating data/tools"
 
@@ -5,14 +9,10 @@ update_tools() {
 
   grep -l 'groups=(' git/blackarch/packages/*/PKGBUILD |
   while read f ; do
-    pkgname="`grep '^pkgname=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
-    tr -d '"'`"
-    pkgver="`grep '^pkgver=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
-    tr -d '"'`"
-    pkgdesc="`grep '^pkgdesc=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
-    tr -d '"'`"
-    url="`grep '^url=' ${f} | tr -d '()' | cut -d '=' -f 2 | tr -d "'" |
-    tr -d '"'`"
+    pkgname=`get_field pkgname`
+    pkgver=`get_field pkgver`
+    pkgdesc=`get_field pkgdesc`
+    url=`get_field url`
 
     printf '%s\t%s\t%s\t%s\n' "${pkgname}" "${pkgver}" "${pkgdesc}" "${url}" >> data/tools
   done
