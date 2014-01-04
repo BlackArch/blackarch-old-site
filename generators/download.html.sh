@@ -10,6 +10,7 @@ cat <<\EOF
 <p>Append these lines to <code>/etc/pacman.conf</code> to add the BlackArch repository:</p>
 <p id="cfont_tab">[blackarch]</p>
 <p id="cfont_tab">Server = &lt;mirror_site&gt;</p>
+<p id="cfont_tab">SigLevel = Optional TrustAll</p>
 Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
 Please use one of our official mirrors. See below.
 <br /><br />
