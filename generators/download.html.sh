@@ -3,66 +3,39 @@ cat common/header
 
 cat <<\EOF
 <div id="dl_body">
-<h3>Install on Existing Arch Machines</h3>
+<h3>Setup</h3>
 <hr>
-EOF
-
-# This is mostly copy and pasted from the README.
-markdown <<\EOF
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository.
-
-<br>
-Setup
------------
-
-Add this to
-[`/etc/pacman.conf`](https://www.archlinux.org/pacman/pacman.conf.5.html):
-
-```
-[blackarch]
-Server = http://www.blackarch.org/blackarch/$repo/os/$arch
-```
-
-For package signing, pull in and sign the package signing keys:
-
-```
- # pacman-key -r 4345771566D76038C7FEB43863EC0ADBEA87E4E3
- # pacman-key --lsign-key 4345771566D76038C7FEB43863EC0ADBEA87E4E3
-```
-
-Now run
-
- ```
- # pacman -Syyu
- ```
-
-<br>
-Installing packages
--------------------
-
+<br /><br />
+Append these lines to <code>/etc/pacman.conf</code> to add the BlackArch repository:
+<p id="cfont_tab">[blackarch]</p>
+<p id="cfont_tab">Server = &lt;mirror_site&gt;</p>
+<p id="cfont_tab">SigLevel = Optional TrustAll</p>
+Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
+Please use one of our official mirrors. See below.
+<br /><br />
+<p>For package signing, run the following to pull in and sign the package signing keys:</p>
+<p id="cfont_tab">$ sudo pacman-key -r 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
+<p id="cfont_tab">$ sudo pacman-key --lsign-key 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
+<br/>
+Now run:
+<p id="cfont_Tab">$ sudo pacman -Syyu</p>
+Please ensure that all packages are signed with our valid keys, if they are not
+then you are not installing our packages! See
+<a href="about.html">HERE</a> for the valid keys.
+<hr>
+<h3>Installing packages</h3>
 You may now install tools from the blackarch repository. To list all of the available tools, run
-
- ```
- # pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u
- ```
-
+<p id="cfont_tab">$ sudo pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u</p>
+<br />
 To install all of the tools, run
-
- ```
- # pacman -S blackarch
- ```
-
+<p id="cfont_tab">$ sudo pacman -S blackarch</p>
+<br />
 To install a category of tools, run
-
- ```
- # pacman -S blackarch-<category>
- ```
-
+<p id="cfont_tab">$ sudo pacman -S blackarch-&lt;category&gt;</p>
+<br />
 To see the blackarch categories, run
-
- ```
- # pacman -Sg | grep blackarch
- ```
+<p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
 EOF
 
 cat <<\EOF
