@@ -7,11 +7,12 @@ cat <<\EOF
   <hr>
   You can find official BlackArch-related discussion on the following Internet
   Relay Chat (IRC) channel:<br />
-  <a href="irc://irc.freenode.net/blackarch">#blackarch on Freenode</a>
+  <a href="irc://irc.freenode.net/blackarch">#blackarch</a> on freenode IRC servers.</a>
 	<br /><br />
 
 	<h3>Email</h3>
   <hr>
+	To contact us via e-mail, use:
 	<a href="mailto:blackarchlinux@gmail.com">blackarchlinux@gmail.com</a><br>
 	You may also email individual team members through our <a href="about.html">about page</a>.
 	<br /><br />
