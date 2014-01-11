@@ -3,6 +3,18 @@ cat common/header
 
 cat <<\EOF
 <div id="dl_body">
+<h3>Mirror Sites</h3>
+<hr>
+The following list contains official BlackArch Linux mirror sites.
+<br /><br />
+<img src="images/flags/us.png" /> <b>United States</b>
+<br />
+http://www.blackarch.org/blackarch/$repo/os/$arch
+<br /><br />
+<img src="images/flags/de.png" /> <b>Germany</b>
+<br />
+http://blackarch.nullsecurity.net/blackarch/$repo/os/$arch
+<br /><br />
 <h3>Setup</h3>
 <hr>
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository.
@@ -14,7 +26,7 @@ to add the BlackArch repository:
 <p id="cfont_tab">Server = &lt;mirror_site&gt;</p>
 <p id="cfont_tab">SigLevel = Optional TrustAll</p>
 Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
-Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
+Please use one of our official mirrors. See below.
 <br /><br />
 For package signing, run the following to pull in and sign the package signing keys:
 <p id="cfont_tab">$ sudo pacman-key -r 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
@@ -25,9 +37,7 @@ Now run:
 <br />
 <h3>Installing packages</h3>
 <hr>
-You may now install tools from the blackarch repository.
-<br /><br />
-To list all of the available tools, run
+You may now install tools from the blackarch repository. To list all of the available tools, run
 <p id="cfont_tab">$ sudo pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u</p>
 <br />
 To install all of the tools, run
@@ -38,6 +48,19 @@ To install a category of tools, run
 <br />
 To see the blackarch categories, run
 <p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
+<br />
+<h3>BlackArch Install From ArchLinux / BlackArch Live / BlackArch NetInstall</h3>
+<hr>
+Install blackarch-install-scripts package
+<p id="cfont_tab"># pacman -S blackarch-install-scripts </p>
+<br />
+Run
+<p id="cfont_tab"># blackarch-install</p>
+<br /><br />
+<h3> More information can be found in <a href="https://github.com/BlackArch" target=_blank>README</a> </h3>
+
+</div>
+
 EOF
 
 cat <<\EOF
@@ -73,18 +96,6 @@ blackarchlinux-netinst-2014.01.11-x86_64.iso</a> - SHA1: XX - Size: 6XX MB
 blackarchlinux-netinst-2014.01.11-i686.iso</a> - SHA1: XX - Size: 6XX MB
 <br /><br />
 -->
-<a name="mirrors"><h3>Mirror Sites</h3></a>
-<hr>
-The following list contains official BlackArch Linux mirror sites.
-<br /><br />
-<img src="images/flags/us.png" /> <b>United States</b>
-<br />
-http://www.blackarch.org/blackarch/$repo/os/$arch
-<br /><br />
-<img src="images/flags/de.png" /> <b>Germany</b>
-<br />
-http://blackarch.nullsecurity.net/blackarch/$repo/os/$arch
-</div>
 EOF
 
 cat common/footer
