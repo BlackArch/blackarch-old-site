@@ -77,7 +77,7 @@ blackarchlinux-netinst-2014.01.11-i686.iso</a> - SHA1: XX - Size: 6XX MB
 <hr>
 The following list contains official BlackArch Linux mirror sites.
 <br /><br />
-<img src="images/flags/us.png" /> <b>United States</b>
+<img src="images/flags/de.png" /> <b>Germany</b>
 <br />
 http://www.blackarch.org/blackarch/$repo/os/$arch
 <br /><br />
