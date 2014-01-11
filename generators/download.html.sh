@@ -7,24 +7,28 @@ cat <<\EOF
 <hr>
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository.
 <br /><br />
-Append these lines to <code>/etc/pacman.conf</code> to add the BlackArch repository:
+Append the following lines to
+<a href="https://www.archlinux.org/pacman/pacman.conf.5.html" target="_blank">/etc/pacman.conf</a>
+to add the BlackArch repository:
 <p id="cfont_tab">[blackarch]</p>
 <p id="cfont_tab">Server = &lt;mirror_site&gt;</p>
 <p id="cfont_tab">SigLevel = Optional TrustAll</p>
 Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
 Please use one of our official mirrors. See below.
 <br /><br />
-<p>For package signing, run the following to pull in and sign the package signing keys:</p>
+For package signing, run the following to pull in and sign the package signing keys:
 <p id="cfont_tab">$ sudo pacman-key -r 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
 <p id="cfont_tab">$ sudo pacman-key --lsign-key 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
-<br/>
+<br />
 Now run:
-<p id="cfont_Tab">$ sudo pacman -Syyu</p>
+<p id="cfont_tab">$ sudo pacman -Syyu</p>
+<br />
 Please ensure that all packages are signed with our valid keys, if they are not
 then you are not installing our packages! See
 <a href="about.html">HERE</a> for the valid keys.
-<hr>
+<br /><br />
 <h3>Installing packages</h3>
+<hr>
 You may now install tools from the blackarch repository. To list all of the available tools, run
 <p id="cfont_tab">$ sudo pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u</p>
 <br />
@@ -39,7 +43,7 @@ To see the blackarch categories, run
 EOF
 
 cat <<\EOF
-<br/><br/>
+<br/>
 <!-- Uncomment once the ISO is ready -->
 <!--
 <h3>Download Live ISOs</h3>
