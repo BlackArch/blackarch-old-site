@@ -33,8 +33,8 @@ USB stick using a utility like `dd`.
 <br /><br />
 <b>DVD</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-wm-dvd-2014.XX.XX-dual.iso">
-blackarchlinux-wm-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 3.9 GB
+<a href="blackarch/iso/blackarchlinux-wm-dvd-2014.01.10-dual.iso">
+blackarchlinux-wm-dvd-2014.01.10-dual.iso</a> - SHA1: 7a5d1695e0251f23c9da1e789b62cde36af4e839 - Size: 4.1 GB
 <br />
 <a href="blackarch/iso/blackarchlinux-kde-dvd-2014.XX.XX-dual.iso">
 blackarchlinux-kde-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 4.X GB
