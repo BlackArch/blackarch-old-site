@@ -5,11 +5,68 @@ cat <<\EOF
 <div id="dl_body">
 <h3>Install on Existing Arch Machines</h3>
 <hr>
-<p>BlackArch can act as an unofficial user repository. See <a
-		href="https://github.com/BlackArch/blackarch/blob/master/docs/README.md#setup">the README</a>
-	on Github for instructions on installing BlackArch in this manner.</p>
-	<br/><br/>
+EOF
 
+# This is mostly copy and pasted from the README.
+markdown <<\EOF
+BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository.
+
+<br>
+Setup
+-----------
+
+Add this to
+[`/etc/pacman.conf`](https://www.archlinux.org/pacman/pacman.conf.5.html):
+
+```
+[blackarch]
+Server = http://www.blackarch.org/blackarch/$repo/os/$arch
+```
+
+For package signing, pull in and sign the package signing keys:
+
+```
+ # pacman-key -r 4345771566D76038C7FEB43863EC0ADBEA87E4E3
+ # pacman-key --lsign-key 4345771566D76038C7FEB43863EC0ADBEA87E4E3
+```
+
+Now run
+
+ ```
+ # pacman -Syyu
+ ```
+
+<br>
+Installing packages
+-------------------
+
+You may now install tools from the blackarch repository. To list all of the available tools, run
+
+ ```
+ # pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u
+ ```
+
+To install all of the tools, run
+
+ ```
+ # pacman -S blackarch
+ ```
+
+To install a category of tools, run
+
+ ```
+ # pacman -S blackarch-<category>
+ ```
+
+To see the blackarch categories, run
+
+ ```
+ # pacman -Sg | grep blackarch
+ ```
+EOF
+
+cat <<\EOF
+<br/><br/>
 <!-- Uncomment once the ISO is ready -->
 <!--
 <h3>Download Live ISOs</h3>
