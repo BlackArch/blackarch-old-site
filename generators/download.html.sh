@@ -80,10 +80,12 @@ The following list contains official BlackArch Linux mirror sites.
 <img src="images/flags/de.png" /> <b>Germany</b>
 <br />
 http://www.blackarch.org/blackarch/$repo/os/$arch
-<br /><br />
-<img src="images/flags/de.png" /> <b>Germany</b>
 <br />
 http://blackarch.nullsecurity.net/blackarch/$repo/os/$arch
+<br /><br />
+<img src="images/flags/fr.png" /> <b>France</b>
+<br />
+http://blackarch.pi3rrot.net/blackarch/$repo/os/$arch
 </div>
 EOF
 
