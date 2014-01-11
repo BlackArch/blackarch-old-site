@@ -25,7 +25,7 @@ cat <<\EOF
 
   <h3>Donations</h3>
   <hr>
-  To donate to the project, see our <a href="donate">donations page</a>
+  To donate to the project, see our <a href="donate.html">donations page</a>
 </div>
 EOF
 
