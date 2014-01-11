@@ -23,10 +23,6 @@ For package signing, run the following to pull in and sign the package signing k
 Now run:
 <p id="cfont_tab">$ sudo pacman -Syyu</p>
 <br />
-Please ensure that all packages are signed with our valid keys, if they are not
-then you are not installing our packages! See
-<a href="about.html">HERE</a> for the valid keys.
-<br /><br />
 <h3>Installing packages</h3>
 <hr>
 You may now install tools from the blackarch repository. To list all of the available tools, run
