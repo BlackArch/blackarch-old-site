@@ -71,31 +71,31 @@ cat <<\EOF
 <!--
 <h3>Download Live ISOs</h3>
 <hr>
-The following list contains official BlackArch Live-ISO images. The images can
-be burned to a CD/DVD, mounted as an ISO file, or be directly written to a
-USB stick using a utility like `dd`.
+The following list contains official BlackArch live-ISO and netinstall-ISO images.
+The images can be burned to a DVD, mounted as an ISO file, or be directly written
+to a USB stick using a utility like `dd`.
 <br /><br />
-<b>DVD</b>
+<b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-wm-dvd-2014.01.10-dual.iso">
-blackarchlinux-wm-dvd-2014.01.10-dual.iso</a> - SHA1: 7a5d1695e0251f23c9da1e789b62cde36af4e839 - Size: 4.1 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.11-dual.iso">
+blackarchlinux-live-2014.01.11-dual.iso</a> - SHA1: XX - Size: 4.1 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-kde-dvd-2014.XX.XX-dual.iso">
-blackarchlinux-kde-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 4.X GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.11-x86_64.iso">
+blackarchlinux-live-2014.01.11-dual.iso</a> - SHA1: XX - Size: 2.X GB
 <br />
-<a href="blackarch/iso/blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso">
-blackarchlinux-gnome-dvd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 4.X GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.11-i686.iso">
+blackarchlinux-2014.01.11-i686.iso</a> - SHA1: XX - Size: 2.X GB
 <br /><br />
-<b>CD</b>
+<b>Netinstall-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-wm-cd-2014.XX.XX-dual.iso">
-blackarchlinux-wm-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-dual.iso">
+blackarchlinux-netinst-2014.01.11-dual.iso</a> - SHA1: XX - Size: 6XX MB
 <br />
-<a href="blackarch/iso/blackarchlinux-kde-cd-2014.XX.XX-dual.iso">
-blackarchlinux-kde-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-x86_64.iso">
+blackarchlinux-netinst-2014.01.11-x86_64.iso</a> - SHA1: XX - Size: 6XX MB
 <br />
-<a href="blackarch/iso/blackarchlinux-gnome-cd-2014.XX.XX-dual.iso">
-blackarchlinux-gnome-cd-2014.XX.XX-dual.iso</a> - SHA1: XX - Size: 6XX MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-i686.iso">
+blackarchlinux-netinst-2014.01.11-i686.iso</a> - SHA1: XX - Size: 6XX MB
 <br /><br />
 -->
 <h3>Mirror Sites</h3>

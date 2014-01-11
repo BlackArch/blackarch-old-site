@@ -49,7 +49,7 @@ cat <<EOF
 			<td>Developer, Committer</td>
 		</tr>
 		<tr>
-			<td>Javier F.</td>
+			<td>Javier</td>
 			<td>nrz</td>
 			<td>nrz[at]nullsecurity.net</td>
 			<td><a href="gpg/nrz.asc">0x7C03DD86</a></td>
