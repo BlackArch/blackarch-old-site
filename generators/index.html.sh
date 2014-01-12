@@ -4,7 +4,7 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
-        <h3><a href="">Live ISOs, Status, and Futures</a><d>28 Dec 2013</d></h3>
+        <h3><a href="">Live ISOs, Status, and Futures</a><d>12 Jan 2014</d></h3>
         <hr>
         <p>BlackArch Linux is an Arch-based GNU/Linux distribution for pentesters and
             security researchers. The BlackArch package repository is compatible with
