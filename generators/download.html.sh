@@ -59,7 +59,7 @@ blackarchlinux-live-2014.01.12-dual.iso</a>
 SHA1: 31f014c720b7c51a7ce57f6fffb1b71c3e016ae6 - Size: 2.2 GB
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.12-i686.iso">
-blackarchlinux-2014.01.12-i686.iso</a>
+blackarchlinux-live-2014.01.12-i686.iso</a>
 - SHA1: cf9952951a61d0096f95fadc86a17a3279237168 - Size: 2.0 GB
 <br /><br />
 <b>Netinstall-ISO</b>
