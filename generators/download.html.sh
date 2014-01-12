@@ -48,6 +48,8 @@ The following list contains official BlackArch live-ISO and netinstall-ISO image
 The images can be burned to a DVD, mounted as an ISO file, or be directly written
 to a USB stick using a utility like `dd`.
 <br /><br />
+Default login for all ISOs: <b>root:blackarch</b>
+<br /><br />
 <b>Live-ISO</b>
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.12-dual.iso">
