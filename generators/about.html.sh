@@ -93,9 +93,9 @@ cat <<EOF
 			<td>Committer</td>
 		</tr>
 		<tr>
-			<td>James Roe</td>
+			<td></td>
 			<td>t60r</td>
-			<td>james.roe.jr[at]gmail.com</td>
+			<td>merkinmaker[at]gmail.com</td>
 			<!--<td><a href="gpg/hoyt.asc">0x13714D33</a></td>-->
 			<!--<td>D7A7 F999 851D 0AF4 47D1  C292 0A9A 8EC5 7C03 DD86</td>-->
 			<td></td>
