@@ -53,24 +53,30 @@ to a USB stick using a utility like `dd`.
 <b>Live-ISO</b>
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.11-dual.iso">
-blackarchlinux-live-2014.01.11-dual.iso</a> - SHA1: XX - Size: 4.1 GB
+blackarchlinux-live-2014.01.12-dual.iso</a> -
+SHA1: b4e51be400aab944c7eeaa45f021b28a4efeff3d - Size: 4.1 GB
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.11-x86_64.iso">
-blackarchlinux-live-2014.01.11-dual.iso</a> - SHA1: XX - Size: 2.X GB
+blackarchlinux-live-2014.01.12-dual.iso</a>
+SHA1: 31f014c720b7c51a7ce57f6fffb1b71c3e016ae6 - Size: 2.2 GB
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.11-i686.iso">
-blackarchlinux-2014.01.11-i686.iso</a> - SHA1: XX - Size: 2.X GB
+blackarchlinux-2014.01.12-i686.iso</a>
+- SHA1: cf9952951a61d0096f95fadc86a17a3279237168 - Size: 2.0 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
 <a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-dual.iso">
-blackarchlinux-netinst-2014.01.11-dual.iso</a> - SHA1: XX - Size: 6XX MB
+blackarchlinux-netinst-2014.01.11-dual.iso</a>
+- SHA1: c25c15397525148c18fa0ef295f063845025a623 - Size: 620 MB
 <br />
 <a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-x86_64.iso">
-blackarchlinux-netinst-2014.01.11-x86_64.iso</a> - SHA1: XX - Size: 6XX MB
+blackarchlinux-netinst-2014.01.11-x86_64.iso</a>
+- SHA1: a0666b4531045c1516ceb19b52993deba4dd260e - Size: 330 MB
 <br />
 <a href="blackarch/iso/blackarchlinux-netinst-2014.01.11-i686.iso">
-blackarchlinux-netinst-2014.01.11-i686.iso</a> - SHA1: XX - Size: 6XX MB
+blackarchlinux-netinst-2014.01.11-i686.iso</a>
+- SHA1: 6f287c2863fabc8d0bf7cf7807a256335a6f5cb3 - Size: 291 MB
 <br /><br />
 -->
 <a name="mirrors"><h3>Mirror Sites</h3></a>
