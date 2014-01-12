@@ -42,8 +42,6 @@ EOF
 
 cat <<\EOF
 <br/>
-<!-- Uncomment once the ISO is ready -->
-<!--
 <h3>BlackArch Linux ISOs</h3>
 <hr>
 The following list contains official BlackArch live-ISO and netinstall-ISO images.
@@ -78,7 +76,6 @@ blackarchlinux-netinst-2014.01.11-x86_64.iso</a>
 blackarchlinux-netinst-2014.01.11-i686.iso</a>
 - SHA1: 6f287c2863fabc8d0bf7cf7807a256335a6f5cb3 - Size: 291 MB
 <br /><br />
--->
 <a name="mirrors"><h3>Mirror Sites</h3></a>
 <hr>
 The following list contains official BlackArch Linux mirror sites.
