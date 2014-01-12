@@ -3,70 +3,101 @@ cat common/header
 
 cat <<\EOF
 <div id="maincontent">
-	<div id="left">
-		<h3><a href="">Major release and site redesign!</a><d>28 Dec 2013</d></h3>
-		<hr>
-		<p>We redesigned our website. We hope you like the new style.</p>
-		<p>We also released a bunch of new tools. There are over 600 tools in the repo
-			now. The full list of tools is <a href="tools.html">here</a>.</p>
-		<br/><br/>
-		<h3><a href="">Updates to Pacman.conf!</a><d>20 Dec 2013</d></h3>
-		<hr>
-		<p>We changed the directory structure of the repository. Please modify your
-			pacman.conf files like so:
-			<br /><br />
-			<b>[blackarch] <br/>
-				Server = http://blackarch.org/blackarch/$repo/os/$arch</b>
-			<br /><br />
-			The repository directory structure now resembles that of the official Arch
-			repositories. The new structure will make it easier for mirrors to sync with
-			our repository.</p>
-		<br/><br/>
-		<h3><a href="">We did it!</a><d>24 Nov 2013</d></h3>
-		<hr>
-		<p>Thanks to everyone's interest in this project we finally pissed off our ISP!
-			It makes us happy to know that so many people appreciate our hard work and are
-			using BlackArch Linux. We have managed to push a record 1.2TB a month of traffic
-			and downloads. The shiny new server is up and alive, thank you for being patient
-			with us. We are currently replicating mirrors across the USA to help with any
-			potential future disruptions. For the latest updates please come back and visit
-			us or follow us on twitter. Thanks everyone!</p>
-		<br/><br/>
-		<h3><a href="">Securabit Podcast</a><d>16 Sep 2013</d></h3>
-		<hr>
-		<p>We're on <a href="http://securabit.com/">Securabit Podcast</a>. Thanks to
-			<a href="https://twitter.com/secbitchris">Chris Gerling</a>,
-			<a href="https://twitter.com/thechrisam">Chris Mills</a>, and
-			<a href="https://twitter.com/mpbailey1911">Mike Bailey</a> for having me as a
-			guest. You can
-			<a href="http://securabit.com/?powerpress_pinw=3378-podcast">listen</a> to the
-			podcast or <a href="http://traffic.libsyn.com/securabit/SecuraBit_EP119.mp3">download</a>
-			it. They have relaunched their virtual lab environment
-			<a href="http://www.gh0st.net/">Gh0st Networks</a>, it's a great free tool for
-			the community to help grow a more secure internet. Their philosphy is screw all
-			the "hats", Gh0st Networks is about learning, exploring, exploiting and
-			connecting in a world where finance and politics are now a few of the motives
-			behind the creation of malware today. Research and reverse engineer these
-			plagues towards the common goal of a secure internet.</p>
-		<br/><br/>
-		<h3><a href="">Extended downtime</a><d>25 Aug 2013</d></h3>
-		<hr>
-		<p>We're continuing work to upgrade our infrastructure, as a part of this
-			improvement our domain service provider experienced some issues which resulted
-			in slow proprogation of our DNS records across the globe. This was the root
-			cause of our extended downtime. This issue has now been corrected, we apologize
-			for the inconvenience.</p>
-		<br/><br/>
-		<h3><a href="">Speak candidly</a><d>24 Aug 2013</d></h3>
-		<hr>
-		<p> We have recently relocated all tools in the repository to comply with
-			<a href="http://www.pathname.com/fhs/">FHS</a>. We would like to hear from
-			anyone that was familiar with the <code>/pentest</code> path structure and how
-			they feel about the current format. Did anyone depend on <code>/pentest</code>
-			to remember what tools you have in your arsenal? Do you prefer having all tools
-			available to you in your <code>$PATH</code>? Please feel free to comment below
-			and speak your mind!</p>
-	</div>
+    <div id="left">
+        <h3><a href="">Live ISOs, Status, and Futures</a><d>28 Dec 2013</d></h3>
+        <hr>
+        <p>BlackArch Linux is an Arch-based GNU/Linux distribution for pentesters and
+            security researchers. The BlackArch package repository is compatible with
+            existing Arch installs.</p>
+        <p><b>Here are some of BlackArch's features:</b></p>
+        <ul>
+            <li>- Support for i686 and x86_64 architectures</li>
+            <li>- Over 600 tools (constantly increasing)</li>
+            <li>- Modular package groups</li>
+            <li>- A live ISO with multiple window managers, including dwm, Fluxbox, Openbox,
+                Awesome, wmii, i3, and Spectrwm.</li>
+            <li>- An installer with the ability to build from source.</li>
+        </ul><br />
+        <p><b>Soon we will release:</b></p>
+        <ul>
+            <li>- ARM support</li>
+            <li>- Documentation for all tools</li>
+        </ul><br />
+        <p>We are also releasing a tool to fetch and search exploit archives called
+            <a href="https://github.com/BlackArch/sploitctl/blob/master/sploitctl.sh">sploitctl</a>.</p>
+        <p><a href="http://nullsecurity.net/">Nullsecurity</a> is an official supporter of BlackArch Linux.</p>
+        <p>We have a relaxed development structure. We welcome pull requests of all sizes
+			through <a href="http://www.github.com/BlackArch/">Github</a> and
+			<a href="mailto:blackarchlinux@gmail.com">email</a>.</p>
+		<p>Also see our <a href="http://www.blackarch.org/">website</a>, <a
+		href="https://twitter.com/blackarchlinux">Twitter account</a>, and <a
+		href="irc://irc.freenode.net/blackarch">IRC channel</a></p>
+        <p>Please report bugs and feature/tool requests through Github, email, twitter, or
+            IRC. Feel free to post requests for your own tools.</p>
+        <br/><br/>
+        <h3><a href="">Major release and site redesign!</a><d>28 Dec 2013</d></h3>
+        <hr>
+        <p>We redesigned our website. We hope you like the new style.</p>
+        <p>We also released a bunch of new tools. There are over 600 tools in the repo
+            now. The full list of tools is <a href="tools.html">here</a>.</p>
+        <br/><br/>
+        <h3><a href="">Updates to Pacman.conf!</a><d>20 Dec 2013</d></h3>
+        <hr>
+        <p>We changed the directory structure of the repository. Please modify your
+            pacman.conf files like so:
+            <br /><br />
+            <b>[blackarch] <br/>
+                Server = http://blackarch.org/blackarch/$repo/os/$arch</b>
+            <br /><br />
+            The repository directory structure now resembles that of the official Arch
+            repositories. The new structure will make it easier for mirrors to sync with
+            our repository.</p>
+        <br/><br/>
+        <h3><a href="">We did it!</a><d>24 Nov 2013</d></h3>
+        <hr>
+        <p>Thanks to everyone's interest in this project we finally pissed off our ISP!
+            It makes us happy to know that so many people appreciate our hard work and are
+            using BlackArch Linux. We have managed to push a record 1.2TB a month of traffic
+            and downloads. The shiny new server is up and alive, thank you for being patient
+            with us. We are currently replicating mirrors across the USA to help with any
+            potential future disruptions. For the latest updates please come back and visit
+            us or follow us on twitter. Thanks everyone!</p>
+        <br/><br/>
+        <h3><a href="">Securabit Podcast</a><d>16 Sep 2013</d></h3>
+        <hr>
+        <p>We're on <a href="http://securabit.com/">Securabit Podcast</a>. Thanks to
+            <a href="https://twitter.com/secbitchris">Chris Gerling</a>,
+            <a href="https://twitter.com/thechrisam">Chris Mills</a>, and
+            <a href="https://twitter.com/mpbailey1911">Mike Bailey</a> for having me as a
+            guest. You can
+            <a href="http://securabit.com/?powerpress_pinw=3378-podcast">listen</a> to the
+            podcast or <a href="http://traffic.libsyn.com/securabit/SecuraBit_EP119.mp3">download</a>
+            it. They have relaunched their virtual lab environment
+            <a href="http://www.gh0st.net/">Gh0st Networks</a>, it's a great free tool for
+            the community to help grow a more secure internet. Their philosphy is screw all
+            the "hats", Gh0st Networks is about learning, exploring, exploiting and
+            connecting in a world where finance and politics are now a few of the motives
+            behind the creation of malware today. Research and reverse engineer these
+            plagues towards the common goal of a secure internet.</p>
+        <br/><br/>
+        <h3><a href="">Extended downtime</a><d>25 Aug 2013</d></h3>
+        <hr>
+        <p>We're continuing work to upgrade our infrastructure, as a part of this
+            improvement our domain service provider experienced some issues which resulted
+            in slow proprogation of our DNS records across the globe. This was the root
+            cause of our extended downtime. This issue has now been corrected, we apologize
+            for the inconvenience.</p>
+        <br/><br/>
+        <h3><a href="">Speak candidly</a><d>24 Aug 2013</d></h3>
+        <hr>
+        <p> We have recently relocated all tools in the repository to comply with
+            <a href="http://www.pathname.com/fhs/">FHS</a>. We would like to hear from
+            anyone that was familiar with the <code>/pentest</code> path structure and how
+            they feel about the current format. Did anyone depend on <code>/pentest</code>
+            to remember what tools you have in your arsenal? Do you prefer having all tools
+            available to you in your <code>$PATH</code>? Please feel free to comment below
+            and speak your mind!</p>
+    </div>
 </div>
 EOF
 
