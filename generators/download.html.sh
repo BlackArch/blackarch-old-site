@@ -44,7 +44,7 @@ cat <<\EOF
 <br/>
 <!-- Uncomment once the ISO is ready -->
 <!--
-<h3>Download Live ISOs</h3>
+<h3>BlackArch Linux ISOs</h3>
 <hr>
 The following list contains official BlackArch live-ISO and netinstall-ISO images.
 The images can be burned to a DVD, mounted as an ISO file, or be directly written
