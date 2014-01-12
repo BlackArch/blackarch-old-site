@@ -106,7 +106,7 @@ cat <<EOF
 			<td>Pierre B.</td>
 			<td>Pi3rrot</td>
 			<td>pierre[at]pi3rrot.net</td>
-			<td><a href="gpg/pi3rrot">0x0B694394</a></td>
+			<td><a href="gpg/pi3rrot.asc">0x0B694394</a></td>
 			<td>ABE2 FA90 9FAB 5532 AFAE  72CC 6594 137F 0B69 4394</td>
 			<td>Supporter</td>
 		</tr>
