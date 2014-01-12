@@ -11,7 +11,7 @@ Append the following lines to
 <a href="https://www.archlinux.org/pacman/pacman.conf.5.html" target="_blank">/etc/pacman.conf</a>
 to add the BlackArch repository:
 <p id="cfont_tab">[blackarch]</p>
-<p id="cfont_tab">Server = &lt;mirror_site&gt;</p>
+<p id="cfont_tab">Server = &lt;mirror_site&gt;/$repo/os/$arch</p>
 <p id="cfont_tab">SigLevel = Optional TrustAll</p>
 Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
 Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
@@ -79,17 +79,17 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
-http://blackarch.pi3rrot.net/blackarch/$repo/os/$arch
+http://blackarch.pi3rrot.net/blackarch/
 <br /><br />
 <img src="images/flags/de.png" /> <b>Germany</b>
 <br />
-http://www.blackarch.org/blackarch/$repo/os/$arch
+http://www.blackarch.org/blackarch/
 <br />
-http://blackarch.nullsecurity.net/blackarch/$repo/os/$arch
+http://blackarch.nullsecurity.net/blackarch/
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
-http://blackarch.paraxor.com/blackarch/$repo/os/$arch
+http://blackarch.paraxor.com/blackarch/
 </div>
 EOF
 
