@@ -43,7 +43,7 @@ cat <<EOF
 		<tr>
 			<td>Levon Kayan</td>
 			<td>noptrix</td>
-			<td>noptrix[at]nullsecurtiy.net</td>
+			<td>noptrix[at]nullsecurity.net</td>
 			<td><a href="gpg/noptrix.asc">0xDCA45D42</a></td>
 			<td>250A 573C CA93 01B3 7A34  7860 4D48 E33A DCA4 5D42</td>
 			<td>Developer, Committer</td>
