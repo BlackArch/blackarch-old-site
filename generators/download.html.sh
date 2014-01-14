@@ -12,7 +12,6 @@ Append the following lines to
 to add the BlackArch repository:
 <p id="cfont_tab">[blackarch]</p>
 <p id="cfont_tab">Server = &lt;mirror_site&gt;/$repo/os/$arch</p>
-<p id="cfont_tab">SigLevel = Optional TrustAll</p>
 Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
 Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
 <br /><br />
