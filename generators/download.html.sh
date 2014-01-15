@@ -51,17 +51,17 @@ Default login for all ISOs: <b>root:blackarch</b>
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.12-dual.iso">
-blackarchlinux-live-2014.01.12-dual.iso</a> -
-SHA1: b4e51be400aab944c7eeaa45f021b28a4efeff3d - Size: 4.1 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.14-dual.iso">
+blackarchlinux-live-2014.01.14-dual.iso</a> -
+SHA1: c6d114bb877511a6a9d3644e543cbf443869c318 - Size: 4.1 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.12-x86_64.iso">
-blackarchlinux-live-2014.01.12-x86_64.iso</a>
-SHA1: 31f014c720b7c51a7ce57f6fffb1b71c3e016ae6 - Size: 2.2 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.14-x86_64.iso">
+blackarchlinux-live-2014.01.14-x86_64.iso</a>
+SHA1: bdcf9bb5efcb697c5d99316ff6ec4d262bb59223 - Size: 2.2 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.12-i686.iso">
-blackarchlinux-live-2014.01.12-i686.iso</a>
-- SHA1: cf9952951a61d0096f95fadc86a17a3279237168 - Size: 2.0 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.14-i686.iso">
+blackarchlinux-live-2014.01.14-i686.iso</a>
+- SHA1: c57bd6179a77292929f8a666e707bcb8a0f5220c - Size: 2.0 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
