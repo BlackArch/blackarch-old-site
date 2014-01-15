@@ -81,6 +81,10 @@ blackarchlinux-netinst-2014.01.15-i686.iso</a>
 <hr>
 The following list contains official BlackArch Linux mirror sites.
 <br /><br />
+<img src="images/flags/ca.png" /> <b>Canada</b>
+<br />
+http://loki.dropswitch.net/
+<br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
 http://blackarch.pi3rrot.net/blackarch/
