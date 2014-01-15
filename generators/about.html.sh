@@ -10,7 +10,7 @@ cat <<EOF
 	<br /><br />
 	The repository contains <b>${TOOL_COUNT}</b> tools. You can install tools individually or
 	in groups. BlackArch is compatible with existing Arch installs. For more information, see the
-	<a href="https://github.com/BlackArch/blackarch/blob/master/docs/README.md"><b>installation instructions</b></a>.
+	<a href="https://github.com/BlackArch/blackarch/blob/master/docs/README.md">installation instructions</a>.
 	<br /><br />
 	This is a relatively new project. You will probably find little bugs here and
 	there. To report bugs and request new tools, please visit the
