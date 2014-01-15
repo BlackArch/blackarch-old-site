@@ -83,7 +83,7 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
-http://loki.dropswitch.net/
+http://blackarch.dropswitch.net/
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
