@@ -25,4 +25,4 @@ rsync --rsh="ssh -A -l ${usr}" --chmod "a+rX,ug+w" -avz \
     favicon.ico fixperms.sh gpg images index.html packages.html pub tmp \
     tools.html "$site:/$rdir" \
 
-ssh "$usr@$site" 'sh /var/www/blackarch.org/fixperms.sh'
+ssh "$usr@$site" 'sudo sh /nginx/var/www/fixperms.sh'
