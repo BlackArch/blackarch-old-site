@@ -51,9 +51,9 @@ Default login for all ISOs: <b>root:blackarch</b>
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.14-dual.iso">
-blackarchlinux-live-2014.01.14-dual.iso</a>
-- SHA1: c6d114bb877511a6a9d3644e543cbf443869c318 - Size: 4.1 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.15-dual.iso">
+blackarchlinux-live-2014.01.15-dual.iso</a>
+- SHA1: da97bf5d057b249d0aa66ccbe415890ce55af00d - Size: 4.1 GB
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.15-x86_64.iso">
 blackarchlinux-live-2014.01.15-x86_64.iso</a>
