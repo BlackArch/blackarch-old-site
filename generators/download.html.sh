@@ -37,10 +37,15 @@ To install a category of tools, run
 <br />
 To see the blackarch categories, run
 <p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
-EOF
-
-cat <<\EOF
-<br/>
+<br />
+<h3>Installing BlackArch Linux using Live- / Netintall-ISO or ArchLinux</h3>
+<hr>
+Install blackarch-install-scripts package:
+<p id="cfont_tab">$ sudo pacman -S blackarch-install-scripts</p>
+<br />
+Run
+<p id="cfont_tab"># blackarch-install</p>
+<br />
 <h3>BlackArch Linux ISOs</h3>
 <hr>
 The following list contains official BlackArch live-ISO and netinstall-ISO images.
@@ -51,17 +56,17 @@ Default login for all ISOs: <b>root:blackarch</b>
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.15-dual.iso">
-blackarchlinux-live-2014.01.15-dual.iso</a>
+<a href="blackarch/iso/blackarchlinux-live-2014.01.16-dual.iso">
+blackarchlinux-live-2014.01.16-dual.iso</a>
 - SHA1: da97bf5d057b249d0aa66ccbe415890ce55af00d - Size: 4.1 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.15-x86_64.iso">
-blackarchlinux-live-2014.01.15-x86_64.iso</a>
-- SHA1: 2ffe8c508d79289aa4f384f809b9ea9741326a52 - Size: 2.2 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.16-x86_64.iso">
+blackarchlinux-live-2014.01.16-x86_64.iso</a>
+- SHA1: 780ee2d92ee45cc7ff746759ba8b192b8914e0bf - Size: 2.2 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.15-i686.iso">
-blackarchlinux-live-2014.01.15-i686.iso</a>
-- SHA1: ac0c633b64b01ef1ce49dd9c206691ee91e16bbd - Size: 2.0 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.16-i686.iso">
+blackarchlinux-live-2014.01.16-i686.iso</a>
+- SHA1: 2be893e12464bb084e6a4c2fa3da61376d874850 - Size: 2.0 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
