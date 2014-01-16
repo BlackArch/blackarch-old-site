@@ -65,17 +65,17 @@ blackarchlinux-live-2014.01.15-i686.iso</a>
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.15-dual.iso">
-blackarchlinux-netinst-2014.01.15-dual.iso</a>
-- SHA1: 2ffc3d4defd9a2612c1ab88a0fd28d6ebea33346 - Size: 626 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-dual.iso">
+blackarchlinux-netinst-2014.01.16-dual.iso</a>
+- SHA1: cbb57ddbc5acd171f7bf00706d0985acef15bc8a - Size: 626 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.15-x86_64.iso">
-blackarchlinux-netinst-2014.01.15-x86_64.iso</a>
-- SHA1: e54dd5b4bc41002cb5ce0676de8669ad70901971 - Size: 334 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-x86_64.iso">
+blackarchlinux-netinst-2014.01.16-x86_64.iso</a>
+- SHA1: a3964376057c0872ee364f2c124494b22f47d116 - Size: 334 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.15-i686.iso">
-blackarchlinux-netinst-2014.01.15-i686.iso</a>
-- SHA1: 24a62af068860c2516ab0124d533090fcf04570c - Size: 295 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-i686.iso">
+blackarchlinux-netinst-2014.01.16-i686.iso</a>
+- SHA1: 85770a834a0ba441757a2a4d2d24d71d6436b3eb - Size: 295 MB
 <br /><br />
 <a name="mirrors"><h3>Mirror Sites</h3></a>
 <hr>
