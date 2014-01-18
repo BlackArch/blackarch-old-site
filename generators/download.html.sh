@@ -20,7 +20,6 @@ For package signing, run the following as root.
 <p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
 <p id="cfont_tab">gpg --with-fingerprint blackarch-keyring-20140108-1-any.pkg.tar.xz.sig</p>
 <p id="cfont_tab">pacman -U blackarch-keyring-20140108-1-any.pkg.tar.xz</p>
-<br />
 If possible, please verify the signing key's fingerprint against as many sources as possible.
 <br />
 <br />
@@ -43,8 +42,30 @@ To install a category of tools, run
 To see the blackarch categories, run
 <p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
 <br />
+<h3>Installing packages from source (PKGBUILD)</h3>
+<hr />
+You may now compile and install tools using blackman and PKGBUILD files.
+<br /><br />
+Install blackman tool:
+<p id="cfont_tab">$ sudo pacman -S blackman</p>
+<br />
+Download, compile and install packages:
+<p id="cfont_tab">$ blackman -i package</p>
+<br />
+Download, compile and install whole category:
+<p id="cfont_tab">$ blackman -g group</p>
+<br />
+Download, compile and install all of the BlackArch tools:
+<p id="cfont_tab">$ blackman -a</p>
+<br />
+To see the blackarch categories:
+<p id="cfont_tab">$ blackman -l</p>
+<br />
+To see category tools:
+<p id="cfont_tab">$ blackman -p category</p>
+<br />
 <h3>Installing BlackArch Linux using Live- / Netintall-ISO or ArchLinux</h3>
-<hr>
+<hr />
 Install blackarch-install-scripts package:
 <p id="cfont_tab">$ sudo pacman -S blackarch-install-scripts</p>
 <br />

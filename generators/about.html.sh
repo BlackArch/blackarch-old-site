@@ -100,7 +100,7 @@ cat <<EOF
 			<!--<td>D7A7 F999 851D 0AF4 47D1  C292 0A9A 8EC5 7C03 DD86</td>-->
 			<td></td>
 			<td></td>
-			<td>Supporter</td>
+			<td>Contributor</td>
 		</tr>
 		<tr>
 			<td>Pierre B.</td>
@@ -108,7 +108,7 @@ cat <<EOF
 			<td>pierre[at]pi3rrot.net</td>
 			<td><a href="gpg/pi3rrot.asc">0x0B694394</a></td>
 			<td>ABE2 FA90 9FAB 5532 AFAE  72CC 6594 137F 0B69 4394</td>
-			<td>Supporter</td>
+			<td>Contributor</td>
 		</tr>
     <tr>
       <td>Jeremy Marlow</td>
@@ -116,7 +116,7 @@ cat <<EOF
       <td>jamarlow410[at]st.nashcc.edu</td>
       <td><a href="gpg/i3_arch.asc">0xC8173B68</a></td>
       <td>C854 01A4 1127 037D 540B  EB76 0147 3701 C817 3B68</td>
-      <td>Supporter</td>
+      <td>Contributor</td>
     </tr>
 	</table>
 </div>
