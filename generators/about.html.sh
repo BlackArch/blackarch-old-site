@@ -60,7 +60,7 @@ cat <<EOF
 			<td>Ellis Kenyo</td>
 			<td>elken</td>
 			<td>elken.tdos[at]gmail.com</td>
-			<a href="gpg/elken.asc">0x0F4093D1</a></td>
+			<td><a href="gpg/elken.asc">0x0F4093D1</a></td>
 			<td>A38C A4EB 2A23 27DC 3713  3E22 0C8D AD09 0F40 93D1</td>
 			<td>Committer</td>
 		</tr>
