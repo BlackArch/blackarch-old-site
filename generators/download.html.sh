@@ -44,7 +44,9 @@ To see the blackarch categories, run
 <br />
 <h3>Installing packages from source (PKGBUILD)</h3>
 <hr />
-You may now compile and install tools using blackman and PKGBUILD files.
+You may now compile and install tools using
+<a href="https://github.com/BlackArch/blackman" target="_blank">blackman</a>
+and PKGBUILD files.
 <br /><br />
 Install blackman tool:
 <p id="cfont_tab">$ sudo pacman -S blackman</p>
@@ -114,7 +116,7 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
-http://blackarch.dropswitch.net/
+http://blackarch.dropswitch.net/blackarch/
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
