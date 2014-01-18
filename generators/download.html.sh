@@ -17,6 +17,7 @@ Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
 <br /><br />
 For package signing, run the following as root.
 <p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140108-1-any.pkg.tar.xz{,.sig}</p>
+<p id="cfont_tab">gpg --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
 <p id="cfont_tab">gpg --with-fingerprint blackarch-keyring-20140108-1-any.pkg.tar.xz.sig</p>
 <p id="cfont_tab">pacman -U blackarch-keyring-20140108-1-any.pkg.tar.xz</p>
 <br />
