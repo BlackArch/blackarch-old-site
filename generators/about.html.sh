@@ -86,8 +86,8 @@ cat <<EOF
 			<td></td>
 			<td>sudokode</td>
 			<td>sudokode[at]gmail.com</td>
-			<td></td>
-			<td></td>
+			<td><a href="gpg/sudokode.asc">0x8B0554C7</a></td>
+			<td>54EB C502 AF40 9514 1E00  4E95 9753 5EC1 8B05 54C7</td>
 			<td>Committer</td>
 		</tr>
 		<tr>
