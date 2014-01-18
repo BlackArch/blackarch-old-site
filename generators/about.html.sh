@@ -60,10 +60,8 @@ cat <<EOF
 			<td>Ellis Kenyo</td>
 			<td>elken</td>
 			<td>elken.tdos[at]gmail.com</td>
-			<!--<td><a href="gpg/noptrix.asc">0xDCA45D42</a></td>-->
-			<!--<td>250A 573C CA93 01B3 7A34  7860 4D48 E33A DCA4 5D42</td>-->
-			<td></td>
-			<td></td>
+			<a href="gpg/elken.asc">0x0F4093D1</a></td>
+			<td>A38C A4EB 2A23 27DC 3713  3E22 0C8D AD09 0F40 93D1</td>
 			<td>Committer</td>
 		</tr>
 		<tr>
