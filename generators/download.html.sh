@@ -66,7 +66,7 @@ To see the blackarch categories:
 To see category tools:
 <p id="cfont_tab">$ blackman -p category</p>
 <br />
-<h3>Installing BlackArch Linux using Live- / Netintall-ISO or ArchLinux</h3>
+<h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
 <hr />
 Install blackarch-install-scripts package:
 <p id="cfont_tab">$ sudo pacman -S blackarch-install-scripts</p>
