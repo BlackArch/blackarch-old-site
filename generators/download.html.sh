@@ -43,8 +43,32 @@ To install a category of tools, run
 To see the blackarch categories, run
 <p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
 <br />
-<h3>Installing BlackArch Linux using Live- / Netintall-ISO or ArchLinux</h3>
-<hr>
+<h3>Installing packages from source (PKGBUILD)</h3>
+<hr />
+You may now compile and install tools using
+<a href="https://github.com/BlackArch/blackman" target="_blank">blackman</a>
+and PKGBUILD files.
+<br /><br />
+Install blackman tool:
+<p id="cfont_tab">$ sudo pacman -S blackman</p>
+<br />
+Download, compile and install packages:
+<p id="cfont_tab">$ blackman -i package</p>
+<br />
+Download, compile and install whole category:
+<p id="cfont_tab">$ blackman -g group</p>
+<br />
+Download, compile and install all of the BlackArch tools:
+<p id="cfont_tab">$ blackman -a</p>
+<br />
+To see the blackarch categories:
+<p id="cfont_tab">$ blackman -l</p>
+<br />
+To see category tools:
+<p id="cfont_tab">$ blackman -p category</p>
+<br />
+<h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
+<hr />
 Install blackarch-install-scripts package:
 <p id="cfont_tab">$ sudo pacman -S blackarch-install-scripts</p>
 <br />
@@ -93,7 +117,7 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
-http://blackarch.dropswitch.net/
+http://blackarch.dropswitch.net/blackarch/
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />

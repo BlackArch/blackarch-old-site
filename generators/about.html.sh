@@ -60,10 +60,8 @@ cat <<EOF
 			<td>Ellis Kenyo</td>
 			<td>elken</td>
 			<td>elken.tdos[at]gmail.com</td>
-			<!--<td><a href="gpg/noptrix.asc">0xDCA45D42</a></td>-->
-			<!--<td>250A 573C CA93 01B3 7A34  7860 4D48 E33A DCA4 5D42</td>-->
-			<td></td>
-			<td></td>
+			<td><a href="gpg/elken.asc">0x0F4093D1</a></td>
+			<td>A38C A4EB 2A23 27DC 3713  3E22 0C8D AD09 0F40 93D1</td>
 			<td>Committer</td>
 		</tr>
 		<tr>
@@ -88,8 +86,8 @@ cat <<EOF
 			<td></td>
 			<td>sudokode</td>
 			<td>sudokode[at]gmail.com</td>
-			<td></td>
-			<td></td>
+			<td><a href="gpg/sudokode.asc">0x8B0554C7</a></td>
+			<td>54EB C502 AF40 9514 1E00  4E95 9753 5EC1 8B05 54C7</td>
 			<td>Committer</td>
 		</tr>
 		<tr>
@@ -100,7 +98,7 @@ cat <<EOF
 			<!--<td>D7A7 F999 851D 0AF4 47D1  C292 0A9A 8EC5 7C03 DD86</td>-->
 			<td></td>
 			<td></td>
-			<td>Supporter</td>
+			<td>Contributor</td>
 		</tr>
 		<tr>
 			<td>Pierre B.</td>
@@ -108,7 +106,7 @@ cat <<EOF
 			<td>pierre[at]pi3rrot.net</td>
 			<td><a href="gpg/pi3rrot.asc">0x0B694394</a></td>
 			<td>ABE2 FA90 9FAB 5532 AFAE  72CC 6594 137F 0B69 4394</td>
-			<td>Supporter</td>
+			<td>Contributor</td>
 		</tr>
     <tr>
       <td>Jeremy Marlow</td>
@@ -116,7 +114,7 @@ cat <<EOF
       <td>jamarlow410[at]st.nashcc.edu</td>
       <td><a href="gpg/i3_arch.asc">0xC8173B68</a></td>
       <td>C854 01A4 1127 037D 540B  EB76 0147 3701 C817 3B68</td>
-      <td>Supporter</td>
+      <td>Contributor</td>
     </tr>
 	</table>
 </div>
