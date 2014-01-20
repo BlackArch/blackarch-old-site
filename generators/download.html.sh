@@ -12,6 +12,7 @@ BlackArch is compatible with normal Arch installations. It acts as an unofficial
 <p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
 <p id="cfont_tab">gpg --with-fingerprint --verify blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
 <p id="cfont_tab">rm blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
+<p id="cfont_tab">pacman-key --init</p>
 <p id="cfont_tab">pacman -U blackarch-keyring-20140118-3-any.pkg.tar.xz</p>
 <br />
 <b>2.</b> If possible, please verify the signing key's fingerprint against as many sources as possible.
