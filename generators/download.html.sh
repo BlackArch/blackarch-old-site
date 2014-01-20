@@ -5,26 +5,25 @@ cat <<\EOF
 <div id="dl_body">
 <h3>Setup</h3>
 <hr>
-BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository.
+BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">Live ISO</a> section.
 <br /><br />
-Append the following lines to
-<a href="https://www.archlinux.org/pacman/pacman.conf.5.html" target="_blank">/etc/pacman.conf</a>
-to add the BlackArch repository:
+<b>1.</b> Run the following as root. This is for package signing.
+<p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140118-3-any.pkg.tar.xz{,.sig}</p>
+<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
+<p id="cfont_tab">gpg --with-fingerprint --verify blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
+<p id="cfont_tab">rm blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
+<p id="cfont_tab">pacman -U blackarch-keyring-20140118-3-any.pkg.tar.xz</p>
+<br />
+<b>2.</b> If possible, please verify the signing key's fingerprint against as many sources as possible.
+<br />
+<br />
+<b>3.</b> Append the following lines to your /etc/pacman.conf file:
 <p id="cfont_tab">[blackarch]</p>
 <p id="cfont_tab">Server = &lt;mirror_site&gt;/$repo/os/$arch</p>
-Where &lt;mirror_site&gt; should be a complete URL pointing to the repository.
-Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
-<br /><br />
-For package signing, run the following as root.
-<p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140118-1-any.pkg.tar.xz{,.sig}</p>
-<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
-<p id="cfont_tab">gpg --with-fingerprint blackarch-keyring-20140118-1-any.pkg.tar.xz.sig</p>
-<p id="cfont_tab">pacman -U blackarch-keyring-20140118-1-any.pkg.tar.xz</p>
-<br />
-If possible, please verify the signing key's fingerprint against as many sources as possible.
+Replace <span id="cfont_tab">&lt;mirror_site&gt;</span> with a mirror site of your choosing. Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
 <br />
 <br />
-Now run:
+<b>4.</b> Now run:
 <p id="cfont_tab">$ sudo pacman -Syyu</p>
 <br />
 <h3>Installing packages</h3>
@@ -75,13 +74,13 @@ Install blackarch-install-scripts package:
 Run
 <p id="cfont_tab"># blackarch-install</p>
 <br />
-<h3>BlackArch Linux ISOs</h3>
+<a name="iso"><h3>BlackArch Linux ISOs</h3></a>
 <hr>
 The following list contains official BlackArch live-ISO and netinstall-ISO images.
 The images can be burned to a DVD, mounted as an ISO file, or be directly written
 to a USB stick using a utility like `dd`.
 <br /><br />
-Default login for all ISOs: <b>root:blackarch</b>
+<b>Default login for all ISOs: root:blackarch</b>
 <br /><br />
 <b>Live-ISO</b>
 <br />
