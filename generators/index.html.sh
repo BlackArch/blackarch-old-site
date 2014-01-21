@@ -24,14 +24,14 @@ cat <<\EOF
             <li>- Documentation for all tools</li>
         </ul><br />
         <p>We are also releasing a tool to fetch and search exploit archives called
-            <a href="https://github.com/BlackArch/sploitctl/blob/master/sploitctl.sh">sploitctl</a>.</p>
-        <p><a href="http://nullsecurity.net/">Nullsecurity</a> is an official supporter of BlackArch Linux.</p>
-        <p>We have a relaxed development structure. We welcome pull requests of all sizes
-			through <a href="http://www.github.com/BlackArch/">Github</a> and
-			<a href="mailto:blackarchlinux@gmail.com">email</a>.</p>
-		<p>Also see our <a href="http://www.blackarch.org/">website</a>, <a
-		href="https://twitter.com/blackarchlinux">Twitter account</a>, and <a
-		href="irc://irc.freenode.net/blackarch">IRC channel</a></p>
+            <a href="https://github.com/BlackArch/sploitctl/blob/master/sploitctl.sh">sploitctl</a>.
+        <a href="http://nullsecurity.net/">Nullsecurity</a> is an official supporter of BlackArch Linux.
+        We have a relaxed development structure. We welcome pull requests of all sizes
+        through <a href="http://www.github.com/BlackArch/">Github</a> and
+        <a href="mailto:blackarchlinux@gmail.com">email</a>. Also see our
+        <a href="http://www.blackarch.org/">website</a>,
+        <a href="https://twitter.com/blackarchlinux">Twitter account</a>, and
+        <a href="irc://irc.freenode.net/blackarch">IRC channel</a></p>
         <p>Please report bugs and feature/tool requests through Github, email, twitter, or
             IRC. Feel free to post requests for your own tools.</p>
         <br/><br/>
@@ -46,9 +46,9 @@ cat <<\EOF
         <p>We changed the directory structure of the repository. Please modify your
             pacman.conf files like so:
             <br /><br />
-            <b>[blackarch] <br/>
-                Server = http://blackarch.org/blackarch/$repo/os/$arch</b>
-            <br /><br />
+            <p id="cfont_tab">[blackarch]<br />
+            Server = http://blackarch.org/blackarch/$repo/os/$arch</b></p>
+            <br />
             The repository directory structure now resembles that of the official Arch
             repositories. The new structure will make it easier for mirrors to sync with
             our repository.</p>
