@@ -117,21 +117,21 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
-http://blackarch.dropswitch.net/blackarch/
+<a href="http://blackarch.dropswitch.net/blackarch/">http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
-http://blackarch.pi3rrot.net/blackarch/
+<a href="http://blackarch.pi3rrot.net/blackarch/">http://blackarch.pi3rrot.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/de.png" /> <b>Germany</b>
 <br />
-http://www.blackarch.org/blackarch/
+<a href="http://www.blackarch.org/blackarch/">http://www.blackarch.org/blackarch/</a>
 <br />
-http://blackarch.nullsecurity.net/blackarch/
+<a href="http://blackarch.nullsecurity.net/blackarch/">http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
-http://blackarch.paraxor.com/blackarch/
+<a href="http://blackarch.paraxor.com/blackarch/">http://blackarch.paraxor.com/blackarch/</a>
 </div>
 EOF
 
