@@ -5,7 +5,7 @@
 
 body {
   font: 80% Arial, Helvetica, Sans-Serif;
-  color: #454545;
+  color: #888888;
   background: #000000;
   line-height: 1.6em;
 }
@@ -101,7 +101,7 @@ ol {
 }
 
 #cfont_tab {
-  color: #000000;
+  color: #888888;
   font-family: Pragmata, Menlo, 'DejaVu LGC Sans Mono', 'DejaVu Sans Mono',
   Consolas, 'Everson Mono', 'Lucida Console', 'Andale Mono', 'Nimbus Mono L',
   'Liberation Mono', FreeMono, 'Osaka Monospaced', Courier, 'New Courier',
@@ -205,7 +205,7 @@ ol {
 #maincontent {
   padding: 20px 0;
   clear: both;
-  color: #777777;
+  color: #cccccc;
 }
 
 #left {
@@ -242,7 +242,7 @@ ol {
 #dl_body {
   border: 1px solid #ccc;
   padding: 7px;
-  background: #353535;
+  background: #000000;
   color: #cccccc;
 }
 
