@@ -114,8 +114,6 @@ The following list contains official BlackArch Linux mirror sites.
 <br />
 http://blackarch.dropswitch.net/blackarch/
 <br /><br />
-<img src="images/flags/es.png" /> <b>Spain</b>
-<br />
 http://blackarch.smartdefence.cl/blackarch/
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
@@ -127,6 +125,10 @@ http://blackarch.pi3rrot.net/blackarch/
 http://www.blackarch.org/blackarch/
 <br />
 http://blackarch.nullsecurity.net/blackarch/
+<br /><br />
+<img src="images/flags/es.png" /> <b>Spain</b>
+<br />
+http://blackarch.smartdefence.cl/blackarch/
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
