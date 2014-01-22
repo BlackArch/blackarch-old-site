@@ -117,25 +117,39 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
-<a href="http://blackarch.dropswitch.net/blackarch/">http://blackarch.dropswitch.net/blackarch/</a>
+<a href="http://blackarch.dropswitch.net/blackarch/" target="_blank">
+http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
-<a href="http://blackarch.pi3rrot.net/blackarch/">http://blackarch.pi3rrot.net/blackarch/</a>
+<a href="http://blackarch.pi3rrot.net/blackarch/" target="_blank">
+http://blackarch.pi3rrot.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/de.png" /> <b>Germany</b>
 <br />
 <a href="http://www.blackarch.org/blackarch/">http://www.blackarch.org/blackarch/</a>
 <br />
-<a href="http://blackarch.nullsecurity.net/blackarch/">http://blackarch.nullsecurity.net/blackarch/</a>
+<a href="http://blackarch.nullsecurity.net/blackarch/" target="_blank">
+http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/es.png" /> <b>Spain</b>
 <br />
-<a href="http://blackarch.smartdefence.cl/blackarch/">http://blackarch.smartdefence.cl/blackarch/</a>
+<a href="http://blackarch.smartdefence.cl/blackarch/" target="_blank">
+http://blackarch.smartdefence.cl/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
-<a href="http://blackarch.paraxor.com/blackarch/">http://blackarch.paraxor.com/blackarch/</a>
+<a href="http://mirror.oss.maxcdn.com/blackarch/" target="_blank">
+http://mirror.oss.maxcdn.com/blackarch/</a>
+<br />
+<a href="ftp://mirror.oss.maxcdn.com/blackarch/" target="_blank">
+ftp://mirror.oss.maxcdn.com/blackarch/</a>
+<br />
+<a href="rsync://mirror.oss.maxcdn.com/mirrors/blackarch/" target="_blank">
+rsync://mirror.oss.maxcdn.com/mirrors/blackarch/</a>
+<br />
+<a href="http://blackarch.paraxor.com/blackarch/" target="_blank">
+http://blackarch.paraxor.com/blackarch/</a>
 </div>
 EOF
 
