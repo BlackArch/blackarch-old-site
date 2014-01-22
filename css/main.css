@@ -5,7 +5,7 @@
 
 body {
   font: 80% Arial, Helvetica, Sans-Serif;
-  color: #888888;
+  color: #ffffff;
   background: #000000;
   line-height: 1.6em;
 }
@@ -205,7 +205,7 @@ ol {
 #maincontent {
   padding: 20px 0;
   clear: both;
-  color: #cccccc;
+  color: #ffffff;
 }
 
 #left {
@@ -243,7 +243,7 @@ ol {
   border: 1px solid #ccc;
   padding: 7px;
   background: #000000;
-  color: #cccccc;
+  color: #ffffff;
 }
 
 #footer {
@@ -275,7 +275,7 @@ ol {
 
 #tbl-minimalist td {
   border-bottom: 1px solid #ccc;
-  color: #cccccc;
+  color: #ffffff;
   padding: 2px 2px;
 }
 
