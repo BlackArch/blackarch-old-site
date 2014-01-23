@@ -87,31 +87,31 @@ to a USB stick using a utility like `dd`.
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.17-dual.iso">
-blackarchlinux-live-2014.01.17-dual.iso</a>
-- SHA1: 1f3f09e0c5cbbb41f0a7382e835e315627da44ee - Size: 4.1 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.23-dual.iso">
+blackarchlinux-live-2014.01.23-dual.iso</a>
+- SHA1: e4f152750444a367789898dbb59ff047b788470d - Size: 4.1 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.17-x86_64.iso">
-blackarchlinux-live-2014.01.17-x86_64.iso</a>
-- SHA1: 755b3defff99d27e2d5168f48647851354597bb5 - Size: 2.2 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.23-x86_64.iso">
+blackarchlinux-live-2014.01.23-x86_64.iso</a>
+- SHA1: 5751765c761486937308fd5c383ed6c358894f01 - Size: 2.2 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.01.17-i686.iso">
-blackarchlinux-live-2014.01.17-i686.iso</a>
-- SHA1: 74a6df39f6191f03fcb4726518024e9323d6ccf9 - Size: 2.0 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.01.23-i686.iso">
+blackarchlinux-live-2014.01.23-i686.iso</a>
+- SHA1: 2ecb201a0b58a2246188825c696a69bd0919dff7 - Size: 2.0 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-dual.iso">
-blackarchlinux-netinst-2014.01.16-dual.iso</a>
-- SHA1: cbb57ddbc5acd171f7bf00706d0985acef15bc8a - Size: 626 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.23-dual.iso">
+blackarchlinux-netinst-2014.01.23-dual.iso</a>
+- SHA1: 410dd18f174868555bd8932021cdbaad769841a9 - Size: 620 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-x86_64.iso">
-blackarchlinux-netinst-2014.01.16-x86_64.iso</a>
-- SHA1: a3964376057c0872ee364f2c124494b22f47d116 - Size: 334 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.23-x86_64.iso">
+blackarchlinux-netinst-2014.01.23-x86_64.iso</a>
+- SHA1: 3f381d744a1d56d70aaef69b59ad3e814af2311b - Size: 330 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.01.16-i686.iso">
-blackarchlinux-netinst-2014.01.16-i686.iso</a>
-- SHA1: 85770a834a0ba441757a2a4d2d24d71d6436b3eb - Size: 295 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.01.23-i686.iso">
+blackarchlinux-netinst-2014.01.23-i686.iso</a>
+- SHA1: e1627501e97be60a51b68ea48d007588a2269134 - Size: 292 MB
 <br /><br />
 <a name="mirrors"><h3>Mirror Sites</h3></a>
 <hr>
