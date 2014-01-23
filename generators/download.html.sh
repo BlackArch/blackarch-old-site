@@ -3,9 +3,11 @@ cat common/header
 
 cat <<\EOF
 <div id="dl_body">
-<h3>Setup</h3>
+<h3>Setting up as an Unofficial User Repository</h3>
 <hr>
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">Live ISO</a> section.
+<br /><br />
+<b>0.</b> If you have installed BlackArch before and there is an existing <span id="cfont_tab">[blackarch]</span> entry in <span id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run <span id="cfont_tab">pacman -Syy</span>.
 <br /><br />
 <b>1.</b> Run the following as root. This is for package signing.
 <p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140118-3-any.pkg.tar.xz{,.sig}</p>
