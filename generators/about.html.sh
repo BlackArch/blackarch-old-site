@@ -117,7 +117,7 @@ cat <<EOF
       <td>Contributor</td>
     </tr>
     <tr>
-      <td>Guy Márquez</td>
+      <td>Guy Marquez</td>
       <td>w4rk3n</td>
       <td>guy[at]smartdefence.cl</td>
       <td><a href="gpg/w4rk3n.asc" target="_blank">0x27F4E268</a></td>
