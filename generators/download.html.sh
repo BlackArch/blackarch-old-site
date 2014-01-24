@@ -136,8 +136,8 @@ http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/es.png" /> <b>Spain</b>
 <br />
-<a href="http://blackarch.smartdefence.cl/" target="_blank">
-http://blackarch.smartdefence.cl/</a>
+<a href="http://blackarch.smartdefence.cl/blackarch/" target="_blank">
+http://blackarch.smartdefence.cl/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
