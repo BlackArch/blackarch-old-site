@@ -85,6 +85,11 @@ to a USB stick using a utility like `dd`.
 <br /><br />
 <b>Default login for all ISOs: root:blackarch</b>
 <br /><br />
+Do not use UNetBootIn to write the ISO file to a disk. UNetBootIn modifies the
+bootloader configuration, which is bad. You can use this instead:
+<br /><br />
+<p id="cfont_tab"># dd bs=512M if=file.iso of=/dev/sdX</p>
+<br /><br />
 <b>Live-ISO</b>
 <br />
 <a href="blackarch/iso/blackarchlinux-live-2014.01.23-dual.iso">
