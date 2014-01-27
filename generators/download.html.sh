@@ -11,7 +11,7 @@ BlackArch is compatible with normal Arch installations. It acts as an unofficial
 <br /><br />
 <b>1.</b> Run the following as root. This is for package signing.
 <p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140118-3-any.pkg.tar.xz{,.sig}</p>
-<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys '4345771566D76038C7FEB43863EC0ADBEA87E4E3'</p>
+<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
 <p id="cfont_tab">gpg --keyserver-options no-auto-key-retrieve --with-fingerprint --verify blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
 <p id="cfont_tab"># Now make sure the file was signed with the correct key.</p>
 <p id="cfont_tab">rm blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
@@ -97,12 +97,12 @@ The following list contains official BlackArch live-ISO and netinstall-ISO image
 The images can be burned to a DVD, mounted as an ISO file, or be directly written
 to a USB stick using a utility like `dd`.
 <br /><br />
-<b>Default login for all ISOs: root:blackarch</b>
-<br /><br />
 Do not use UNetBootIn to write the ISO file to a disk. UNetBootIn modifies the
 bootloader configuration, which is bad. You can use this instead:
 <br /><br />
 <p id="cfont_tab"># dd bs=512M if=file.iso of=/dev/sdX</p>
+<br /><br />
+<blink><b>Default login for all ISOs: root:blackarch</b></blink>
 <br /><br />
 <b>Live-ISO</b>
 <br />
