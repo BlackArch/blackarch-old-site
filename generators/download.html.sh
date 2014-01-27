@@ -47,21 +47,32 @@ To see the blackarch categories, run
 <br />
 <h3>Installing packages from source (PKGBUILD)</h3>
 <hr />
-You may now compile and install tools using
-<a href="https://github.com/BlackArch/blackman" target="_blank">blackman</a>
-and PKGBUILD files.
+As part of an alternative method of installation, you can build the blackarch
+packages from source. You can find the PKGBUILDs <a href="https://github.com/BlackArch/blackarch/tree/master/packages">on github</a>.
 <br /><br />
-Install blackman tool:
-<p id="cfont_tab">$ sudo pacman -S blackman</p>
+To build the entire repo, you can use the
+<a href="https://github.com/BlackArch/blackman" target="_blank">blackman</a>
+tool.
+<br /><br />
+First, you must install blackman. If the BlackArch package repository is setup
+on your machine (see above), you can install blackman like so:
+<p id="cfont_tab">pacman -S blackman</p>
+You can build and install blackman from source like so: 
+<p id="cfont_tab">mkdir blackman</p>
+<p id="cfont_tab">cd blackman</p>
+<p id="cfont_tab">wget https://raw2.github.com/BlackArch/blackarch/master/packages/blackman/PKGBUILD</p>
+<p id="cfont_tab">makepkg -s</p>
+<br />
+You use blackman like so:
 <br />
 Download, compile and install packages:
-<p id="cfont_tab">$ blackman -i package</p>
+<p id="cfont_tab"># blackman -i package</p>
 <br />
 Download, compile and install whole category:
-<p id="cfont_tab">$ blackman -g group</p>
+<p id="cfont_tab"># blackman -g group</p>
 <br />
 Download, compile and install all of the BlackArch tools:
-<p id="cfont_tab">$ blackman -a</p>
+<p id="cfont_tab"># blackman -a</p>
 <br />
 To see the blackarch categories:
 <p id="cfont_tab">$ blackman -l</p>
