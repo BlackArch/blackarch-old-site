@@ -10,13 +10,12 @@ BlackArch is compatible with normal Arch installations. It acts as an unofficial
 <b>0.</b> If you have installed BlackArch before and there is an existing <span id="cfont_tab">[blackarch]</span> entry in <span id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run <span id="cfont_tab">pacman -Syy</span>.
 <br /><br />
 <b>1.</b> Run the following as root. This is for package signing.
-<p id="cfont_tab">wget http://blackarch.org/blackarch/blackarch/os/x86_64/blackarch-keyring-20140118-3-any.pkg.tar.xz{,.sig}</p>
-<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv-keys 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
-<p id="cfont_tab">gpg --keyserver-options no-auto-key-retrieve --with-fingerprint --verify blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
-<p id="cfont_tab"># Now make sure the file was signed with the correct key.</p>
-<p id="cfont_tab">rm blackarch-keyring-20140118-3-any.pkg.tar.xz.sig</p>
-<p id="cfont_tab">pacman-key --init</p>
-<p id="cfont_tab">pacman -U blackarch-keyring-20140118-3-any.pkg.tar.xz</p>
+<p id="cfont_tab">wget -q http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}</p>
+<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
+<p id="cfont_tab">gpg --keyserver-o no-auto-key-retrieve --with-f blackarch-keyring.pkg.tar.xz.sig</p>
+<p id="cfont_tab">pacman-key --in</p>
+<p id="cfont_tab">rm blackarch-keyring.pkg.tar.xz.sig</p>
+<p id="cfont_tab">pacman --noc -U blackarch-keyring.pkg.tar.xz</p>
 <br />
 <b>2.</b> If possible, please verify the signing key's fingerprint against as many sources as possible.
 <br />
@@ -59,7 +58,7 @@ First, you must install blackman. If the BlackArch package repository is setup
 on your machine (see above), you can install blackman like so:
 <p id="cfont_tab">pacman -S blackman</p>
 <br />
-You can build and install blackman from source like so: 
+You can build and install blackman from source like so:
 <p id="cfont_tab">mkdir blackman</p>
 <p id="cfont_tab">cd blackman</p>
 <p id="cfont_tab">wget https://raw2.github.com/BlackArch/blackarch/master/packages/blackman/PKGBUILD</p>
