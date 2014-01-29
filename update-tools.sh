@@ -1,36 +1,41 @@
-get_field() {
-  grep "^${1}=" ${f} | tr -d '()' | cut -d '=' -f 2 | sed "s/^['\"]//;s/['\"]$//"
+# Generate data/tools.
+# Format: <name>\t<version>\t<url>\t<description>
+
+site=blackarch.org
+repo=blackarch
+arch=x86_64
+out=data/tools
+
+cleanup() {
+	rm -rf "$tmp"
 }
 
-update_tools() {
-  echo "[*] updating data/tools"
-
-  rm -f data/tools
-
-  grep -l 'groups=(' git/blackarch/packages/*/PKGBUILD |
-  while read f ; do
-    pkgname=`get_field pkgname`
-    pkgver=`get_field pkgver`
-    pkgdesc=`get_field pkgdesc`
-    url=`get_field url`
-
-    printf '%s\t%s\t%s\t%s\n' "${pkgname}" "${pkgver}" "${pkgdesc}" "${url}" >> data/tools
-  done
+make_tmp() {
+	tmp=`mktemp -d /tmp/blackarch.XXXXXXXXXXX`
 }
 
-handle_git() {
-  if [ ! -d git/blackarch ] ; then
-    echo "[*] cloning git repo"
-    mkdir -p git
-    git clone https://git@github.com/BlackArch/blackarch.git git/blackarch \
-      > /dev/null 2>&1
-  else
-    echo "[*] updating git repo"
-    ( cd git/blackarch
-    git pull origin master \
-      > /dev/null 2>&1 )
-  fi
+get_db() {
+	curl "http://$site/blackarch/$repo/os/$arch/$repo.db.tar.gz" | tar xz -C "$tmp"
 }
 
-handle_git
-update_tools
+parse_db() {
+	mkdir -p "`dirname file`"
+
+	for d in "$tmp"/* ; do
+		grep -q '%GROUPS%' "$d/desc" || continue
+		grep --no-group-separator -A2 '^%\(NAME\|VERSION\|URL\|DESC\)%$' "$d/desc" |
+		# TODO: make this safer.
+		sed -e 's/[0-9]\+://' -e 's/-[0-9]\+//' |
+		  grep -ve '^%.*%$' -e '^$' | paste -s
+	done > "$out"
+}
+
+main() {
+	trap cleanup EXIT
+
+	make_tmp
+	get_db
+	parse_db
+}
+
+main "$@"
