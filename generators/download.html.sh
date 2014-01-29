@@ -7,6 +7,8 @@ cat <<\EOF
 <hr>
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">Live ISO</a> section.
 <br /><br />
+<b>Note:</b> You must follow these instuctions in order. Do not add blackarch to your <span id="cfont_tab">pacman.conf</span> file without following steps 0 to 2 first.
+<br /><br />
 <b>0.</b> If you have installed BlackArch before and there is an existing <span id="cfont_tab">[blackarch]</span> entry in <span id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run <span id="cfont_tab">pacman -Syy</span>.
 <br /><br />
 <b>1.</b> Run the following as root. This is for package signing.
