@@ -27,28 +27,28 @@ cat <<EOF
   <b>Fluxbox Window Manager</b>
   <br />
   <img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
-  width="320" height="220" />
+  width="320" height="200" />
   </td>
   <td width="20"></td>
   <td>
   <b>Openbox Window Manager</b>
   <br />
   <img src="images/screenshots/openbox.png" style="border:1px grey solid"
-  width="320" height="220" />
+  width="320" height="200" />
   </td>
   <td width="20"></td>
   <td>
   <b>Awesome Window Manager</b>
   <br />
   <img src="images/screenshots/awesome.png" style="border:1px grey solid"
-  width="320" height="220" />
+  width="320" height="200" />
   </td>
   <td width="20"></td>
   <td>
   <b>Spectrwm Window Manager</b>
   <br />
   <img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
-  width="320" height="220" />
+  width="320" height="200" />
   </td>
   </tr>
   </table>
