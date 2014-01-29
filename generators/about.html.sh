@@ -26,29 +26,29 @@ cat <<EOF
   <td>
   <b>Fluxbox Window Manager</b>
   <br />
-  <img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
-  width="320" height="200" />
+  <a href="images/screenshots/fluxbox.png"><img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
+  width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Openbox Window Manager</b>
   <br />
-  <img src="images/screenshots/openbox.png" style="border:1px grey solid"
-  width="320" height="200" />
+  <a href="images/screenshots/openbox.png"><img src="images/screenshots/openbox.png" style="border:1px grey solid"
+  width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Awesome Window Manager</b>
   <br />
-  <img src="images/screenshots/awesome.png" style="border:1px grey solid"
-  width="320" height="200" />
+  <a href="images/screenshots/awesome.png"><img src="images/screenshots/awesome.png" style="border:1px grey solid"
+  width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Spectrwm Window Manager</b>
   <br />
-  <img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
-  width="320" height="200" />
+  <a href="images/screenshots/spectrwm.png"><img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
+  width="320" height="200" /></a>
   </td>
   </tr>
   </table>
