@@ -19,9 +19,44 @@ cat <<EOF
 	href="mailto:blackarchlinux@gmail.com" title="Contact BlackArch
 	Team">email</a> us.
 	<br /><br />
+	<h3>Screenshots</h3>
+	<hr>
+  <table>
+  <tr>
+  <td>
+  <b>Fluxbox Window Manager</b>
+  <br />
+  <img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
+  width="320" height="220" />
+  </td>
+  <td width="20"></td>
+  <td>
+  <b>Openbox Window Manager</b>
+  <br />
+  <img src="images/screenshots/openbox.png" style="border:1px grey solid"
+  width="320" height="220" />
+  </td>
+  <td width="20"></td>
+  <td>
+  <b>Awesome Window Manager</b>
+  <br />
+  <img src="images/screenshots/awesome.png" style="border:1px grey solid"
+  width="320" height="220" />
+  </td>
+  <td width="20"></td>
+  <td>
+  <b>Spectrwm Window Manager</b>
+  <br />
+  <img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
+  width="320" height="220" />
+  </td>
+  </tr>
+  </table>
+  <br />
 	<h3>Who is behind BlackArch Linux?</h3>
 	<hr>
-	BlackArch Linux is backed by a team of volunteers. Some of them have chosen to appear in this list:
+	BlackArch Linux is backed by a team of volunteers. Some of them have chosen
+  to appear in this list:
 	<br /><br />
 	<table width="1100">
 		<tr>
