@@ -12,8 +12,9 @@ cat <<EOF
 	in groups. BlackArch is compatible with existing Arch installs. For more information, see the
 	<a href="https://github.com/BlackArch/blackarch/blob/master/docs/README.md">installation instructions</a>.
 	<br /><br />
-	This is a relatively new project. You will probably find little bugs here and
-	there. To report bugs and request new tools, please visit the
+	Please note that although BlackArch is past the beta stage, it is still a
+	relatively new project. To report bugs and request new tools, please visit
+	the
 	<a href="https://github.com/BlackArch/blackarch/issues">issue tracker</a>
 	on Github, stop by <a href="contact.html">IRC</a>, or <a
 	href="mailto:blackarchlinux@gmail.com" title="Contact BlackArch
@@ -21,6 +22,8 @@ cat <<EOF
 	<br /><br />
 	<h3>Screenshots</h3>
 	<hr>
+	The BlackArch Live ISO contains multiple window managers. Here are
+	screenshots of a few of them:
   <table>
   <tr>
   <td>
