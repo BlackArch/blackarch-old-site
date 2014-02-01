@@ -1,9 +1,10 @@
 cat common/start
 cat common/header
 
-cat <<\EOF
+cat <<EOF
 <br/>
 <div id="info">
+<b>Tool count: ${TOOL_COUNT}</b>
 <table id="tbl-minimalist" summary="Package List">
 <thead>
 <tr>
