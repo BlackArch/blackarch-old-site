@@ -24,33 +24,38 @@ cat <<EOF
 	<hr>
 	The BlackArch Live ISO contains multiple window managers. Here are
 	screenshots of a few of them:
+  <br /><br />
   <table>
   <tr>
   <td>
   <b>Fluxbox Window Manager</b>
   <br />
-  <a target="_blank" href="images/screenshots/fluxbox.png"><img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
+  <a target="_blank" href="images/screenshots/fluxbox.png">
+  <img src="images/screenshots/fluxbox.png" style="border:1px grey solid"
   width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Openbox Window Manager</b>
   <br />
-  <a target="_blank" href="images/screenshots/openbox.png"><img src="images/screenshots/openbox.png" style="border:1px grey solid"
+  <a target="_blank" href="images/screenshots/openbox.png">
+  <img src="images/screenshots/openbox.png" style="border:1px grey solid"
   width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Awesome Window Manager</b>
   <br />
-  <a target="_blank" href="images/screenshots/awesome.png"><img src="images/screenshots/awesome.png" style="border:1px grey solid"
+  <a target="_blank" href="images/screenshots/awesome.png">
+  <img src="images/screenshots/awesome.png" style="border:1px grey solid"
   width="320" height="200" /></a>
   </td>
   <td width="20"></td>
   <td>
   <b>Spectrwm Window Manager</b>
   <br />
-  <a target="_blank" href="images/screenshots/spectrwm.png"><img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
+  <a target="_blank" href="images/screenshots/spectrwm.png">
+  <img src="images/screenshots/spectrwm.png" style="border:1px grey solid"
   width="320" height="200" /></a>
   </td>
   </tr>
