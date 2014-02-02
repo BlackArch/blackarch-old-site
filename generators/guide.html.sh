@@ -6,6 +6,7 @@ cat <<\EOF
 <h3>The BlackArch Linux Guide</h3>
 <hr>
 <br />
+Coming soon ... 
 </div>
 EOF
 
