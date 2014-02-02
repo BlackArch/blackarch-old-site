@@ -65,7 +65,7 @@ You can build and install blackman from source like so:
 <p id="cfont_tab">cd blackman</p>
 <p id="cfont_tab">wget https://raw2.github.com/BlackArch/blackarch/master/packages/blackman/PKGBUILD</p>
 <p id="cfont_tab"># Make sure the PKGBUILD has not been maliciously tampered with.</p>
-<p id="cfont_tab">makepkg -s</p>
+<p id="cfont_tab">makepkg -si</p>
 <br />
 You use blackman like so:
 <br />
