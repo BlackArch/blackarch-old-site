@@ -103,7 +103,7 @@ bootloader configuration, which is bad. You can use this instead:
 <br /><br />
 <p id="cfont_tab"># dd bs=512M if=file.iso of=/dev/sdX</p>
 <br />
-<b>Default login for all ISOs: root:blackarch</b>
+====== Default <span class="red"><b>username/password</b></span> for all ISOs: <span class="red">root:blackarch</span> ======
 <br /><br />
 <b>Live-ISO</b>
 <br />

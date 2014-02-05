@@ -67,6 +67,10 @@ img {
   color: #565656;
 }
 
+.red {
+  color: #C40000;
+}
+
 div.box {
   border: 1px solid #ccc;
   border-radius: 10px;
