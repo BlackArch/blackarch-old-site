@@ -153,6 +153,15 @@ http://blackarch.smartdefence.cl/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
+<a href="http://mirror.jmu.edu/blackarch/" target="_blank">
+http://mirror.jmu.edu/blackarch/</a>
+<br />
+<a href="ftp://mirror.jmu.edu/blackarch/" target="_blank">
+ftp://mirror.jmu.edu/blackarch/</a>
+<br />
+<a href="rsync://mirror.jmu.edu/blackarch/" target="_blank">
+rsync://mirror.jmu.edu/blackarch/</a>
+<br />
 <a href="http://mirror.oss.maxcdn.com/blackarch/" target="_blank">
 http://mirror.oss.maxcdn.com/blackarch/</a>
 <br />
