@@ -23,6 +23,6 @@ fi
 rsync --rsh="ssh -A -l ${usr}" --chmod "a+rX,ug+w" -avz \
     about.html blackarch contact.html css data donate.html download.html \
     favicon.ico fixperms.sh gpg images index.html packages.html pub tmp \
-    tools.html guide.html "$site:/$rdir" \
+    tools.html guide.html guide.pdf logo.png "$site:/$rdir" \
 
 ssh "$usr@$site" 'sudo sh /nginx/var/www/fixperms.sh'
