@@ -137,7 +137,7 @@ http://blackarch.dropswitch.net/blackarch/</a>
 <img src="images/flags/cn.png" /> <b>China</b>
 <br />
 <a href="http://mirrors.hustunique.com/blackarch/" target="_blank">
-http://mirrors.hustunique.com/blackarch</a>
+http://mirrors.hustunique.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
