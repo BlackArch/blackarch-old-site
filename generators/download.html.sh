@@ -134,6 +134,11 @@ The following list contains official BlackArch Linux mirror sites.
 <a href="http://blackarch.dropswitch.net/blackarch/" target="_blank">
 http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />
+<img src="images/flags/cn.png" /> <b>China</b>
+<br />
+<a href="http://mirrors.hustunique.com/blackarch/" target="_blank">
+http://mirrors.hustunique.com/blackarch</a>
+<br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
 <a href="http://blackarch.pi3rrot.net/blackarch/" target="_blank">
