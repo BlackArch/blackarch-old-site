@@ -4,6 +4,16 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New keyring</a><d>1 Jan 2014</d></h3>
+        <hr>
+        All existing users must follow the <a
+        href="http://blackarch.org/download.html">new installation
+        instructions</a>, including step 0.
+        <br />
+        We switched to a more robust keyring. The new keyring is a modification
+		of the keyring used by the Arch Linux developers.
+        <br />
+        <br />
         <h3><a href="">Live ISOs, Status, and Futures</a><d>12 Jan 2014</d></h3>
         <hr>
         <p>BlackArch Linux is an Arch-based GNU/Linux distribution for pentesters and
