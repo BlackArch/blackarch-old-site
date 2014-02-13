@@ -29,23 +29,23 @@ Replace <span id="cfont_tab">&lt;mirror_site&gt;</span> with a mirror site of yo
 <br />
 <br />
 <b>4.</b> Now run:
-<p id="cfont_tab">$ sudo pacman -Syyu</p>
+<p id="cfont_tab"># pacman -Syyu</p>
 <br />
 <h3>Installing packages</h3>
 <hr>
 You may now install tools from the blackarch repository.
 <br /><br />
 To list all of the available tools, run
-<p id="cfont_tab">$ sudo pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u</p>
+<p id="cfont_tab"># pacman -Sgg | grep blackarch | cut -d' ' -f2 | sort -u</p>
 <br />
 To install all of the tools, run
-<p id="cfont_tab">$ sudo pacman -S blackarch</p>
+<p id="cfont_tab"># pacman -S blackarch</p>
 <br />
 To install a category of tools, run
-<p id="cfont_tab">$ sudo pacman -S blackarch-&lt;category&gt;</p>
+<p id="cfont_tab"># pacman -S blackarch-&lt;category&gt;</p>
 <br />
 To see the blackarch categories, run
-<p id="cfont_tab">$ sudo pacman -Sg | grep blackarch</p>
+<p id="cfont_tab"># pacman -Sg | grep blackarch</p>
 <br />
 <h3>Installing packages from source (PKGBUILD)</h3>
 <hr />
@@ -87,7 +87,7 @@ To see category tools:
 <h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
 <hr />
 Install blackarch-install-scripts package:
-<p id="cfont_tab">$ sudo pacman -S blackarch-install-scripts</p>
+<p id="cfont_tab"># pacman -S blackarch-install-scripts</p>
 <br />
 Run
 <p id="cfont_tab"># blackarch-install</p>
