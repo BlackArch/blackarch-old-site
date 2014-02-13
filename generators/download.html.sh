@@ -99,9 +99,12 @@ The images can be burned to a DVD, mounted as an ISO file, or be directly writte
 to a USB stick using a utility like `dd`.
 <br /><br />
 Do not use UNetBootIn to write the ISO file to a disk. UNetBootIn modifies the
-bootloader configuration, which is bad. You can use this instead:
-<br /><br />
+bootloader configuration, which is bad. You can use this instead (where
+/dev/sdX is your flashdrive):
+<br />
 <p id="cfont_tab"># dd bs=512M if=file.iso of=/dev/sdX</p>
+Example:
+<p id="cfont_tab"># dd bs=512M if=file.iso of=/dev/sde</p>
 <br />
 ====== Default <span class="red"><b>username/password</b></span> for all ISOs: <span class="red">root:blackarch</span> ======
 <br /><br />
