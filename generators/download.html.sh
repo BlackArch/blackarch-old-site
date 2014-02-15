@@ -9,7 +9,12 @@ BlackArch is compatible with normal Arch installations. It acts as an unofficial
 <br /><br />
 <b>Note:</b> You must follow these instuctions in order. Do not add blackarch to your <span id="cfont_tab">pacman.conf</span> file without following steps 0 to 2 first.
 <br /><br />
-<b>0.</b> If you have installed BlackArch before and there is an existing <span id="cfont_tab">[blackarch]</span> entry in <span id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run <span id="cfont_tab">pacman -Syy</span>.
+<b>0.</b> If you have installed BlackArch before and there is an existing <span
+id="cfont_tab">[blackarch]</span> entry in <span
+id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run
+<span id="cfont_tab">pacman -Syy</span>. There must not be a <span
+id="cfont_tab">[blackarch]</span> entry in <span
+id="cfont_tab">/etc/pacman.conf</span> during steps 1 and 2.
 <br /><br />
 <b>1.</b> Run the following as root. This is for package signing.
 <p id="cfont_tab">wget -q http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}</p>
