@@ -7,33 +7,19 @@ cat <<\EOF
 <hr>
 BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">Live ISO</a> section.
 <br /><br />
-<b>Note:</b> You must follow these instuctions in order. Do not add blackarch to your <span id="cfont_tab">pacman.conf</span> file without following steps 0 to 2 first.
+<b>1.</b>Run <a href="http://blackarch.org/strap.sh"
+	target="_blank">http://blackarch.org/strap.sh</a> as root. Example:
 <br /><br />
-<b>0.</b> If you have installed BlackArch before and there is an existing <span
-id="cfont_tab">[blackarch]</span> entry in <span
-id="cfont_tab">/etc/pacman.conf</span>, remove or comment out the entry and run
-<span id="cfont_tab">pacman -Syy</span>. There must not be a <span
-id="cfont_tab">[blackarch]</span> entry in <span
-id="cfont_tab">/etc/pacman.conf</span> during steps 1 and 2.
+<p id="cfont_tab">curl -s http://blackarch.org/strap.sh | sudo sh</p>
+<br />
+<b>2.</b> Append the following lines to your <span id="cfont_tab">/etc/pacman.conf</span> file:
 <br /><br />
-<b>1.</b> Run the following as root. This is for package signing.
-<p id="cfont_tab">wget -q http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}</p>
-<p id="cfont_tab">gpg --keyserver hkp://pgp.mit.edu --recv 4345771566D76038C7FEB43863EC0ADBEA87E4E3</p>
-<p id="cfont_tab">gpg --keyserver-o no-auto-key-retrieve --with-f blackarch-keyring.pkg.tar.xz.sig</p>
-<p id="cfont_tab">pacman-key --init</p>
-<p id="cfont_tab">rm blackarch-keyring.pkg.tar.xz.sig</p>
-<p id="cfont_tab">pacman --noc -U blackarch-keyring.pkg.tar.xz</p>
-<br />
-<b>2.</b> If possible, please verify the signing key's fingerprint against as many sources as possible.
-<br />
-<br />
-<b>3.</b> Append the following lines to your /etc/pacman.conf file:
 <p id="cfont_tab">[blackarch]</p>
 <p id="cfont_tab">Server = &lt;mirror_site&gt;/$repo/os/$arch</p>
+<br />
 Replace <span id="cfont_tab">&lt;mirror_site&gt;</span> with a mirror site of your choosing. Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
-<br />
-<br />
-<b>4.</b> Now run:
+<br /><br />
+<b>3.</b> Now run:
 <p id="cfont_tab"># pacman -Syyu</p>
 <br />
 <h3>Installing packages</h3>
