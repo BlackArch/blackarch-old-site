@@ -4,6 +4,19 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">netcon.sh and strap.sh</a><d>20 Jan 2014</d></h3>
+        <hr>
+		BlackArch now comes with <a
+		href="https://github.com/BlackArch/netcon">netcon.sh</a>, a script to
+		establish network connections with the option to spoof MAC addresses,
+		hostnames, clientids, etc.
+        <br />
+        <br />
+		Also, we simplified the <a
+		href="http://blackarch.org/download.html">installation instructions</a>
+		with a new script: strap.sh.
+        <br />
+        <br />
         <h3><a href="">New keyring</a><d>1 Jan 2014</d></h3>
         <hr>
         All existing users must follow the <a
@@ -11,7 +24,7 @@ cat <<\EOF
         instructions</a>, including step 0.
         <br />
         We switched to a more robust keyring. The new keyring is a modification
-		of the keyring used by the Arch Linux developers.
+        of the keyring used by the Arch Linux developers.
         <br />
         <br />
         <h3><a href="">Live ISOs, Status, and Futures</a><d>12 Jan 2014</d></h3>
