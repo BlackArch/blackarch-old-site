@@ -1,6 +1,10 @@
 #!/bin/sh
 
-usr="${1}"
+if [ -z "${1}" ] ; then
+	usr="${USER}"
+else
+	usr="${1}"
+fi
 site='blackarch.org'
 rdir='/nginx/var/www'
 
