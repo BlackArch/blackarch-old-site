@@ -4,7 +4,7 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
-        <h3><a href="">netcon.sh and strap.sh</a><d>20 Jan 2014</d></h3>
+        <h3><a href="">netcon.sh and strap.sh</a><d>20 Feb 2014</d></h3>
         <hr>
 		BlackArch now comes with <a
 		href="https://github.com/BlackArch/netcon">netcon.sh</a>, a script to
