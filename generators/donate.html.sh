@@ -13,9 +13,6 @@ work, and we don't have the personal funds to sustain server costs ourselves.
 development, documentation, or support aren't your strong points, you could
 certainly help us by dropping a few bucks our way. Many thanks!</p>
 <br />
-<h3>Bitcoin</h3>
-Send bitcoins here: 12sRvJo1a7dz5Gzbyhsbswjihz4GYs2rYr
-<br />
 <br />
 <h3>Paypal</h3>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"
