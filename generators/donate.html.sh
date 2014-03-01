@@ -5,7 +5,7 @@ cat <<\EOF
 <div id="dl_body">
 <h3>Donate to BlackArchLinux</h3>
 <hr>
-<p><b>BlackArchLinux</b> survives because of the tireless efforts of many people
+<p><b>BlackArch Linux</b> survives because of the tireless efforts of many people
 in the community and the core development circle. None of us are paid for our
 work, and we don't have the personal funds to sustain server costs ourselves.
 </p><br/>
@@ -13,8 +13,9 @@ work, and we don't have the personal funds to sustain server costs ourselves.
 development, documentation, or support aren't your strong points, you could
 certainly help us by dropping a few bucks our way. Many thanks!</p>
 <br />
-<br />
 <h3>Paypal</h3>
+<hr>
+<br />
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"
 target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
