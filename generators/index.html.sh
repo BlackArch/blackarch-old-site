@@ -12,8 +12,8 @@ cat <<\EOF
         see over 600 tools in each ARM repo within a week or two.
         <br />
         <br />
-        Soon, we will release ARM ISOs and images for various devices including
-        the Raspberry Pi and Pandaboard.
+		Soon, we will release ARM images for various devices including the
+		Raspberry Pi and Pandaboard.
         <br />
         <br />
         We also released new ISOs today. The new ISOs make the following
