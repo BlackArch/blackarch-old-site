@@ -8,12 +8,6 @@ fi
 site='blackarch.org'
 rdir='/nginx/var/www'
 
-if [ ${#} -ne 1 ]
-then
-    echo "[!] usage: sync.sh <user>"
-    exit 1337
-fi
-
 cd "`dirname "$0"`"
 
 if [ -z ${SSH_AUTH_SOCK} ]
