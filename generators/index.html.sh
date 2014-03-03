@@ -4,6 +4,31 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">ARM Support and New ISOs</a><d>03 Mar 2014</d></h3>
+        <hr>
+        BlackArch now has ARM support. Currently, there are 515 tools in the
+        armv6h repo and 281 tools in the armv7h repo. We are working to close
+        the gap between the ARM repos and the x86_64 and i686 repos. Expect to
+        see over 600 tools in each ARM repo within a week or two.
+        <br />
+        <br />
+        Soon, we will release ARM ISOs and images for various devices including
+        the Raspberry Pi and Pandaboard.
+        <br />
+        <br />
+        We also released new ISOs today. The new ISOs make the following
+        changes:
+        <ul>
+        <li>- package: added zathura</li>
+        <li>- package: added lsof</li>
+        <li>- package: added pkgfile</li>
+        <li>- disabled pc speaker beep</li>
+        <li>- added initial /etc/motd with notes</li>
+        <li>- vim: removed alias of vi="vim"</li>
+        <li>- vim: disabled remap of ':'</li>
+        <li>- vim: set ttimeoutlen=100</li>
+        </ul>
+        <br />
         <h3><a href="">netcon.sh and strap.sh</a><d>20 Feb 2014</d></h3>
         <hr>
 		BlackArch now comes with <a
