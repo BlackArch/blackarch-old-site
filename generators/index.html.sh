@@ -6,7 +6,7 @@ cat <<\EOF
     <div id="left">
         <h3><a href="">ARM Support and New ISOs</a><d>03 Mar 2014</d></h3>
         <hr>
-        BlackArch now has ARM support. Currently, there are 550 tools in the
+        BlackArch now has ARM support. Currently, there are 570 tools in the
         armv6h repo and 281 tools in the armv7h repo. We are working to close
         the gap between the ARM repos and the x86_64 and i686 repos. Expect to
         see over 600 tools in each ARM repo within a week or two.
