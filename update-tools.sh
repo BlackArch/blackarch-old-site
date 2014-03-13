@@ -1,6 +1,8 @@
 # Generate data/tools.
 # Format: <name>\t<version>\t<url>\t<description>
 
+export LC_ALL=C
+
 site=blackarch.org
 repo=blackarch
 arch=x86_64
