@@ -223,6 +223,7 @@ hexinject	1.5	A very versatile packet injector and sniffer that provides a comma
 hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
 hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
 honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
+honssh	21.b9880b4	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
 hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
 htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
@@ -268,6 +269,7 @@ johnny	20120424	GUI for John the Ripper	http://openwall.info/wiki/john/johnny
 joomscan	2012.03.10	Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site.	http://joomscan.sourceforge.net/
 js-beautify	1.4.2	This little beautifier will reformat and reindent bookmarklets, ugly JavaScript, unpack scripts packed by Dean Edward?s popular packer, as well as deobfuscate scripts processed by javascriptobfuscator.com.	https://github.com/einars/js-beautify
 jsql	0.5	A lightweight application used to find database information from a distant server.	https://code.google.com/p/jsql-injection/
+junkie	1041.37b44a4	A modular packet sniffer and analyzer.	https://github.com/securactive/junkie
 jynx2	2.0	An expansion of the original Jynx LD_PRELOAD rootkit	http://www.blackhatlibrary.net/Jynx2
 kautilya	0.4.4	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	http://code.google.com/p/kautilya
 keimpx	0.2	Tool to verify the usefulness of credentials across a network over SMB	http://code.google.com/p/keimpx/
