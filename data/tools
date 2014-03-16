@@ -20,6 +20,7 @@ allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	ht
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fastboot)	http://developer.android.com/sdk/index.html
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
 android-udev-rules	1.0.4	Android udev rules	https://github.com/bbqlinux/android-udev-rules
+aphopper	0.3	AP Hopper is a program that automatically hops between access points of different wireless networks.	http://aphopper.sourceforge.net/
 arachni	0.4.6	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
 arduino	1.0.5	Arduino SDK (includes patched avrdude and librxtx)	http://arduino.cc/en/Main/Software
 armitage	1138	A graphical cyber attack management tool for Metasploit	http://www.fastandeasyhacking.com/
@@ -256,6 +257,7 @@ ipaudit	1.0BETA2	IPAudit monitors network activity on a network.	http://ipaudit.
 ipba2	032013	IOS Backup Analyzer	http://www.ipbackupanalyzer.com/
 ipscan	3.2.1	Angry IP scanner is a very fast IP address and port scanner.	http://www.angryziber.com
 ipv6toolkit	1.5.2	SI6 Networks' IPv6 Toolkit	http://www.si6networks.com/tools/ipv6toolkit/
+ircsnapshot	93.9ba3c6c	Tool to gather information from IRC servers.	https://github.com/bwall/ircsnapshot
 irpas	0.10	Internetwork Routing Protocol Attack Suite.	http://phenoelit-us.org/irpas
 isr-form	1.0	Simple html parsing tool that extracts all form related information and generates reports of the data. Allows for quick analyzing of data.	http://www.infobyte.com.ar/
 javasnoop	1.1	A tool that lets you intercept methods, alter data and otherwise hack Java applications running on your computer	https://code.google.com/p/javasnoop/
