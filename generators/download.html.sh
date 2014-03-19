@@ -3,9 +3,11 @@ cat common/header
 
 cat <<\EOF
 <div id="dl_body">
-<h3>Setting up as an Unofficial User Repository</h3>
+<a name="unofficial_user_repository"><h3>Setting up as an Unofficial User Repository</h3></a>
 <hr>
-BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">Live ISO</a> section.
+BlackArch is compatible with normal Arch installations. It acts as an unofficial user repository. If you want an ISO instead, see the <a href="#iso">ISO</a> section.
+<br />
+If you wish to install BlackArch on an ARM device, see the <a href="#arm">ARM</a> section.
 <br /><br />
 <b>1.</b>Run <a href="http://blackarch.org/strap.sh"
 	target="_blank">http://blackarch.org/strap.sh</a> as root. Example:
@@ -22,7 +24,7 @@ Replace <span id="cfont_tab">&lt;mirror_site&gt;</span> with a mirror site of yo
 <b>3.</b> Now run:
 <p id="cfont_tab"># pacman -Syyu</p>
 <br />
-<h3>Installing packages</h3>
+<h3>Installing Packages</h3>
 <hr>
 You may now install tools from the blackarch repository.
 <br /><br />
@@ -75,15 +77,20 @@ To see the blackarch categories:
 To see category tools:
 <p id="cfont_tab">$ blackman -p category</p>
 <br />
-<h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
+<a name="arm"><h3>ARM</h3></a>
 <hr />
-Install blackarch-install-scripts package:
-<p id="cfont_tab"># pacman -S blackarch-install-scripts</p>
-<br />
-Run
-<p id="cfont_tab"># blackarch-install</p>
-<br />
-<a name="iso"><h3>BlackArch Linux ISOs</h3></a>
+BlackArch is compatible with ArchLinuxARM, meaning it effectively supports all
+of the platforms listed <a href="http://archlinuxarm.org/platforms">here</a>.
+<br /><br />
+In order to install BlackArch on an ARM platform, follow the install
+instructions for your device on <a
+href="http://archlinuxarm.org/platforms">archlinuxarm.org</a> and install
+BlackArch
+<a href="#unofficial_user_repository">as an unofficial user repository</a>.
+Soon we will release adaptations of the ArchLinuxARM images with BlackArch
+packages pre-installed.
+<br /><br />
+<a name="iso"><h3>ISO</h3></a>
 <hr>
 The following list contains official BlackArch live-ISO and netinstall-ISO images.
 The images can be burned to a DVD, mounted as an ISO file, or be directly written
@@ -119,6 +126,14 @@ blackarchlinux-netinst-2014.03.02-x86_64.iso</a>
 blackarchlinux-netinst-2014.03.02-i686.iso</a>
 - SHA1: fbb9094c98d83f52086c760e9fa63c860af7aa0f - Size: 297 MB
 <br /><br />
+<h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
+<hr />
+Install blackarch-install-scripts package:
+<p id="cfont_tab"># pacman -S blackarch-install-scripts</p>
+<br />
+Run
+<p id="cfont_tab"># blackarch-install</p>
+<br />
 <a name="mirrors"><h3>Mirror Sites</h3></a>
 <hr>
 The following list contains official BlackArch Linux mirror sites.
