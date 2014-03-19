@@ -150,7 +150,6 @@ cat <<\EOF
 EOF
 
 echo '<div id="right">'
-cat common/recent_updates
 cat common/blurb_tweets
 cat common/blurb_donate
 cat common/blurb_irc
