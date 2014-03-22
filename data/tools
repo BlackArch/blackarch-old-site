@@ -505,6 +505,7 @@ slowhttptest	1.5	A highly configurable tool that simulates application layer den
 slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
 smali	1.4.1	An assembler/disassembler for Android's dex format	http://code.google.com/p/smali/
 smbbf	0.9.1	SMB password bruteforcer.	http://packetstormsecurity.com/files/25381/smbbf.9.1.tar.gz.html
+smbexec	120.d7ca0ea	A rapid psexec style attack with samba tools.	https://github.com/pentestgeek/smbexec
 smbrelay	3	SMB / HTTP to SMB replay attack toolkit.	http://www.tarasco.org/security/smbrelay/
 smtp-fuzz	1.0	Simple smtp fuzzer	none
 smtp-user-enum	1.2	Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.	http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum
@@ -574,6 +575,7 @@ termineter	0.1.0	Smart meter testing framework	https://code.google.com/p/termine
 tftp-bruteforce	0.1	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
 tftp-fuzz	1337	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
 thc-ipv6	2.3	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
+thc-keyfinder	1.0	Finds crypto keys, encrypted data and compressed data in files by analyzing the entropy of parts of the file.	https://www.thc.org/releases.php
 thc-pptp-bruter	0.1.4	A brute force program that works against pptp vpn endpoints (tcp port 1723).	http://www.thc.org
 thc-ssl-dos	1.4	A tool to verify the performance of SSL. To be used in your authorized and legitimate area ONLY. You need to accept this to make use of it, no use for bad intentions, you have been warned!	http://www.thc.org/thc-ssl-dos/
 theharvester	2.2a	Python tool for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers)	http://www.edge-security.com/theHarvester.php
@@ -592,6 +594,7 @@ twofi	1.0	Twitter Words of Interest	http://www.digininja.org/projects/twofi.php
 u3-pwn	2.0	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
 uatester	1.06	User Agent String Tester	http://code.google.com/p/ua-tester/
 ubertooth	2012.10.R1	A 2.4 GHz wireless development board suitable for Bluetooth experimentation. Open source hardware and software. Tools only	http://sourceforge.net/projects/ubertooth/
+ubitack	0.3	Tool, which automates some of the tasks you might need on a (wireless) penetration test or while you are on the go.	https://code.google.com/p/ubitack/
 udis86	1.7.2	A minimalistic disassembler library	http://udis86.sourceforge.net/
 udptunnel	19	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
 ufo-wardriving	4	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
