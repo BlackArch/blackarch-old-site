@@ -89,6 +89,7 @@ cisco-auditing-tool	1	Perl script which scans cisco routers for common vulnerabi
 cisco-global-exploiter	1.3	A perl script that targets multiple vulnerabilities in the Cisco Internetwork Operating System (IOS) and Catalyst products.	http://www.blackangels.it
 cisco-ocs	0.2	Cisco Router Default Password Scanner	http://www.question-defense.com/2013/01/11/ocs-version-2-release-ocs-cisco-router-default-password-scanner
 cisco-router-config	1.1	copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration
+cisco-scanner	0.2	Multithreaded Cisco HTTP vulnerability scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 cisco-torch	0.4b	Cisco Torch mass scanning, fingerprinting, and exploitation tool.	http://www.arhont.com
 ciscos	1.3	Scans class A, B, and C networks for cisco routers which have telnet open and have not changed the default password from cisco.
 cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://www.cgsecurity.org/wiki/CmosPwd
@@ -183,6 +184,7 @@ fpdns	0.9.3	Program that remotely determines DNS server versions	http://code.goo
 fport	2.0	Identify unknown open ports and their associated applications.	http://www.foundstone.com/us/resources/proddesc/fport.htm
 ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
 ftp-fuzz	1337	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
+ftp-scanner	0.2.5	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 ftpmap	0.4	scans remote FTP servers to identify what software and what versions they are running.	http://wcoserver.googlecode.com/files/
 fusil	1.4	Fusil the fuzzer is a Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	http://bitbucket.org/haypo/fusil/wiki/Home
 fuzzball2	0.7	A little fuzzer for TCP and IP options. It sends a bunch of more or less bogus packets to the host of your choice.	http://nologin.org/
@@ -303,7 +305,7 @@ lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
-lynis	1.4.6	An auditing tool for Unix (specialists)	http://www.rootkit.nl/projects/lynis.html
+lynis	1.4.7	An auditing tool for Unix (specialists)	http://www.rootkit.nl/projects/lynis.html
 magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
 magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
@@ -458,6 +460,7 @@ rfidtool	0.01	A opensource tool to read / write rfid tags	http://www.bindshell.n
 rifiuti2	0.5.1	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	https://code.google.com/p/rifiuti2/
 rinetd	0.62	internet redirection server	http://www.boutell.com/rinetd
 ripdc	0.2	A script which maps domains related to an given ip address or domainname.	http://nullsecurity.net/tools/scanner
+rlogin-scanner	0.2	Multithreaded rlogin scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 rootbrute	0.1	Local root account bruteforcer.	http://www.packetstormsecurity.org/
 ropeadope	1.1	A linux log cleaner.	http://www.highhacksociety.com/
 ropeme	1.0	ROPME is a set of python scripts to generate ROP gadgets and payload.	http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/
