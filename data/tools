@@ -8,6 +8,7 @@ admid-pack	0.1	ADM DNS spoofing tools - Uses a variety of active and passive met
 admsnmp	0.1	ADM SNMP audit scanner.
 aesfix	1.0.1	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
 aeskeyfind	1.0	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
+aespipe	2.4c	Reads data from stdin and outputs encrypted or decrypted results to stdout.	http://loop-aes.sourceforge.net/aespipe/
 afflib	3.7.1	An extensible open format for the storage of disk images and related forensic information	http://www.afflib.org
 against	0.2	A very fast ssh attacking script which includes a multithreaded port scanning module (tcp connect) for discovering possible targets and a multithreaded brute-forcing module which attacks parallel all discovered hosts or given ip addresses from a list.	http://nullsecurity.net/tools/cracker.html
 aimage	3.2.5	A program to create aff-images.	http://www.afflib.org
@@ -32,6 +33,7 @@ artillery	1.0.2	A combination of a honeypot, file-system monitoring, system hard
 asleap	2.2	Actively recover LEAP/PPTP passwords.	http://www.willhackforsushi.com/Asleap.html
 asp-audit	2BETA	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
 auto-xor-decryptor	3.6a1f8f7	Automatic XOR decryptor tool.	http://www.blog.mrg-effitas.com/publishing-of-mrg-effitas-automatic-xor-decryptor-tool/
+automake.11	1.11.6	A GNU tool for automatically creating Makefiles	http://www.gnu.org/software/automake
 autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backdoor-factory	0.r54.cb62c04	Patch win32/64 binaries with shellcode	https://github.com/secretsquirrel/the-backdoor-factory
 batman-adv	2013.4.0	batman kernel module, (included upstream since .38)	http://www.open-mesh.net/
@@ -77,6 +79,7 @@ carwhisperer	0.2	Intends to sensibilise manufacturers of carkits and other Bluet
 casefile	1.0.1	The little brother to Maltego without transforms, but combines graph and link analysis to examine links between manually added data to mind map your information	http://www.paterva.com/web6/products/casefile.php
 cdpsnarf	0.1.6	Cisco discovery protocol sniffer	https://github.com/Zapotek/cdpsnarf
 cewl	4.3	A custom word list generator	http://www.digininja.org/projects/cewl.php
+cflow	1.4	A C program flow analyzer	http://www.gnu.org/software/cflow/
 chaosmap	1.3	An information gathering tool and dns / whois / web server scanner	http://freecode.com/projects/chaosmap
 chaosreader	0.94	A freeware tool to trace tcp, udp etc. sessions and fetch application data from snoop or tcpdump logs.	http://chaosreader.sourceforge.net/
 checkpwd	1.23	Oracle Password Checker (Cracker)	http://www.red-database-security.com/software/checkpwd.html
@@ -95,7 +98,7 @@ ciscos	1.3	Scans class A, B, and C networks for cisco routers which have telnet 
 cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://www.cgsecurity.org/wiki/CmosPwd
 cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	http://code.google.com/p/cms-explorer
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
-conscan	0.5	Concrete5 blackbox vulnerability scanner	https://github.com/TheXerocouk/conscan
+conscan	1.0.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
 cookie-cadger	1.06	An auditing tool for Wi-Fi or wired Ethernet connections	https://cookiecadger.com/
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
 cpptest	1.1.2	A portable and powerful, yet simple, unit testing framework for handling automated tests in C++.	http://cpptest.sourceforge.net/
@@ -107,7 +110,7 @@ crunch	3.4	A wordlist generator for all combinations/permutations of a given cha
 cryptcat	1.2.1	A lightweight version of netcat with integrated transport encryption capabilities.	http://sourceforge.net/projects/cryptcat
 csrftester	1.0	The OWASP CSRFTester Project attempts to give developers the ability to test their applications for CSRF flaws.	http://www.owasp.org/index.php/Category:OWASP_CSRFTester_Project
 ctunnel	0.6	Tunnel and/or proxy TCP or UDP connections via a cryptographic tunnel.	http://nardcore.org/ctunnel
-cuckoo	1.0	A malware analysis system	http://cuckoosandbox.org/
+cuckoo	1.1	A malware analysis system.	http://cuckoosandbox.org/
 cupp	3.0	Common User Password Profiler	http://www.remote-exploit.org/?page_id=418
 cutycapt	10	A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.	http://cutycapt.sourceforge.net/
 cymothoa	1	A stealth backdooring tool, that inject backdoor's shellcode into an existing process.	http://cymothoa.sourceforge.net/
@@ -134,12 +137,12 @@ dnsa	0.5	DNSA is a dns security swiss army knife	http://packetfactory.openwall.n
 dnsbf	0.2	search for available domain names in an IP range	http://code.google.com/p/dnsbf
 dnschef	0.2.1	A highly configurable DNS proxy for pentesters	http://thesprawl.org/projects/dnschef/
 dnsdrdos	0.1	Proof of concept code for distributed DNS reflection DoS	http://nullsecurity.net/tools/dos.html
-dnsenum	1.2.3	Perl script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=dnsenum
+dnsenum	1.2.3	Script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=dnsenum
 dnsgoblin	0.1	Nasty creature constantly searching for DNS servers. It uses standard dns querys and waits for the replies	http://nullsecurity.net/tools/scanner.html
 dnsmap	0.30	Passive DNS network mapper	http://dnsmap.googlecode.com
 dnspredict	0.0.2	DNS prediction	http://johnny.ihackstuff.com
 dnsrecon	0.8.5	Python script for enumeration of hosts, subdomains and emails from a given domain using google.	https://github.com/darkoperator/dnsrecon
-dnsspider	0.4	A very fast multithreaded bruteforcer of subdomains that leverages a wordlist and/or character permutation	http://nullsecurity.net/tools/scanner.html
+dnsspider	0.5	A very fast multithreaded bruteforcer of subdomains that leverages a wordlist and/or character permutation.	http://nullsecurity.net/tools/scanner.html
 dnswalk	2.0.2	A DNS debugger	http://sourceforge.net/projects/dnswalk/
 dotdotpwn	3.0	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
 dpeparser	beta002	Default password enumeration project	http://www.toolswatch.org/dpe/
@@ -305,7 +308,8 @@ lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
-lynis	1.4.9	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
+lynis	1.5.0	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
+mac-robber	1.02	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
 magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
 magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
@@ -328,7 +332,7 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	23938.6d72860	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit	24065.2de210f	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
@@ -504,6 +508,7 @@ sipscan	0.0	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
 sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
 skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
 skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control	https://github.com/samyk/skyjack
+skypefreak	15.ea94db5	A Cross Platform Forensic Framework for Skype.	http://osandamalith.github.io/SkypeFreak/
 slowhttptest	1.5	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
 slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
 smali	1.4.1	An assembler/disassembler for Android's dex format	http://code.google.com/p/smali/
@@ -515,6 +520,7 @@ smtp-user-enum	1.2	Username guessing tool primarily for use against the default 
 smtp-vrfy	1.0	An SMTP Protocol Hacker.
 smtpmap	0.8.234_BETA	Tool to identify the running smtp software on a given host.	http://www.projectiwear.org/~plasmahh/software.html
 smtpscan	0.5	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html
+sn00p	0.8	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
 sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft	http://www.delirandom.net/sniffjoke/
 snmp-fuzzer	0.1.1	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/
 snmpcheck	1.8	A free open source utility to get information via SNMP protocols.	http://www.nothink.org/perl/snmpcheck/
@@ -668,7 +674,7 @@ xssless	r34.d474fc6	An automated XSS payload generator written in python.	https:
 xsss	0.40b	xsss is a brute force cross site scripting scanner	http://www.sven.de/xsss/
 yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
-zaproxy	2.2.2	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications	http://code.google.com/p/zaproxy/
+zaproxy	2.3.0	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
 zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
 zmap	1.2.0	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
