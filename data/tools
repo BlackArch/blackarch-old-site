@@ -103,6 +103,7 @@ cookie-cadger	1.06	An auditing tool for Wi-Fi or wired Ethernet connections	http
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
 cpptest	1.1.2	A portable and powerful, yet simple, unit testing framework for handling automated tests in C++.	http://cpptest.sourceforge.net/
 crackle	27.2a7bf34	Crack and decrypt BLE encryption	https://github.com/mikeryan/crackle/
+create-ap	47.104c556	This script creates a NATed or Bridged WiFi Access Point.	https://github.com/oblique/create_ap
 creddump	0.3	A python tool to extract various credentials and secrets from Windows registry hives.	https://code.google.com/p/creddump/
 creds	6556.8cf7ff1	Harvest FTP/POP/IMAP/HTTP/IRC credentials along with interesting data from each of the protocols.	https://github.com/DanMcInerney/creds.py
 creepy	20121023	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	http://github.com/ilektrojohn/creepy
@@ -172,6 +173,7 @@ fakemail	1.0	Fake mail server that captures e-mails as files for acceptance test
 fang	1.2	A multi service threaded MD5 cracker	https://github.com/evilsocket/fang
 fbht	r10.62937f4	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
 fern-wifi-cracker	133	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
+fernmelder	6.c6d4ebe	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
 fierce	0.9.9	A DNS scanner	http://ha.ckers.org/fierce/
 fiked	0.0.5	Fake IDE daemon	http://www.roe.ch/FakeIKEd
 fimap	1.00	A little tool for local and remote file inclusion auditing and exploitation	http://code.google.com/p/fimap/
@@ -185,6 +187,7 @@ flunym0us	2.0	A Vulnerability Scanner for Wordpress and Moodle.	http://code.goog
 foremost	1.5.7	A console program to recover files based on their headers, footers, and internal data structures	http://foremost.sourceforge.net/
 fpdns	0.9.3	Program that remotely determines DNS server versions	http://code.google.com/p/fpdns/
 fport	2.0	Identify unknown open ports and their associated applications.	http://www.foundstone.com/us/resources/proddesc/fport.htm
+fraud-bridge	10.775c563	ICMP and DNS tunneling via IPv4 and IPv6.	https://github.com/stealth/fraud-bridge
 ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
 ftp-fuzz	1337	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
 ftp-scanner	0.2.5	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
@@ -651,6 +654,7 @@ whatweb	0.4.7	Next generation web scanner that identifies what websites are runn
 wiffy	0.2	An Automated wifi hacking script	https://code.google.com/p/g0tmi1k/
 wifi-honey	1.0	A management tool for wifi honeypots	http://www.digininja.org/projects/wifi_honey.php
 wifi-monitor	0.r22.71340a3	Prints the IPs on your local network that're sending the most packets	https://github.com/DanMcInerney/wifi-monitor
+wificurse	0.3.9	WiFi jamming tool.	https://github.com/oblique/wificurse
 wifitap	2b16088	WiFi injection tool through tun/tap device	https://github.com/GDSSecurity/wifitap
 wifite	2	A tool to attack multiple WEP and WPA encrypted networks at the same time	http://code.google.com/p/wifite/
 winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
