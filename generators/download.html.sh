@@ -118,13 +118,13 @@ blackarchlinux-live-2014.03.02-i686.iso</a>
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.03.02-x86_64.iso">
-blackarchlinux-netinst-2014.03.02-x86_64.iso</a>
-- SHA1: ee9885920b01246b654323ba7dd98b9ae604bcac - Size: 335 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.04.21-x86_64.iso">
+blackarchlinux-netinst-2014.04.21-x86_64.iso</a>
+- SHA1: 42ed6c8914cdeb24d17abf00b68a3c7b5620545e - Size: 345 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.03.02-i686.iso">
-blackarchlinux-netinst-2014.03.02-i686.iso</a>
-- SHA1: fbb9094c98d83f52086c760e9fa63c860af7aa0f - Size: 297 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.04.21-i686.iso">
+blackarchlinux-netinst-2014.04.02-i686.iso</a>
+- SHA1: 1205c7a3d1823732743225ad4e9e9181647db277 - Size: 305 MB
 <br /><br />
 <h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
 <hr />
