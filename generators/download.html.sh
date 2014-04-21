@@ -108,13 +108,13 @@ Example:
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.03.02-x86_64.iso">
-blackarchlinux-live-2014.03.02-x86_64.iso</a>
-- SHA1: f78470bc3a716776cc8383f2a0b467f4a3b32043 - Size: 2.9 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.04.21-x86_64.iso">
+blackarchlinux-live-2014.04.21-x86_64.iso</a>
+- SHA1: a78ed45f6bac28a5242aaa74e85a963f9dabd35f - Size: 2.5 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.03.02-i686.iso">
-blackarchlinux-live-2014.03.02-i686.iso</a>
-- SHA1: 2543e59e96d39b81da4aba269dfd7d7e86eb895a - Size: 2.4 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.04.21-i686.iso">
+blackarchlinux-live-2014.04.21-i686.iso</a>
+- SHA1: ed535702d1a929ac8d886ceae7e37dcf1898b88d - Size: 2.9 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
