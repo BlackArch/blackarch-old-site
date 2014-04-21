@@ -4,6 +4,30 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New ISOs!</a><d>21 Apr 2014</d></h3>
+        <hr>
+        Today, we released new BlackArch Linux ISOs including more than 750 tools
+        and lot's of improvements. Also, armv6h and armv7h repositories are
+        filled with about 650 tools.
+        <br /><br />
+        A short ChangeLog:
+        <ul>
+        <li> - added new system packages: mplayer, abs, ack, bc, bridge-utils,
+          darkhttpd, flashplugin, inotify-tools, irssi, makepasswd, mercurial,
+          mplayer, rtorrent, scrot, strace, tor-browser-en</li>
+        <li>- added .Xresources with entries for xterm</li>
+        <li>- added wicd to system start (systemctl)</li>
+        <li>- added wicd and wicd-gtk networkmanager</li>
+        <li>- removed 'xset r rate 150 100' entry for X</li>
+        <li>- updated menu entries</li>
+        <li>- added more than 150 new tools</li>
+        <li>- replaced zathura pdf reader with mupdf</li>
+        </ul>
+        <br />
+        We wanted to say "thank you" to all users and supporters of BlackArch
+        Linux who contributed, donated and motivated us for testings, fixes and
+        improvements.
+        <br /><br />
         <h3><a href="">ARM Support and New ISOs</a><d>03 Mar 2014</d></h3>
         <hr>
         BlackArch now has ARM support. Currently, there are 570 tools in the
@@ -12,8 +36,8 @@ cat <<\EOF
         see over 600 tools in each ARM repo within a week or two.
         <br />
         <br />
-		Soon, we will release ARM images for various devices including the
-		Raspberry Pi and Pandaboard.
+		    Soon, we will release ARM images for various devices including the
+		    Raspberry Pi and Pandaboard.
         <br />
         <br />
         We also released new ISOs today. The new ISOs make the following
