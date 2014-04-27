@@ -345,6 +345,7 @@ lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server v
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
 libewf	20140227	A library for support of the Expert Witness Compression Format (EWF).	https://code.google.com/p/libewf/
 libpst	0.6.63	Outlook .pst file converter	http://www.five-ten-sg.com/libpst/
+linenum	18.b4c2541	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
 linux-exploit-suggester	0.r31.90a2a3d	A Perl script that tries to suggest exploits based OS version number	https://github.com/PenturaLabs/Linux_Exploit_Suggester
 list-urls	0.1	Extracts links from webpage	http://www.whoppix.net
 lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
@@ -377,7 +378,8 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	24269.9ccb939	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit	24299.c2bb265	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit-msfupdate	24299.c2bb265	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
@@ -514,7 +516,7 @@ redfang	2.5	Finds non-discoverable Bluetooth devices by brute-forcing the last s
 redirectpoison	1.1	A tool to poison a targeted issuer of SIP INVITE requests with 301 (i.e. Moved Permanently) redirection responses.	http://www.hackingexposedvoip.com/
 reglookup	1.0.1	Command line utility for reading and querying Windows NT registries	http://projects.sentinelchicken.org/reglookup
 relay-scanner	1.7	An SMTP relay scanner.	http://www.cirt.dk
-responder	2.0.2	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	https://github.com/SpiderLabs/Responder
+responder	2.0.5	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	https://github.com/SpiderLabs/Responder
 rfcat	130515	RF ChipCon-based Attack Toolset	http://code.google.com/p/rfcat
 rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	http://www.rfdump.org
 rfidiot	0026925	An open source python library for exploring RFID devices.	http://rfidiot.org
@@ -542,6 +544,7 @@ safecopy	1.7	A disk data recovery tool to extract data from damaged media	http:/
 sakis3g	0.2.0e	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
 samdump2	3.0.0	Dump password hashes from a Windows NT/2k/XP installation	http://sourceforge.net/projects/ophcrack/files/samdump2/
 samydeluxe	2.2ed1bac	Automatic samdump creation script.	http://github.com/jensp/samydeluxe
+sandy	4.224ff18	An open-source Samsung phone encryption assessment framework	https://github.com/donctl/sandy
 sbd	1.36	Netcat-clone, portable, offers strong encryption - features AES-CBC + HMAC-SHA1 encryption, program execution (-e), choosing source port, continuous reconnection with delay + more	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=sbd
 scalpel	2.0	A frugal, high performance file carver	http://www.digitalforensicssolutions.com/Scalpel/
 scanmem	0.13	A utility used to locate the address of a variable in an executing process.	http://code.google.com/p/scanmem/
@@ -638,6 +641,7 @@ sucrack	1.2.3	A multi-threaded Linux/UNIX tool for brute-force cracking local us
 sulley	1.0.b139d7c	A pure-python fully automated and unattended fuzzing framework	https://github.com/OpenRCE/sulley/
 superscan	4	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.com/us/resources/proddesc/superscan.htm
 suricata	1.4.7	An Open Source Next Generation Intrusion Detection and Prevention Engine	http://openinfosecfoundation.org/index.php/download-suricata
+svn-extractor	28.3af00fb	A simple script to extract all web resources by means of .SVN folder exposed over network.	https://github.com/anantshri/svn-extractor
 swaks	20130209.0	Swiss Army Knife SMTP; Command line SMTP testing, including TLS and AUTH	http://jetmore.org/john/code/swaks/
 swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
 synscan	5.02	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
@@ -729,7 +733,7 @@ webscarab	20120422.001828	Framework for analysing applications that communicate 
 webshag	1.10	A multi-threaded, multi-platform web server audit tool.	http://www.scrt.ch/en/attack/downloads/webshag
 webshells	0.r6.690ebd9	Web Backdoors	https://github.com/BlackArch/webshells
 webslayer	5	A tool designed for brute forcing Web Applications	https://code.google.com/p/webslayer/
-websploit	2.0.4	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
+websploit	2.0.5	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
 weevely	1.1	Stealth tiny web shell	http://epinna.github.io/Weevely/
 wepbuster	1.0_beta_0.7	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
 wfuzz	2.0	Utility to bruteforce web applications to find their not linked resources	http://code.google.com/p/wfuzz
