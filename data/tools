@@ -32,6 +32,7 @@ arpalert	2.0.12	Monitor ARP changes in ethernet networks	http://www.arpalert.org
 arpantispoofer	1.0.1.32	A utility to detect and resist BIDIRECTIONAL ARP spoofing. It can anti-spoof for not only the local host, but also other hosts in the same subnet. It is also a handy helper for gateways which don't work well with ARP.	http://arpantispoofer.sourceforge.net/
 arpoison	0.6	The UNIX arp cache update utility	http://www.arpoison.net
 arpon	2.7	A portable handler daemon that make ARP protocol secure in order to avoid the Man In The Middle (MITM) attack through ARP Spoofing, ARP Cache Poisoning or ARP Poison Routing (APR) attacks.	http://arpon.sourceforge.net/
+arpwner	26.f300fdf	GUI-based python tool for arp posioning and dns poisoning attacks.	https://github.com/ntrippar/ARPwner
 artillery	1.0.2	A combination of a honeypot, file-system monitoring, system hardening, and overall health of a server to create a comprehensive way to secure a system	https://www.trustedsec.com/downloads/artillery/
 asleap	2.2	Actively recover LEAP/PPTP passwords.	http://www.willhackforsushi.com/Asleap.html
 asp-audit	2BETA	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
@@ -563,6 +564,7 @@ sessionlist	1.0	Sniffer that intents to sniff HTTP packets and attempts to recon
 set	5.4.8	Social-engineer toolkit. Aimed at penetration testing around Social-Engineering	https://www.trustedsec.com/downloads/social-engineer-toolkit
 sfuzz	0.7.0	Simple Fuzzer is a simple fuzzer	http://aconole.brad-x.com/programs/sfuzz.html
 shellcodecs	0.1	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
+shellme	3.8c7919d	Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.	https://github.com/hatRiot/shellme
 shellnoob	2.0.0.0.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
 siege	3.0.5	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
@@ -620,6 +622,7 @@ sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	h
 ssh-privkey-crack	0.3	A SSH private key cracker	https://code.google.com/p/lusas/
 sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id=34
 sshtrix	0.0.2	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
+sshuttle	198.9ce2fa0	Transparent proxy server that works as a poor man's VPN. Forwards all TCP packets over ssh (and even DNS requests when using --dns option). Doesn't require admin privileges on the server side.	https://github.com/apenwarr/sshuttle
 ssl-hostname-resolver	1	CN (Common Name) grabber on X.509 Certificates over HTTPS.	http://packetstormsecurity.com/files/120634/Common-Name-Grabber-Script.html
 ssl-phuck3r	5.ba9ff9c	All in one script for Man-In-The-Middle attacks.	https://github.com/zombiesam/ssl_phuck3r
 sslcat	1.0	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
