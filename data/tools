@@ -79,6 +79,7 @@ bulk-extractor	1.3.1	Bulk Email and URL extraction tool	https://github.com/simso
 bully	1.0.20	A wifi-protected-setup (WPS) brute force attack tool.	http://code.google.com/p/bully/
 bunny	0.93	A closed loop, high-performance, general purpose protocol-blind fuzzer for C programs.	http://code.google.com/p/bunny-the-fuzzer/
 burpsuite	1.6	An integrated platform for attacking web applications (free edition).	http://portswigger.net/burp/
+buttinsky	138.1a2a1b2	Provide an open source framework for automated botnet monitoring.	https://github.com/buttinsky/buttinsky
 cadaver	0.23.3	Command-line WebDAV client for Unix	http://www.webdav.org/cadaver
 canari	1.0	A transform framework for maltego	http://www.canariproject.com
 capstone	2.1.2	A lightweight multi-platform, multi-architecture disassembly framework.	http://www.capstone-engine.org/index.html
@@ -270,6 +271,7 @@ honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://git
 honssh	21.b9880b4	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
 hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
+hpfeeds	131.dc4cf92	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
 hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
 htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
 htshells	6b5d0df	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
