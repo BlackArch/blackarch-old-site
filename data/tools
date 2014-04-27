@@ -108,7 +108,7 @@ cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://w
 cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	http://code.google.com/p/cms-explorer
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
 conscan	1.0.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
-cookie-cadger	1.06	An auditing tool for Wi-Fi or wired Ethernet connections	https://cookiecadger.com/
+cookie-cadger	1.07	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
 cppcheck	1.64	A tool for static C/C++ code analysis	http://cppcheck.wiki.sourceforge.net/
 cpptest	1.1.2	A portable and powerful, yet simple, unit testing framework for handling automated tests in C++.	http://cpptest.sourceforge.net/
@@ -444,6 +444,7 @@ ophcrack	3.6.0	A free Windows password cracker based on rainbow tables	http://op
 orakelcrackert	1.00	This tool can crack passwords which are encrypted using Oracle's latest SHA1 based password protection algorithm.	http://freeworld.thc.org/thc-orakelcrackert11g/
 origami	1.0.0_beta1b	A ruby framework designed to parse, analyze, and forge PDF documents.	http://security-labs.org/origami/
 oscanner	1.0.6	An Oracle assessment framework developed in Java.	http://www.cqure.net/wp/oscanner/
+osueta	63.038cf9e	A simple Python script to exploit the OpenSSH User Enumeration Timing Attack.	https://github.com/c0r3dump3d/osueta
 owabf	1.3	Outlook Web Access bruteforcer tool.	http://netsec.rs/70/tools.html
 owtf	0.40	The Offensive (Web) Testing Framework	https://www.owasp.org/index.php/OWASP_OWTF
 p0f	3.06b	Purely passive TCP/IP traffic fingerprinting tool	http://lcamtuf.coredump.cx/p0f3/
@@ -672,6 +673,7 @@ tinc	1.0.23	VPN (Virtual Private Network) daemon	http://www.tinc-vpn.org/
 tinyproxy	1.8.3	A light-weight HTTP proxy daemon for POSIX operating systems.	https://banu.com/tinyproxy/
 tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
 tnscmd	1.3	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
+topera	19.3e230fd	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
 tor	0.2.4.21	Anonymizing overlay network.	http://www.torproject.org/
 tor-autocircuit	0.2	Tor Autocircuit was developed to give users a finer control over Tor circuit creation. The tool exposes the functionality of TorCtl library which allows its users to control circuit length, speed, geolocation, and other parameters.	http://www.thesprawl.org/projects/tor-autocircuit/
 torshammer	1.0	A slow POST Denial of Service testing tool written in Python.	http://sourceforge.net/projects/torshammer/
