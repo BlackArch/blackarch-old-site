@@ -41,6 +41,7 @@ automake.11	1.11.6	A GNU tool for automatically creating Makefiles	http://www.gn
 autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backcookie	10.67d80fe	Small backdoor using cookie.	https://github.com/mrjopino/backcookie
 backdoor-factory	0.r54.cb62c04	Patch win32/64 binaries with shellcode	https://github.com/secretsquirrel/the-backdoor-factory
+backfuzz	36.8e54ed6	A network protocol fuzzing toolkit.	https://github.com/localh0t/backfuzz
 batman-adv	2013.4.0	batman kernel module, (included upstream since .38)	http://www.open-mesh.net/
 bbqsql	1.2	SQL injection exploitation tool	https://github.com/neohapsis/bbqsql
 bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	http://www.aldeid.com/wiki/Bed
@@ -260,9 +261,11 @@ handle	0.0	An small application designed to analyze your system searching for gl
 hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
 hashcat	0.47	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
 hashcat-utils	0.9	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
+hasher	29.0441700	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
 hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
 hcraft	1.0.0	HTTP Vuln Request Crafter	http://sourceforge.net/projects/hcraft/
+heartbleed-honeypot	0.1	Script that listens on TCP port 443 and responds with completely bogus SSL heartbeat responses, unless it detects the start of a byte pattern similar to that used in Jared Stafford's	http://packetstormsecurity.com/files/126068/hb_honeypot.pl.txt
 hex2bin	1.0.7	Converts Motorola and Intel hex files to binary.	http://hex2bin.sourceforge.net/
 hexinject	1.5	A very versatile packet injector and sniffer that provides a command-line framework for raw network access	http://hexinject.sourceforge.net
 hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
@@ -296,6 +299,7 @@ ikecrack	1.00	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analysi
 ikeprobe	0.1	Determine vulnerabilities in the PSK implementation of the VPN server.	http://www.ernw.de/download/ikeprobe.zip
 ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	http://ikecrack.sourceforge.net/
 ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/ilty/
+inception	335.1878c98	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
 inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
 intersect	2.5	Post-exploitation framework	https://github.com/ohdae/Intersect.5
@@ -626,7 +630,7 @@ sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downlo
 sshtrix	0.0.2	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
 sshuttle	198.9ce2fa0	Transparent proxy server that works as a poor man's VPN. Forwards all TCP packets over ssh (and even DNS requests when using --dns option). Doesn't require admin privileges on the server side.	https://github.com/apenwarr/sshuttle
 ssl-hostname-resolver	1	CN (Common Name) grabber on X.509 Certificates over HTTPS.	http://packetstormsecurity.com/files/120634/Common-Name-Grabber-Script.html
-ssl-phuck3r	5.ba9ff9c	All in one script for Man-In-The-Middle attacks.	https://github.com/zombiesam/ssl_phuck3r
+ssl-phuck3r	2.0	All in one script for Man-In-The-Middle attacks.	https://github.com/zombiesam/ssl_phuck3r
 sslcat	1.0	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
 sslcaudit	1.1	Utility to perform security audits of SSL/TLS clients	https://github.com/grwl/sslcaudit
 ssldump	0.9b3	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
