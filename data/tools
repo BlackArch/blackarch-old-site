@@ -311,6 +311,7 @@ ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/i
 inception	335.1878c98	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
 inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
+interrogate	0.0.4	A proof-of-concept tool for identification of cryptographic keys in binary material (regardless of target operating system), first and foremost for memory dump analysis and forensic usage.	https://github.com/carmaa/interrogate
 intersect	2.5	Post-exploitation framework	https://github.com/ohdae/Intersect.5
 intrace	1.5	Traceroute-like application piggybacking on existing TCP connections	http://intrace.googlecode.com
 inundator	0.5	An ids evasion tool, used to anonymously inundate intrusion detection logs with false positives in order to obfuscate a real attack.	http://inundator.sourceforge.net/
@@ -368,6 +369,7 @@ lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
+luksipc	0.01	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
 lynis	1.5.1	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
 mac-robber	1.02	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
 macchanger	1.6.0	A small utility to change your NIC's MAC address	http://ftp.gnu.org/gnu/macchanger
