@@ -284,6 +284,7 @@ hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://ww
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
 hpfeeds	131.dc4cf92	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
 hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
+hqlmap	31.d55736a	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
 htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
 htshells	6b5d0df	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
 http-enum	0.3	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
