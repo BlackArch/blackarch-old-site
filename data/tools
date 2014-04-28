@@ -143,16 +143,21 @@ dc3dd	7.1.614	A patched version of dd that includes a number of features useful 
 dcfldd	1.3.4.1	DCFL (DoD Computer Forensics Lab) dd replacement with hashing	http://dcfldd.sourceforge.net/
 ddrescue	1.17	GNU data recovery tool	http://www.gnu.org/software/ddrescue/ddrescue.html
 deblaze	0.3	A remote method enumeration tool for flex servers	http://deblaze-tool.appspot.com/
+delldrac	0.1a	DellDRAC and Dell Chassis Discovery and Brute Forcer.	https://www.trustedsec.com/september/owning-dell-drac-awesome-hack/
 depant	0.3a	Check network for services with default passwords.	http://midnightresearch.com/projects/depant/
+device-pharmer	31.2297642	Opens 1K+ IPs or Shodan search results and attempts to login.	https://github.com/DanMcInerney/device-pharmer
 dex2jar	0.0.9.13	A tool for converting Android's .dex format to Java's .class format	http://code.google.com/p/dex2jar
 dff-scanner	1.1	Tool for finding path of predictable resource locations.	http://netsec.rs/70/tools.html
 dhcdrop	0.5	Remove illegal dhcp servers with IP-pool underflow. Stable version	http://www.netpatch.ru/dhcdrop.html
 dhcpig	69.cc4109a	Enumerates hosts, subdomains, and emails from a given domain using google	https://github.com/kamorin/DHCPig
+dinouml	0.9.5	A network simulation tool, based on UML (User Mode Linux) that can simulate big Linux networks on a single PC	http://kernel.embedromix.ro/us/
 dirb	2.04	A web content scanner, brute forceing for hidden files	http://dirb.sourceforge.net/
 dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+dislocker	0.3	A tool to exploit the hash length extension attack in various hashing algorithms. With FUSE capabilities built in.	http://www.hsc.fr/ressources/outils/dislocker/
 dissector	1	This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.	http://packetstormsecurity.com/files/125972/Coloured-ELF-File-Dissector.html
 dmitry	1.3a	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 dnmap	0.6	The distributed nmap framework	http://sourceforge.net/projects/dnmap/
+dns-spoof	12.3918a10	Yet another DNS spoof utility.	https://github.com/maurotfilho/dns-spoof
 dns2tcp	0.5.2	A tool for relaying TCP connections over DNS	http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en
 dnsa	0.5	DNSA is a dns security swiss army knife	http://packetfactory.openwall.net/projects/dnsa/index.html
 dnsbf	0.2	search for available domain names in an IP range	http://code.google.com/p/dnsbf
@@ -167,6 +172,7 @@ dnsspider	0.5	A very fast multithreaded bruteforcer of subdomains that leverages
 dnstracer	1.9	Determines where a given DNS server gets its information from, and follows the chain of DNS servers	http://www.mavetju.org/unix/dnstracer.php
 dnsutils	9.9.2.P2	DNS utilities: dig host nslookup	http://www.isc.org/software/bind/
 dnswalk	2.0.2	A DNS debugger	http://sourceforge.net/projects/dnswalk/
+doona	108.20e50ac	A fork of the Bruteforce Exploit Detector Tool (BED).	https://github.com/wireghoul/doona
 dotdotpwn	3.0	The Transversal Directory Fuzzer	http://dotdotpwn.blogspot.com
 dpeparser	beta002	Default password enumeration project	http://www.toolswatch.org/dpe/
 dpscan	0.1	Drupal Vulnerabilty Scanner	https://github.com/insaneisnotfree/Blue-Sky-Information-Security
