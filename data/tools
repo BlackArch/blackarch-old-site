@@ -428,6 +428,7 @@ nfspy	1.0	A Python library for automating the falsification of NFS credentials w
 nfsshell	19980519	Userland NFS command tool.	http://www.paramecium.org/~leendert/
 ngrep	1.45	A grep-like utility that allows you to search for network packets on an interface.	http://ngrep.sourceforge.net/
 nikto	2.1.5	A web server scanner which performs comprehensive tests against web servers for multiple items	http://www.cirt.net/nikto2
+nimbostratus	54.c7c206f	Tools for fingerprintinging and exploiting Amazon cloud infrastructures.	https://github.com/andresriancho/nimbostratus
 nipper	0.11.7	Network Infrastructure Parser	https://www.titania-security.com/
 nishang	0.3.0	Using PowerShell for Penetration Testing	https://code.google.com/p/nishang/
 nkiller2	2.0	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
@@ -530,6 +531,7 @@ rfcat	130515	RF ChipCon-based Attack Toolset	http://code.google.com/p/rfcat
 rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	http://www.rfdump.org
 rfidiot	0026925	An open source python library for exploring RFID devices.	http://rfidiot.org
 rfidtool	0.01	A opensource tool to read / write rfid tags	http://www.bindshell.net/tools/rfidtool.html
+ridenum	38.876ccc0	A null session RID cycle attack for brute forcing domain controllers.	https://github.com/trustedsec/ridenum
 rifiuti2	0.5.1	A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.	https://code.google.com/p/rifiuti2/
 rinetd	0.62	internet redirection server	http://www.boutell.com/rinetd
 ripdc	0.2	A script which maps domains related to an given ip address or domainname.	http://nullsecurity.net/tools/scanner
