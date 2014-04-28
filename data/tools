@@ -42,6 +42,7 @@ autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backcookie	10.67d80fe	Small backdoor using cookie.	https://github.com/mrjopino/backcookie
 backdoor-factory	0.r54.cb62c04	Patch win32/64 binaries with shellcode	https://github.com/secretsquirrel/the-backdoor-factory
 backfuzz	36.8e54ed6	A network protocol fuzzing toolkit.	https://github.com/localh0t/backfuzz
+bamf	33.2525222	A modular framework designed to be a platform to launch attacks against botnets.	https://github.com/bwall/BAMF
 batman-adv	2013.4.0	batman kernel module, (included upstream since .38)	http://www.open-mesh.net/
 bbqsql	1.2	SQL injection exploitation tool	https://github.com/neohapsis/bbqsql
 bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	http://www.aldeid.com/wiki/Bed
@@ -123,6 +124,7 @@ creds	6556.8cf7ff1	Harvest FTP/POP/IMAP/HTTP/IRC credentials along with interest
 creepy	20121023	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	http://github.com/ilektrojohn/creepy
 crunch	3.4	A wordlist generator for all combinations/permutations of a given character set	http://sourceforge.net/projects/crunch-wordlist/
 cryptcat	1.2.1	A lightweight version of netcat with integrated transport encryption capabilities.	http://sourceforge.net/projects/cryptcat
+cryptonark	0.4.9	SSL security checker.	http://blog.techstacks.com/cryptonark.html
 csrftester	1.0	The OWASP CSRFTester Project attempts to give developers the ability to test their applications for CSRF flaws.	http://www.owasp.org/index.php/Category:OWASP_CSRFTester_Project
 ctunnel	0.6	Tunnel and/or proxy TCP or UDP connections via a cryptographic tunnel.	http://nardcore.org/ctunnel
 cuckoo	1.1	A malware analysis system.	http://cuckoosandbox.org/
