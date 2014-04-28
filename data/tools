@@ -758,6 +758,7 @@ wifi-monitor	0.r22.71340a3	Prints the IPs on your local network that're sending 
 wificurse	0.3.9	WiFi jamming tool.	https://github.com/oblique/wificurse
 wifitap	2b16088	WiFi injection tool through tun/tap device	https://github.com/GDSSecurity/wifitap
 wifite	2	A tool to attack multiple WEP and WPA encrypted networks at the same time	http://code.google.com/p/wifite/
+wig	95.5e2e8b5	WebApp Information Gatherer.	https://github.com/jekyc/wig
 winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
 winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
 wireshark-cli	1.10.6	a free network protocol analyzer for Unix/Linux and Windows - CLI version	http://www.wireshark.org/
