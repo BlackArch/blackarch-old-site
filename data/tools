@@ -567,6 +567,7 @@ scrounge-ntfs	0.9	Data recovery program for NTFS file systems	http://memberwebs.
 sctpscan	1.0	A network scanner for discovery and security	http://www.p1sec.com/
 secscan	1.5	Web Apps Scanner and Much more utilities.	http://code.google.com/p/secscan-py/
 secure-delete	3.1	Secure file, disk, swap, memory erasure utilities	http://www.thc.org/
+sees	5.aeba7ee	Increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same company's domain.	https://github.com/galkan/sees/
 sergio-proxy	0.2.1	A multi-threaded transparent HTTP proxy for manipulating web traffic	https://github.com/darkoperator/dnsrecon
 sessionlist	1.0	Sniffer that intents to sniff HTTP packets and attempts to reconstruct interesting authentication data from websites that do not employ proper secure cookie auth.	http://www.0xrage.com/
 set	5.4.8	Social-engineer toolkit. Aimed at penetration testing around Social-Engineering	https://www.trustedsec.com/downloads/social-engineer-toolkit
@@ -774,6 +775,7 @@ ws-attacker	1.3	A modular framework for web services penetration testing.	http:/
 wsfuzzer	1.9.5	A Python tool written to automate SOAP pentesting of web services	https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_Project
 wyd	0.2	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
 x-scan	3.3	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
+xcavator	5.bd9e2d8	Man-In-The-Middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/nccgroup/xcavator
 xorbruteforcer	0.0	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
 xorsearch	1.9.2	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	http://blog.didierstevens.com/programs/xorsearch/
 xortool	0.93	A tool to analyze multi-byte xor cipher.	https://github.com/hellman/xortool/
