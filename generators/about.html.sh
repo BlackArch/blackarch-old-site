@@ -105,7 +105,7 @@ cat <<EOF
 			<td>elken.tdos[at]gmail.com</td>
 			<td><a href="gpg/elken.asc" target="_blank">0x0F4093D1</a></td>
 			<td>A38C A4EB 2A23 27DC 3713  3E22 0C8D AD09 0F40 93D1</td>
-			<td>Committer</td>
+			<td>Developer, Committer</td>
 		</tr>
 		<tr>
 			<td>Francesco Piccinno</td>
