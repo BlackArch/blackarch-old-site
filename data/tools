@@ -207,6 +207,7 @@ eyepwn	1.0	Exploit for Eye-Fi Helper directory traversal vulnerability	http://ww
 fakeap	0.3.2	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	http://www.blackalchemy.to/project/fakeap/
 fakedns	0.1	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	https://github.com/Crypt0s/FakeDns
 fakemail	1.0	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
+fakenetbios	7.b83701e	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN .	https://github.com/mubix/FakeNetBIOS
 fang	1.2	A multi service threaded MD5 cracker	https://github.com/evilsocket/fang
 fbht	r11.1853984	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
 fcrackzip	1.0	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
