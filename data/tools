@@ -182,6 +182,7 @@ dradis	2.5.2	An open source framework to enable effective information sharing.	h
 driftnet	0.1.6	Listens to network traffic and picks out images from TCP streams it observes	http://www.ex-parrot.com/~chris/driftnet/
 dripper	v1.r1.gc9bb0c9	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
 dsniff	2.4b1	Collection of tools for network auditing and penetration testing	http://www.monkey.org/~dugsong/dsniff/
+dump1090	279.f7843c1	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
 dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
 eapmd5pass	1.4	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
@@ -219,6 +220,7 @@ fimap	1.00	A little tool for local and remote file inclusion auditing and exploi
 findmyhash	1.1.2	Crack different types of hashes using free online services	http://code.google.com/p/findmyhash/
 firewalk	5.0	An active reconnaissance network security tool	http://packetfactory.openwall.net/projects/firewalk/
 firmware-mod-kit	099	Modify firmware images without recompiling!	http://code.google.com/p/firmware-mod-kit
+firstexecution	6.a275793	A Collection of different ways to execute code outside of the expected entry points.	https://github.com/nccgroup/firstexecution
 flare	0.6	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
 flasm	1.62	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
 flawfinder	1.27	Searches through source code for potential security flaws	http://www.dwheeler.com/flawfinder
@@ -298,6 +300,7 @@ httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprin
 httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
 httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
 httptunnel	3.3	Creates a bidirectional virtual data connection tunnelled in HTTP requests	http://www.nocrew.org/software/httptunnel
+hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
 hydra	7.6	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
 hyenae	0.36_1	flexible platform independent packet generator	http://sourceforge.net/projects/hyenae/
