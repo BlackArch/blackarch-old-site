@@ -377,6 +377,7 @@ magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshme
 magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
 makepasswd	1.10_9	Generates true random passwords with the emphasis on security over pronounceability (Debian version)	http://packages.qa.debian.org/m/makepasswd.html
+malheur	0.5.4	A tool for the automatic analyze of malware behavior.	http://www.mlsec.org/malheur/
 maltego	3.3.0	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	http://www.paterva.com/web5
 maltrieve	60.465f162	Originated as a fork of mwcrawler. It retrieves malware directly from the sources as listed at a number of sites.	https://github.com/technoskald/maltrieve
 malwaredetect	0.1	Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware	http://www.virustotal.com
@@ -410,6 +411,7 @@ missidentify	1.0	A program to find Win32 applications	http://missidentify.source
 mitmap	0.1	Shell Script for launching a Fake AP with karma functionality and launches ettercap for packet capture and traffic manipulation.	http://www.darkoperator.com/tools-and-scripts/
 mitmer	6.022bb40	A man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/husam212/MITMer
 mitmproxy	0.10.1	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
+mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
 mobiusft	0.5.19	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
 morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
 ms-sys	2.3.0	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	http://ms-sys.sourceforge.net/
@@ -418,6 +420,7 @@ msvpwn	0.1.r22.ga2e845a	Bypass Windows' authentication via binary patching.	http
 mtr	0.85	Combines the functionality of traceroute and ping into one tool (CLI version)	ba1e111d270178eb1d65e51ebf6503f
 multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	http://chaptersinwebsecurity.blogspot.de/2008/11/multiinjector-v03-released.html
 multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
+nacker	21.92704f8	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
 nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
 nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
 nbtool	1.51f2016	Some tools for NetBIOS and DNS investigation, attacks, and communication.	http://wiki.skullsecurity.org/Nbtool
@@ -449,6 +452,7 @@ nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency ana
 notspikefile	0.1	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
 nsdtool	0.1	A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	http://www.curesec.com/en/publications/tools.html
 nsec3walker	20101223	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
+o-saft	245.74e6bfa	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
 oat	1.3.1	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
 obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities	http://bluetooth-pentest.narod.ru/
 ohrwurm	0.1	A small and simple RTP fuzzer	http://mazzoo.de/
@@ -476,6 +480,7 @@ padbuster	0.3.3	Automated script for performing Padding Oracle attacks	http://ww
 paketto	1.10	Advanced TCP/IP Toolkit.	http://www.doxpara.com/paketto
 panoptic	0.r167.9e81e72	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability	https://github.com/lightos/Panoptic
 paros	3.2.13	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	http://www.parosproxy.org
+parsero	44.741b108	A robots.txt audit tool.	https://github.com/behindthefirewalls/Parsero
 pasco	20040505_1	Examines the contents of Internet Explorer's cache files for forensic purposes	http://www.jonesdykstra.com/
 passcracking	20131214	A little python script for sending hashes to passcracking.com and milw0rm	http://github.com/jensp/passcracking
 passivedns	1.1.3	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
@@ -503,6 +508,7 @@ pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
 plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
 pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
+portspoof	95.c07b53d	This program's primary goal is to enhance OS security through a set of new techniques.	http://portspoof.org/
 powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	http://www.powerfuzzer.com
 powersploit	2.2	A PowerShell Post-Exploitation Framework	https://github.com/mattifestation/PowerSploit
 propecia	2	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
@@ -537,6 +543,7 @@ redfang	2.5	Finds non-discoverable Bluetooth devices by brute-forcing the last s
 redirectpoison	1.1	A tool to poison a targeted issuer of SIP INVITE requests with 301 (i.e. Moved Permanently) redirection responses.	http://www.hackingexposedvoip.com/
 reglookup	1.0.1	Command line utility for reading and querying Windows NT registries	http://projects.sentinelchicken.org/reglookup
 relay-scanner	1.7	An SMTP relay scanner.	http://www.cirt.dk
+replayproxy	1.1	Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file.	https://code.google.com/p/replayproxy/
 responder	2.0.5	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	https://github.com/SpiderLabs/Responder
 rfcat	130515	RF ChipCon-based Attack Toolset	http://code.google.com/p/rfcat
 rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	http://www.rfdump.org
