@@ -193,6 +193,7 @@ elettra	1.0	Encryption utility by Julia Identity	http://www.winstonsmith.info/ju
 elettra-gui	1.0	Gui for the elettra crypto application.	http://www.winstonsmith.info/julia/elettra/
 enabler	1	attempts to find the enable password on a cisco system via brute force.	http://packetstormsecurity.org/cisco/enabler.c
 ent	1.0	Pseudorandom number sequence test.	http://www.fourmilab.ch/random
+enum-shares	7.97cba5a	Tool that enumerates shared folders across the network and under a custom user account.	https://github.com/dejanlevaja/enum_shares
 enum4linux	0.8.9	A tool for enumerating information from Windows and Samba systems.	http://labs.portcullis.co.uk/application/enum4linux/
 enumiax	1.0	IAX enumerator	http://sourceforge.net/projects/enumiax/
 enyelkm	1.2	Rootkit for Linux x86 kernels v2.6.	http://www.enye-sec.org/programas.html
