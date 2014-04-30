@@ -54,6 +54,7 @@ blackhash	0.2	Creates a filter from system hashes	http://16s.us/blackhash/
 bletchley	0.0.1	A collection of practical application cryptanalysis tools.	https://code.google.com/p/bletchley/
 blindelephant	7	A web application fingerprinter. Attempts to discover the version of a (known) web application by comparing static files at known locations	http://blindelephant.sourceforge.net/
 blindsql	1.0	Set of bash scripts for blind SQL injection attacks	http://www.enye-sec.org/programas.html
+bluebox-ng	65.33a19a8	A GPL VoIP/UC vulnerability scanner.	https://github.com/jesusprubio/bluebox-ng
 bluebugger	0.1	An implementation of the bluebug technique which was discovered by Martin Herfurt.	http://packetstormsecurity.com/files/54024/bluebugger.1.tar.gz.html
 bluelog	1.0.4	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode	http://www.digifail.com/software/bluelog.shtml
 bluepot	0.1	A Bluetooth Honeypot written in Java, it runs on Linux	https://code.google.com/p/bluepot/
