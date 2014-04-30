@@ -645,6 +645,7 @@ tcpjunk	2.9.03	A general tcp protocols testing and hacking utility	http://code.g
 tcptraceroute	1.5beta7	A traceroute implementation using TCP packets.	http://michael.toren.net/code/tcptraceroute/
 tcpxtract	1.0.1	A tool for extracting files from network traffic.	http://tcpxtract.sourceforge.net
 teardown	1.0	Command line tool to send a BYE request to tear down a call.	http://www.hackingexposedvoip.com/
+tekdefense-automater	25.9a02df6	IP URL and MD5 OSINT Analysis	https://github.com/1aN0rmus/TekDefense-Automater
 termineter	0.1.0	Smart meter testing framework	https://code.google.com/p/termineter/
 tftp-bruteforce	0.1	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
 tftp-fuzz	1337	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
