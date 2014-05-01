@@ -21,9 +21,9 @@ airpwn	1.4	A tool for generic packet injection on an 802.11 network.	http://airp
 allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fastboot)	http://developer.android.com/sdk/index.html
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
-android-udev-rules	1.0.4	Android udev rules	https://github.com/bbqlinux/android-udev-rules
+android-udev-rules	2.0.4	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
 aphopper	0.3	AP Hopper is a program that automatically hops between access points of different wireless networks.	http://aphopper.sourceforge.net/
-arachni	0.4.6	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
+arachni	0.4.7	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
 arduino	1.0.5	Arduino SDK (includes patched avrdude and librxtx)	http://arduino.cc/en/Main/Software
 armitage	1138	A graphical cyber attack management tool for Metasploit	http://www.fastandeasyhacking.com/
 arpalert	2.0.12	Monitor ARP changes in ethernet networks	http://www.arpalert.org/
@@ -76,7 +76,7 @@ bt_audit	0.1.1	Bluetooth audit	http://www.betaversion.net/btdsd/download/
 btcrack	1.1	The world's first Bluetooth Pass phrase (PIN) bruteforce tool. Bruteforces the Passkey and the Link key from captured Pairing exchanges.	http://www.nruns.com/_en/security_tools_btcrack.php
 btscanner	2.1	Bluetooth device scanner.	http://www.pentest.co.uk
 bulk-extractor	1.3.1	Bulk Email and URL extraction tool	https://github.com/simsong/bulk_extractor
-bully	1.0.20	A wifi-protected-setup (WPS) brute force attack tool.	http://code.google.com/p/bully/
+bully	23.1fef73a	A wifi-protected-setup (WPS) brute force attack tool.	http://code.google.com/p/bully/
 bunny	0.93	A closed loop, high-performance, general purpose protocol-blind fuzzer for C programs.	http://code.google.com/p/bunny-the-fuzzer/
 burpsuite	1.6	An integrated platform for attacking web applications (free edition).	http://portswigger.net/burp/
 buttinsky	138.1a2a1b2	Provide an open source framework for automated botnet monitoring.	https://github.com/buttinsky/buttinsky
@@ -171,6 +171,7 @@ dpscan	0.1	Drupal Vulnerabilty Scanner	https://github.com/insaneisnotfree/Blue-S
 dradis	2.5.2	An open source framework to enable effective information sharing.	http://dradisframework.org/
 driftnet	0.1.6	Listens to network traffic and picks out images from TCP streams it observes	http://www.ex-parrot.com/~chris/driftnet/
 dripper	v1.r1.gc9bb0c9	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
+dscanner	521.77a0854	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
 dump1090	279.f7843c1	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
 dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
@@ -324,7 +325,7 @@ js-beautify	1.4.2	This little beautifier will reformat and reindent bookmarklets
 jsql	0.5	A lightweight application used to find database information from a distant server.	https://code.google.com/p/jsql-injection/
 junkie	1041.37b44a4	A modular packet sniffer and analyzer.	https://github.com/securactive/junkie
 jynx2	2.0	An expansion of the original Jynx LD_PRELOAD rootkit	http://www.blackhatlibrary.net/Jynx2
-kautilya	0.4.4	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	http://code.google.com/p/kautilya
+kautilya	0.4.5	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	http://code.google.com/p/kautilya
 keimpx	0.2	Tool to verify the usefulness of credentials across a network over SMB	http://code.google.com/p/keimpx/
 khc	0.2	A small tool designed to recover hashed known_hosts fiels back to their plain-text equivalents.	http://packetstormsecurity.com/files/87003/Known-Host-Cracker.2.html
 killerbee	85	Framework and tools for exploiting ZigBee and IEEE 802.15.4 networks.	https://code.google.com/p/killerbee/
@@ -491,6 +492,7 @@ pstoreview	1.0	Lists the contents of the Protected Storage.	http://www.ntsecurit
 ptunnel	0.72	A tool for reliably tunneling TCP connections over ICMP echo request and reply packets	http://www.cs.uit.no/~daniels/PingTunnel/#download
 pwdump	7.1	Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.	http://www.tarasco.org/security/pwdump_7/index.html
 pwnat	0.3	A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other	http://samy.pl/pwnat/
+pyew	2.3.0	A python tool to analyse malware.	https://code.google.com/p/pyew/
 pyinstaller	2.1	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
 pyminifakedns	0.1	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	http://code.activestate.com/recipes/491264/
 pyrit	0.4.0	WPA/WPA2-PSK attacking with gpu and cluster	http://code.google.com/p/pyrit
