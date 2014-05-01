@@ -305,6 +305,7 @@ inundator	0.5	An ids evasion tool, used to anonymously inundate intrusion detect
 inviteflood	2.0	Flood a device with INVITE requests	https://launchpad.net/~wagungs/+archive/kali-linux/+build/4386635
 ipaudit	1.0BETA2	IPAudit monitors network activity on a network.	http://ipaudit.sourceforge.net
 ipba2	032013	IOS Backup Analyzer	http://www.ipbackupanalyzer.com/
+ipdecap	68.d13705d	Can decapsulate traffic encapsulated within GRE, IPIP, 6in4, ESP (ipsec) protocols, and can also remove IEEE 802.1Q (virtual lan) header.	http://www.loicp.eu/ipdecap#dependances
 ipscan	3.2.1	Angry IP scanner is a very fast IP address and port scanner.	http://www.angryziber.com
 ipv6toolkit	1.5.3	SI6 Networks' IPv6 Toolkit	http://www.si6networks.com/tools/ipv6toolkit/
 ircsnapshot	93.9ba3c6c	Tool to gather information from IRC servers.	https://github.com/bwall/ircsnapshot
