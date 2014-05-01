@@ -190,6 +190,7 @@ erase-registrations	1.0	IAX flooder	http://www.hackingexposedvoip.com/
 evilgrade	2.0.0	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	http://www.infobyte.com.ar/developments.html
 evilmaid	1.01	TrueCrypt loader backdoor to sniff volume password	http://theinvisiblethings.blogspot.com
 exploit-db	1.6	The Exploit Database (EDB) – an ultimate archive of exploits and vulnerable software - A collection of hacks	http://www.exploit-db.com
+extracthosts	7.533603c	Extracts hosts (IP/Hostnames) from files.	https://github.com/bwall/ExtractHosts
 eyepwn	1.0	Exploit for Eye-Fi Helper directory traversal vulnerability	http://www.pentest.co.uk
 fakeap	0.3.2	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	http://www.blackalchemy.to/project/fakeap/
 fakedns	0.1	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	https://github.com/Crypt0s/FakeDns
@@ -656,6 +657,7 @@ thc-ssl-dos	1.4	A tool to verify the performance of SSL. To be used in your auth
 theharvester	2.2a	Python tool for gathering e-mail accounts and subdomain names from different public sources (search engines, pgp key servers)	http://www.edge-security.com/theHarvester.php
 themole	0.3	Automatic SQL injection exploitation tool.	http://sourceforge.net/projects/themole/
 tiger	3.2.3	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
+tilt	77.9a07453	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
 tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
 tnscmd	1.3	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
 topera	19.3e230fd	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
@@ -723,6 +725,7 @@ wiffy	0.2	An Automated wifi hacking script	https://code.google.com/p/g0tmi1k/
 wifi-honey	1.0	A management tool for wifi honeypots	http://www.digininja.org/projects/wifi_honey.php
 wifi-monitor	0.r22.71340a3	Prints the IPs on your local network that're sending the most packets	https://github.com/DanMcInerney/wifi-monitor
 wificurse	0.3.9	WiFi jamming tool.	https://github.com/oblique/wificurse
+wifijammer	43.4a0fe56	A python script to continuosly jam all wifi clients within range.	https://github.com/DanMcInerney/wifijammer
 wifitap	2b16088	WiFi injection tool through tun/tap device	https://github.com/GDSSecurity/wifitap
 wifite	2	A tool to attack multiple WEP and WPA encrypted networks at the same time	http://code.google.com/p/wifite/
 wig	95.5e2e8b5	WebApp Information Gatherer.	https://github.com/jekyc/wig
