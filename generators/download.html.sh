@@ -178,6 +178,11 @@ http://blackarch.pr0s3c.nl/blackarch/</a>
 <a href="http://blackarch.co.za/blackarch/" target="_blank">
 http://blackarch.co.za/blackarch/</a>
 <br /><br />
+<img src="images/flags/se.png" /> <b>Sweden</b>
+<br />
+<a href="http://mirror.zetup.net/blackarch/" target="_blank">
+http://mirror.zetup.net/blackarch/</a>
+<br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
 <a href="http://mirror.jmu.edu/blackarch/" target="_blank">
