@@ -165,6 +165,9 @@ http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/nl.png" /> <b>Netherlands</b>
 <br />
+<a href="https://kluisip.nl/public/blackarch/" target="_blank">
+https://kluisip.nl/public/blackarch/</a>
+<br />
 <a href="http://blackarch.pr0s3c.nl/blackarch/" target="_blank">
 http://blackarch.pr0s3c.nl/blackarch/</a>
 <br /><br />

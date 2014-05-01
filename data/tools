@@ -105,6 +105,7 @@ cisco-router-config	1.1	copy-router-config and merge-router-config to copy and m
 cisco-scanner	0.2	Multithreaded Cisco HTTP vulnerability scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
 cisco-torch	0.4b	Cisco Torch mass scanning, fingerprinting, and exploitation tool.	http://www.arhont.com
 ciscos	1.3	Scans class A, B, and C networks for cisco routers which have telnet open and have not changed the default password from cisco.
+clusterd	65.5eaa2f7	Automates the fingerprinting, reconnaissance, and exploitation phases of an application server attack.	https://github.com/hatRiot/clusterd
 cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://www.cgsecurity.org/wiki/CmosPwd
 cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	http://code.google.com/p/cms-explorer
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
