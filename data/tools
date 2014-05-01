@@ -11,6 +11,7 @@ aeskeyfind	1.0	A tool to find AES key in RAM	http://citp.princeton.edu/memory/co
 aespipe	2.4c	Reads data from stdin and outputs encrypted or decrypted results to stdout.	http://loop-aes.sourceforge.net/aespipe/
 afflib	3.7.1	An extensible open format for the storage of disk images and related forensic information	http://www.afflib.org
 against	0.2	A very fast ssh attacking script which includes a multithreaded port scanning module (tcp connect) for discovering possible targets and a multithreaded brute-forcing module which attacks parallel all discovered hosts or given ip addresses from a list.	http://nullsecurity.net/tools/cracker.html
+aiengine	259.6b9b64e	A packet inspection engine with capabilities of learning without any human intervention.	https://bitbucket.org/camp0/aiengine/
 aimage	3.2.5	A program to create aff-images.	http://www.afflib.org
 air	2.0.0	A GUI front-end to dd/dc3dd designed for easily creating forensic images.	http://air-imager.sourceforge.net/
 airflood	0.1	A modification of aireplay that allows for a DOS in in the AP. This program fills the table of clients of the AP with random MACs doing impossible new connections.	http://packetstormsecurity.com/files/51127/airflood.1.tar.gz.html
@@ -593,7 +594,7 @@ snort	2.9.6.0	A lightweight network intrusion detection system.	http://www.snort
 snscan	1.05	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
 spade	114	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
 spectools	2010_04_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
-spiderfoot	2.1.1	The Open Source Footprinting Tool	http://spiderfoot.net
+spiderfoot	2.1.4	The Open Source Footprinting Tool	http://spiderfoot.net/
 spiderpig-pdffuzzer	0.1	A javascript pdf fuzzer	https://code.google.com/p/spiderpig-pdffuzzer/
 spike	2.9	IMMUNITYsec's fuzzer creation kit in C	http://www.immunitysec.com/resources-freesoftware.shtml
 spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	http://www.immunitysec.com/resources-freesoftware.shtml
