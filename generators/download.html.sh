@@ -181,6 +181,11 @@ http://blackarch.co.za/blackarch/</a>
 <a href="http://blackarch.smartdefence.cl/blackarch/" target="_blank">
 http://blackarch.smartdefence.cl/blackarch/</a>
 <br /><br />
+<img src="images/flags/ie.png" /> <b>Ireland</b>
+<br />
+<a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
+ftp.heanet.ie/mirrors/blackarch/</a>
+<br /><br />
 <img src="images/flags/se.png" /> <b>Sweden</b>
 <br />
 <a href="http://mirror.zetup.net/blackarch/" target="_blank">
