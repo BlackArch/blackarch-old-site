@@ -163,6 +163,11 @@ http://blackarch.pi3rrot.net/blackarch/</a>
 <a href="http://blackarch.nullsecurity.net/blackarch/" target="_blank">
 http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
+<img src="images/flags/gb.png" /> <b>Great Britain</b>
+<br />
+<a href="http://www.mirrorservice.org/sites/blackarch.org/blackarch/">
+http://www.mirrorservice.org/sites/blackarch.org/blackarch/</a>
+<br /><br />
 <img src="images/flags/ie.png" /> <b>Ireland</b>
 <br />
 <a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
