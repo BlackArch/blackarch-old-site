@@ -163,6 +163,11 @@ http://blackarch.pi3rrot.net/blackarch/</a>
 <a href="http://blackarch.nullsecurity.net/blackarch/" target="_blank">
 http://blackarch.nullsecurity.net/blackarch/</a>
 <br /><br />
+<img src="images/flags/ie.png" /> <b>Ireland</b>
+<br />
+<a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
+http://ftp.heanet.ie/mirrors/blackarch/</a>
+<br /><br />
 <img src="images/flags/nl.png" /> <b>Netherlands</b>
 <br />
 <a href="https://kluisip.nl/public/blackarch/" target="_blank">
@@ -180,11 +185,6 @@ http://blackarch.co.za/blackarch/</a>
 <br />
 <a href="http://blackarch.smartdefence.cl/blackarch/" target="_blank">
 http://blackarch.smartdefence.cl/blackarch/</a>
-<br /><br />
-<img src="images/flags/ie.png" /> <b>Ireland</b>
-<br />
-<a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
-ftp.heanet.ie/mirrors/blackarch/</a>
 <br /><br />
 <img src="images/flags/se.png" /> <b>Sweden</b>
 <br />
