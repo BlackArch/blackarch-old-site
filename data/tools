@@ -48,7 +48,7 @@ bed	0.5	Collection of scripts to test for buffer overflows, format string vulner
 beef	0.4.4.9.154.g82e09e8	The Browser Exploitation Framework that focuses on the web browser	http://beefproject.com/
 beleth	0.r36.0963699	A Multi-threaded Dictionary based SSH cracker	https://github.com/chokepoint/Beleth
 bfbtester	2.0.1	Performs checks of single and multiple argument command line overflows and environment variable overflows	http://sourceforge.net/projects/bfbtester/
-bgp-md5crack	0.1	http://mirror.adversec.com/blackarch/	http://www.c0decafe.de/
+bgp-md5crack	0.1	RFC2385 password cracker	http://www.c0decafe.de/
 bing-ip2hosts	0.4	Enumerates all hostnames which Bing has indexed for a specific IP address.	http://www.morningstarsecurity.com/research/bing-ip2hosts
 binwalk	1.3.0	A tool for searching a given binary image for embedded files	http://binwalk.org
 binwally	0.r3.ca092a7	Binary and Directory tree comparison tool using the Fuzzy Hashing concept (ssdeep)	https://github.com/bmaia/binwally
@@ -663,6 +663,7 @@ tekdefense-automater	25.9a02df6	IP URL and MD5 OSINT Analysis	https://github.com
 termineter	0.1.0	Smart meter testing framework	https://code.google.com/p/termineter/
 tftp-bruteforce	0.1	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
 tftp-fuzz	1337	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
+tftp-proxy	0.1	This tool accepts connection on tftp and reloads requested content from an upstream tftp server. Meanwhile modifications to the content can be done by pluggable modules. So this one's nice if your mitm with some embedded devices.	http://www.c0decafe.de/
 thc-ipv6	2.3	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
 thc-keyfinder	1.0	Finds crypto keys, encrypted data and compressed data in files by analyzing the entropy of parts of the file.	https://www.thc.org/releases.php
 thc-pptp-bruter	0.1.4	A brute force program that works against pptp vpn endpoints (tcp port 1723).	http://www.thc.org
