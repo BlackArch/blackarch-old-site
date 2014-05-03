@@ -23,6 +23,7 @@ android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fa
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
 android-udev-rules	2.0.4	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
 aphopper	0.3	AP Hopper is a program that automatically hops between access points of different wireless networks.	http://aphopper.sourceforge.net/
+apnbf	0.1	A small python script designed for enumerating valid APNs (Access Point Name) on a GTP-C speaking device.	http://www.c0decafe.de/
 arachni	0.4.7	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
 arduino	1.0.5	Arduino SDK (includes patched avrdude and librxtx)	http://arduino.cc/en/Main/Software
 armitage	1138	A graphical cyber attack management tool for Metasploit	http://www.fastandeasyhacking.com/
@@ -150,6 +151,7 @@ dirb	2.04	A web content scanner, brute forceing for hidden files	http://dirb.sou
 dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
 dislocker	0.3	A tool to exploit the hash length extension attack in various hashing algorithms. With FUSE capabilities built in.	http://www.hsc.fr/ressources/outils/dislocker/
 dissector	1	This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.	http://packetstormsecurity.com/files/125972/Coloured-ELF-File-Dissector.html
+dizzy	0.8.2	A Python based fuzzing framework with many features.	http://www.c0decafe.de/
 dmitry	1.3a	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 dnmap	0.6	The distributed nmap framework	http://sourceforge.net/projects/dnmap/
 dns-spoof	12.3918a10	Yet another DNS spoof utility.	https://github.com/maurotfilho/dns-spoof
@@ -248,6 +250,7 @@ grepforrfi	0.1	Simple script for parsing web logs for RFIs and Webshells v1.2	ht
 grokevt	0.5.0	A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files.	http://code.google.com/p/grokevt/
 gsa	4.0.2	OpenVAS web frontend	http://www.openvas.org/
 gsd	1.2.2	OpenVAS GUI frontend	http://www.openvas.org/
+gtp-scan	0.7	A small python script that scans for GTP (GPRS tunneling protocol) speaking hosts.	http://www.c0decafe.de/
 guymager	0.7.1	A forensic imager for media acquisition	http://guymager.sourceforge.net/
 gwtenum	7.f27a5aa	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k=GwtEnum
 hackersh	0.2.0	A shell for with Pythonect-like syntax, including wrappers for commonly used security tools	http://www.hackersh.org/
@@ -593,6 +596,7 @@ smtpscan	0.5	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan
 sn00p	0.8	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
 sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft	http://www.delirandom.net/sniffjoke/
 snmp-fuzzer	0.1.1	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/
+snmpattack	1.8	SNMP scanner and attacking tool.	http://www.c0decafe.de/
 snmpcheck	1.8	A free open source utility to get information via SNMP protocols.	http://www.nothink.org/perl/snmpcheck/
 snmpenum	1.7	snmp enumerator	http://www.filip.waeytens.easynet.be/
 snmpscan	0.1	A free, multi-processes SNMP scanner	http://www.nothink.org/perl/snmpscan/index.php
@@ -630,7 +634,7 @@ sslscan	1.8.2	A fast tools to scan SSL services, such as HTTPS.	http://sourcefor
 sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
 sslsplit	0.4.8	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections	http://www.roe.ch/SSLsplit
 sslstrip	0.9	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links	http://www.thoughtcrime.org/software/sslstrip
-sslyze	0.6	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations	https://github.com/iSECPartners/sslyze
+sslyze	0.9	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations.	https://github.com/iSECPartners/sslyze
 starttls-mitm	7.b257756	A mitm proxy that will transparently proxy and dump both plaintext and TLS traffic.	https://github.com/ipopov/starttls-mitm
 statsprocessor	0.082	A high-performance word-generator based on per-position Markov-attack	http://hashcat.net/wiki/doku.php?id=statsprocessor
 stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
