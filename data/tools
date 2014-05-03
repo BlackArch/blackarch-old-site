@@ -198,6 +198,7 @@ evilmaid	1.01	TrueCrypt loader backdoor to sniff volume password	http://theinvis
 exploit-db	1.6	The Exploit Database (EDB) – an ultimate archive of exploits and vulnerable software - A collection of hacks	http://www.exploit-db.com
 extracthosts	7.533603c	Extracts hosts (IP/Hostnames) from files.	https://github.com/bwall/ExtractHosts
 eyepwn	1.0	Exploit for Eye-Fi Helper directory traversal vulnerability	http://www.pentest.co.uk
+eyewitness	114.b759a29	Designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.	https://github.com/ChrisTruncer/EyeWitness
 fakeap	0.3.2	Black Alchemy's Fake AP generates thousands of counterfeit 802.11b access points. Hide in plain sight amongst Fake AP's cacophony of beacon frames.	http://www.blackalchemy.to/project/fakeap/
 fakedns	0.1	A regular-expression based python MITM DNS server with correct DNS request passthrough and "Not Found" responses.	https://github.com/Crypt0s/FakeDns
 fakemail	1.0	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
@@ -238,6 +239,7 @@ geoipgen	0.4	GeoIPgen is a country to IP addresses generator.	http://code.google
 getsids	0.0.1	Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing ‘lsnrctl service’.	http://www.cqure.net/wp/getsids/
 ghettotooth	1.0	Ghettodriving for bluetooth	http://www.oldskoolphreak.com/tfiles/ghettotooth.txt
 ghost-phisher	1.62	GUI suite for phishing and penetration attacks	http://code.google.com/p/ghost-phisher
+ghost-py	0.1b3	Webkit based webclient (relies on PyQT).	http://jeanphix.github.com/Ghost.py/
 giskismet	20110805	A program to visually represent the Kismet data in a flexible manner.	http://www.giskismet.org
 goldeneye	16.7a38fe9	A HTTP DoS test tool. Attack Vector exploited: HTTP Keep Alive + NoCache.	https://github.com/jseidl/GoldenEye
 golismero	2.0	Opensource web security testing framework	https://github.com/golismero/golismero
@@ -261,7 +263,7 @@ hamster	2.0.0	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
 handle	0.0	An small application designed to analyze your system searching for global objects related to running proccess and display information for every found object, like tokens, semaphores, ports, files,..	http://www.tarasco.org/security/handle/index.html
 hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
 hashcat	0.47	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
-hashcat-utils	0.9	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
+hashcat-utils	1.0	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
 hasher	29.0441700	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
 hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 hashpump	26.6bd82bc	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
