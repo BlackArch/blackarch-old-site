@@ -270,6 +270,7 @@ hasher	29.0441700	A tool that allows you to quickly hash plaintext strings, or c
 hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 hashpump	26.6bd82bc	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
 hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
+hbad	1.0	This tool allows you to test clients on the heartbleed bug.	http://www.curesec.com/
 hcraft	1.0.0	HTTP Vuln Request Crafter	http://sourceforge.net/projects/hcraft/
 heartbleed-honeypot	0.1	Script that listens on TCP port 443 and responds with completely bogus SSL heartbeat responses, unless it detects the start of a byte pattern similar to that used in Jared Stafford's	http://packetstormsecurity.com/files/126068/hb_honeypot.pl.txt
 hex2bin	1.0.7	Converts Motorola and Intel hex files to binary.	http://hex2bin.sourceforge.net/
@@ -278,6 +279,7 @@ hexorbase	6	A database application designed for administering and auditing multi
 hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
 honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
 honssh	21.b9880b4	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
+hookanalyser	3.0	A hook tool which can be potentially helpful in reversing applications and analyzing malware. It can hook to an API in a process and search for a pattern in memory or dump the buffer.	http://hookanalyser.blogspot.de/
 hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
 hpfeeds	131.dc4cf92	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
@@ -587,7 +589,7 @@ sipsak	0.9.6	A small command line tool for developers and administrators of Sess
 sipscan	0.0	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
 sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
 skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
-skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control	https://github.com/samyk/skyjack
+skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control.	https://github.com/samyk/skyjack
 skypefreak	15.ea94db5	A Cross Platform Forensic Framework for Skype.	http://osandamalith.github.io/SkypeFreak/
 slowhttptest	1.5	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
 slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
