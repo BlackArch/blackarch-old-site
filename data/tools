@@ -351,6 +351,7 @@ ldapenum	0.1	Enumerate domain controllers using LDAP.	https://gobag.googlecode.c
 leo	4.11	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
 leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
+lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
 libewf	20140227	A library for support of the Expert Witness Compression Format (EWF).	https://code.google.com/p/libewf/
 linenum	18.b4c2541	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
