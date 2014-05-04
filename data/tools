@@ -176,6 +176,7 @@ dradis	2.5.2	An open source framework to enable effective information sharing.	h
 driftnet	0.1.6	Listens to network traffic and picks out images from TCP streams it observes	http://www.ex-parrot.com/~chris/driftnet/
 dripper	v1.r1.gc9bb0c9	A fast, asynchronous DNS scanner; it can be used for enumerating subdomains and enumerating boxes via reverse DNS.	http://www.blackhatlibrary.net/Dripper
 dscanner	521.77a0854	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
+dsd	47.ad0c849	Digital Speech Decoder	https://github.com/szechyjs/dsd
 dump1090	279.f7843c1	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
 dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
@@ -207,6 +208,7 @@ fang	1.2	A multi service threaded MD5 cracker	https://github.com/evilsocket/fang
 fbht	r11.1853984	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
 fern-wifi-cracker	219	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
 fernmelder	6.c6d4ebe	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
+fgscanner	11.893372c	An advanced, opensource URL scanner.	http://www.fantaghost.com/fgscanner
 fierce	0.9.9	A DNS scanner	http://ha.ckers.org/fierce/
 fiked	0.0.5	Fake IDE daemon	http://www.roe.ch/FakeIKEd
 fimap	1.00	A little tool for local and remote file inclusion auditing and exploitation	http://code.google.com/p/fimap/
@@ -419,6 +421,7 @@ netdiscover	0.3	An active/passive address reconnaissance tool, mainly developed 
 netmap	0.1.3	Netmap can be used to make a graphical representation of the surounding network.	http://netmap.sourceforge.net
 netmask	2.3.12	Helps determine network masks	http://packages.qa.debian.org/n/netmask.html
 netreconn	1.76	A collection of network scan/recon tools that are relatively small compared to their larger cousins.	http://packetstormsecurity.com/files/86076/NetReconn-Scanning-Tool-Collection.76.html
+netscan	1.0	Tcp/Udp/Tor port scanner with: synpacket, connect TCP/UDP and socks5 (tor connection).	http://packetstormsecurity.com/files/125569/Netscan-Port-Scanner.0.html
 netsed	1.2	Small and handful utility design to alter the contents of packets forwarded thru network in real time.	http://silicone.homelinux.org/projects/netsed/
 netsniff-ng	0.5.7	A high performance Linux network sniffer for packet inspection.	http://netsniff-ng.org/
 nfcutils	0.3.2	Provides a simple 'lsnfc' command that list tags which are in your NFC device field	http://code.google.com/p/nfc-tools
@@ -607,7 +610,7 @@ snort	2.9.6.0	A lightweight network intrusion detection system.	http://www.snort
 snscan	1.05	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
 spade	114	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
 spectools	2010_04_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
-spiderfoot	2.1.4	The Open Source Footprinting Tool	http://spiderfoot.net/
+spiderfoot	2.1.5	The Open Source Footprinting Tool	http://spiderfoot.net/
 spiderpig-pdffuzzer	0.1	A javascript pdf fuzzer	https://code.google.com/p/spiderpig-pdffuzzer/
 spike	2.9	IMMUNITYsec's fuzzer creation kit in C	http://www.immunitysec.com/resources-freesoftware.shtml
 spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	http://www.immunitysec.com/resources-freesoftware.shtml
@@ -650,6 +653,7 @@ suricata	1.4.7	An Open Source Next Generation Intrusion Detection and Prevention
 svn-extractor	28.3af00fb	A simple script to extract all web resources by means of .SVN folder exposed over network.	https://github.com/anantshri/svn-extractor
 swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
 synscan	5.02	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
+sysdig	681.11bbb7d	Open source system-level exploration and troubleshooting tool.	http://www.sysdig.org/
 sysinternals-suite	20131227	Sysinternals tools suite	http://sysinternals.com
 t50	5.4.1	Experimental Multi-protocol Packet Injector Tool	http://t50.sourceforge.net/
 taof	0.3.2	Taof is a GUI cross-platform Python generic network protocol fuzzer.	http://taof.sf.net
