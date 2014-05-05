@@ -60,7 +60,7 @@ blindelephant	7	A web application fingerprinter. Attempts to discover the versio
 blindsql	1.0	Set of bash scripts for blind SQL injection attacks	http://www.enye-sec.org/programas.html
 bluebox-ng	65.33a19a8	A GPL VoIP/UC vulnerability scanner.	https://github.com/jesusprubio/bluebox-ng
 bluebugger	0.1	An implementation of the bluebug technique which was discovered by Martin Herfurt.	http://packetstormsecurity.com/files/54024/bluebugger.1.tar.gz.html
-bluelog	1.0.4	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode	http://www.digifail.com/software/bluelog.shtml
+bluelog	1.1.1	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode.	http://www.digifail.com/software/bluelog.shtml
 bluepot	0.1	A Bluetooth Honeypot written in Java, it runs on Linux	https://code.google.com/p/bluepot/
 blueprint	0.1_3	A perl tool to identify Bluetooth devices.	http://trifinite.org/trifinite_stuff_blueprinting.html
 blueranger	1.0	A simple Bash script which uses Link Quality to locate Bluetooth device radios.	http://www.hackfromacave.com/projects/blueranger.html
@@ -333,6 +333,7 @@ jd-gui	0.3.5	A standalone graphical utility that displays Java source codes of .
 jigsaw	1.3	A simple ruby script for enumerating information about a company's employees. It is useful for Social Engineering or Email Phishing.	https://github.com/pentestgeek/jigsaw
 jnetmap	0.5.3	A network monitor of sorts	http://www.rakudave.ch/jnetmap/?file=introduction
 johnny	20120424	GUI for John the Ripper	http://openwall.info/wiki/john/johnny
+jomplug	0.1	This php script fingerprints a given Joomla system and then uses Packet Storm's archive to check for bugs related to the installed components.	http://packetstormsecurity.com/files/121390/Janissaries-Joomla-Fingerprint-Tool.html
 joomscan	2012.03.10	Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site.	http://joomscan.sourceforge.net/
 js-beautify	1.4.2	This little beautifier will reformat and reindent bookmarklets, ugly JavaScript, unpack scripts packed by Dean Edward?s popular packer, as well as deobfuscate scripts processed by javascriptobfuscator.com.	https://github.com/einars/js-beautify
 jsql	0.5	A lightweight application used to find database information from a distant server.	https://code.google.com/p/jsql-injection/
@@ -397,6 +398,7 @@ metasploit-msfupdate	24299.c2bb265	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
+mfsniffer	0.1	A python script for capturing unencrypted TSO login credentials.	http://packetstormsecurity.com/files/120802/MF-Sniffer-TN3270-Password-Grabber.html
 mibble	2.9.3	Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1 files.	http://www.mibble.org/
 middler	1.0	A Man in the Middle tool to demonstrate protocol middling attacks.	http://code.google.com/p/middler/
 minimysqlator	0.5	Mini MySqlat0r is a multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	http://www.scrt.ch/pages_en/minimysqlator.html
@@ -444,6 +446,7 @@ nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency ana
 notspikefile	0.1	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
 nsdtool	0.1	A netgear switch discovery tool. It contains some extra features like bruteoforce and setting a new password.	http://www.curesec.com/en/publications/tools.html
 nsec3walker	20101223	Enumerates domain names using DNSSEC	http://dnscurve.org/nsec3walker.html
+ntds-decode	0.1	This application dumps LM and NTLM hashes from active accounts stored in an Active Directory database.	http://packetstormsecurity.com/files/121543/NTDS-Hash-Decoder.b.html
 o-saft	245.74e6bfa	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
 oat	1.3.1	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
 obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities	http://bluetooth-pentest.narod.ru/
@@ -715,6 +718,7 @@ unsecure	1.2	Bruteforces network login masks.	http://www.sniperx.net/
 upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
 username-anarchy	0.2	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
+usernamer	7.813139d	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
 vbrute	1.11dda8b	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
 vega	1.0	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
 veil	191.d464fc1	A tool designed to generate metasploit payloads that bypass common anti-virus solutions.	https://github.com/veil-evasion/Veil
@@ -735,6 +739,7 @@ w3af	1.6	Web Application Attack and Audit Framework.	http://w3af.sourceforge.net
 waffit	30	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
 wapiti	2.3.0	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	http://wapiti.sourceforge.net/
 wavemon	0.7.6	Ncurses-based monitoring application for wireless network devices	http://eden-feed.erg.abdn.ac.uk/wavemon/
+web-soul	2	A plugin based scanner for attacking and data mining web sites written in Perl.	http://packetstormsecurity.com/files/122064/Web-Soul-Scanner.html
 webacoo	0.2.3	Web Backdoor Cookie Script-Kit	https://bechtsoudis.com/webacoo/
 webenum	0.1	Tool to enumerate http responses using dynamically generated queries and more. Useful for penetration tests against web servers.	http://code.google.com/p/webenum/
 webhandler	0.8.5	A handler for PHP system functions & also an alternative 'netcat' handler.	https://github.com/lnxg33k/webhandler
