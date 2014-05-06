@@ -84,6 +84,7 @@ bunny	0.93	A closed loop, high-performance, general purpose protocol-blind fuzze
 burpsuite	1.6	An integrated platform for attacking web applications (free edition).	http://portswigger.net/burp/
 buttinsky	138.1a2a1b2	Provide an open source framework for automated botnet monitoring.	https://github.com/buttinsky/buttinsky
 canari	1.0	A transform framework for maltego	http://www.canariproject.com
+cansina	93.abc6577	A python-based Web Content Discovery Tool.	https://github.com/deibit/cansina
 capstone	2.1.2	A lightweight multi-platform, multi-architecture disassembly framework.	http://www.capstone-engine.org/index.html
 carwhisperer	0.2	Intends to sensibilise manufacturers of carkits and other Bluetooth appliances without display and keyboard for the possible security threat evolving from the use of standard passkeys.	http://trifinite.org/trifinite_stuff_carwhisperer.html
 casefile	1.0.1	The little brother to Maltego without transforms, but combines graph and link analysis to examine links between manually added data to mind map your information	http://www.paterva.com/web6/products/casefile.php
@@ -153,6 +154,7 @@ dirb	2.04	A web content scanner, brute forceing for hidden files	http://dirb.sou
 dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
 dislocker	0.3	A tool to exploit the hash length extension attack in various hashing algorithms. With FUSE capabilities built in.	http://www.hsc.fr/ressources/outils/dislocker/
 dissector	1	This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.	http://packetstormsecurity.com/files/125972/Coloured-ELF-File-Dissector.html
+dissy	10	A graphical frontend to the objdump disassembler for compiler-generated code.	http://dissy.googlecode.com/
 dizzy	0.8.2	A Python based fuzzing framework with many features.	http://www.c0decafe.de/
 dmitry	1.3a	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 dnmap	0.6	The distributed nmap framework	http://sourceforge.net/projects/dnmap/
@@ -496,11 +498,13 @@ perl-tftp	1.0b3	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TF
 pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
 phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
 php-mt-seed	3.2	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
+php-rfi-payload-decoder	29.1a51043	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
 phrasendrescher	1.2.2	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
 pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
 plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
 pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
+pompem	59.f72a0f2	A python exploit tool finder.	https://github.com/rfunix/Pompem
 portspoof	95.c07b53d	This program's primary goal is to enhance OS security through a set of new techniques.	http://portspoof.org/
 powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	http://www.powerfuzzer.com
 powersploit	2.2	A PowerShell Post-Exploitation Framework	https://github.com/mattifestation/PowerSploit
@@ -627,7 +631,7 @@ spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	http:/
 spipscan	6537.675fb24	SPIP (CMS) scanner for penetration testing purpose written in Python.	https://github.com/PaulSec/SPIPScan
 sploitctl	1.1	Fetch, install and search exploit archives from exploit sites like exploit-db and packetstorm.	https://github.com/BlackArch/sploitctl
 sploitego	1.0	Maltego Penetration Testing Transforms	https://github.com/allfro/sploitego
-spooftooph	0.5	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	http://www.hackfromacave.com/projects/spooftooph.html
+spooftooph	0.5.2	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	http://www.hackfromacave.com/projects/spooftooph.html
 sps	4.2	A Linux packet crafting tool. Supports IPv4, IPv6 including extension headers, and tunneling IPv6 over IPv4.	https://sites.google.com/site/simplepacketsender/
 sqid	0.3	A SQL injection digger.	http://sqid.rubyforge.org/
 sqlbrute	1.0	Brute forces data out of databases using blind SQL injection.	http://www.justinclarke.com/archives/2006/03/sqlbrute.html
@@ -763,6 +767,7 @@ wifite	2	A tool to attack multiple WEP and WPA encrypted networks at the same ti
 wig	95.5e2e8b5	WebApp Information Gatherer.	https://github.com/jekyc/wig
 winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
 winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
+wireless-ids	24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
 wlan2eth	1.3	re-writes 802.11 captures into standard Ethernet frames.	http://www.willhackforsushi.com/?page_id=79
 wmat	0.1	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.html
 wnmap	0.1	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
