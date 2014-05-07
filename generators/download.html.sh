@@ -176,6 +176,14 @@ http://www.mirrorservice.org/sites/blackarch.org/blackarch/</a>
 <a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
 http://ftp.heanet.ie/mirrors/blackarch/</a>
 <br /><br />
+<img src="images/flags/jp.png" /> <b>Japan</b>
+<br />
+<a href="http://www.ftp.ne.jp/Linux/packages/blackarch/" target="_blank">
+http://www.ftp.ne.jp/Linux/packages/blackarch/</a>
+<br />
+<a href="ftp://ftp.kddilabs.jp/Linux/packages/blackarch/" target="_blank">
+ftp://ftp.kddilabs.jp/Linux/packages/blackarch/</a>
+<br /><br />
 <img src="images/flags/nl.png" /> <b>Netherlands</b>
 <br />
 <a href="https://kluisip.nl/public/blackarch/" target="_blank">
