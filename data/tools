@@ -21,7 +21,7 @@ airpwn	1.4	A tool for generic packet injection on an 802.11 network.	http://airp
 allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fastboot)	http://developer.android.com/sdk/index.html
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
-android-udev-rules	2.0.4	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
+android-udev-rules	7194.49247b5	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
 aphopper	0.3	AP Hopper is a program that automatically hops between access points of different wireless networks.	http://aphopper.sourceforge.net/
 apnbf	0.1	A small python script designed for enumerating valid APNs (Access Point Name) on a GTP-C speaking device.	http://www.c0decafe.de/
 arachni	0.4.7	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
@@ -84,7 +84,7 @@ bully	23.1fef73a	A wifi-protected-setup (WPS) brute force attack tool.	http://co
 bunny	0.93	A closed loop, high-performance, general purpose protocol-blind fuzzer for C programs.	http://code.google.com/p/bunny-the-fuzzer/
 burpsuite	1.6	An integrated platform for attacking web applications (free edition).	http://portswigger.net/burp/
 buttinsky	138.1a2a1b2	Provide an open source framework for automated botnet monitoring.	https://github.com/buttinsky/buttinsky
-canari	1.0	A transform framework for maltego	http://www.canariproject.com
+canari	1.1	A transform framework for maltego	http://www.canariproject.com/
 cansina	93.abc6577	A python-based Web Content Discovery Tool.	https://github.com/deibit/cansina
 capstone	2.1.2	A lightweight multi-platform, multi-architecture disassembly framework.	http://www.capstone-engine.org/index.html
 carwhisperer	0.2	Intends to sensibilise manufacturers of carkits and other Bluetooth appliances without display and keyboard for the possible security threat evolving from the use of standard passkeys.	http://trifinite.org/trifinite_stuff_carwhisperer.html
@@ -163,6 +163,7 @@ dns-spoof	12.3918a10	Yet another DNS spoof utility.	https://github.com/maurotfil
 dns2tcp	0.5.2	A tool for relaying TCP connections over DNS	http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en
 dnsa	0.5	DNSA is a dns security swiss army knife	http://packetfactory.openwall.net/projects/dnsa/index.html
 dnsbf	0.2	search for available domain names in an IP range	http://code.google.com/p/dnsbf
+dnsbrute	2.b1dc84a	Multi-theaded DNS bruteforcing, average speed 80 lookups/second with 40 threads.	https://github.com/d4rkcat/dnsbrute
 dnschef	0.2.1	A highly configurable DNS proxy for pentesters	http://thesprawl.org/projects/dnschef/
 dnsdrdos	0.1	Proof of concept code for distributed DNS reflection DoS	http://nullsecurity.net/tools/dos.html
 dnsenum	1.2.3	Script that enumerates DNS information from a domain, attempts zone transfers, performs a brute force dictionary style attack, and then performs reverse look-ups on the results.	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=dnsenum
@@ -429,7 +430,7 @@ nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS informat
 nbtool	1.51f2016	Some tools for NetBIOS and DNS investigation, attacks, and communication.	http://wiki.skullsecurity.org/Nbtool
 ncpfs	2.2.6	ncpfs allows you to mount volumes of NetWare servers under Linux.	http://www.novell.com/
 ndpi-xplico-svn	6937	Open and Extensible GPLv3 Deep Packet Inspection Library.	http://www.ntop.org/products/ndpi/
-netactview	0.6.1	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
+netactview	0.6.2	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
 netcommander	1.3	An easy-to-use arp spoofing tool	https://github.com/evilsocket/netcommander
 netcon	0.1	A network connection establishment and management script.	http://www.paramecium.org/~leendert/
 netdiscover	0.3	An active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	http://nixgeneration.com/~jaime/netdiscover/
@@ -539,7 +540,7 @@ rcracki-mt	0.7.0	A tool to perform rainbow table attacks on password hashes. It 
 rdesktop-brute	1.5.0	It connects to windows terminal servers - Bruteforce patch included.	http://www.rdesktop.org/
 reaver	1.4	Implements a brute force attack against wifi protected setup WPS registrar PINs in order to recover WPA/WPA2 passphrases	http://code.google.com/p/reaver-wps
 rebind	0.3.4	DNS Rebinding Tool	http://code.google.com/p/rebind/
-recon-ng	792.377c606	A full-featured Web Reconnaissance framework written in Python.	https://bitbucket.org/LaNMaSteR53/recon-ng
+recon-ng	794.a9ee67d	A full-featured Web Reconnaissance framework written in Python.	https://bitbucket.org/LaNMaSteR53/recon-ng
 recoverjpeg	2.2.2	Recover jpegs from damaged devices.	http://www.rfc1149.net/devel/recoverjpeg
 recstudio	4.0_20130717	Cross platform interactive decompiler	http://www.backerstreet.com/rec/rec.htm
 redfang	2.5	Finds non-discoverable Bluetooth devices by brute-forcing the last six bytes of the devices' Bluetooth addresses and calling read_remote_name().	http://packetstormsecurity.com/files/31864/redfang.2.5.tar.gz.html
@@ -660,6 +661,7 @@ sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generat
 sslsplit	0.4.8	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections	http://www.roe.ch/SSLsplit
 sslstrip	0.9	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links	http://www.thoughtcrime.org/software/sslstrip
 sslyze	0.9	Python tool for analyzing the configuration of SSL servers and for identifying misconfigurations.	https://github.com/iSECPartners/sslyze
+stackflow	2.2af525d	Universal stack-based buffer overfow exploitation tool.	https://github.com/d4rkcat/stackflow
 starttls-mitm	7.b257756	A mitm proxy that will transparently proxy and dump both plaintext and TLS traffic.	https://github.com/ipopov/starttls-mitm
 statsprocessor	0.082	A high-performance word-generator based on per-position Markov-attack	http://hashcat.net/wiki/doku.php?id=statsprocessor
 stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
@@ -770,7 +772,7 @@ wificurse	0.3.9	WiFi jamming tool.	https://github.com/oblique/wificurse
 wifijammer	43.4a0fe56	A python script to continuosly jam all wifi clients within range.	https://github.com/DanMcInerney/wifijammer
 wifitap	2b16088	WiFi injection tool through tun/tap device	https://github.com/GDSSecurity/wifitap
 wifite	2	A tool to attack multiple WEP and WPA encrypted networks at the same time	http://code.google.com/p/wifite/
-wig	95.5e2e8b5	WebApp Information Gatherer.	https://github.com/jekyc/wig
+wig	103.55de6d8	WebApp Information Gatherer.	https://github.com/jekyc/wig
 winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
 winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
 wireless-ids	24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
@@ -778,7 +780,7 @@ wlan2eth	1.3	re-writes 802.11 captures into standard Ethernet frames.	http://www
 wmat	0.1	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.html
 wnmap	0.1	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
 wol-e	2.0	A suite of tools for the Wake on LAN feature of network attached computers	http://code.google.com/p/wol-e/
-wpscan	1412.8a66108	A vulnerability scanner which checks the security of WordPress installations using a black box approach	http://wpscan.org
+wpscan	1459.7b0cb29	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
 ws-attacker	1.3	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
 wsfuzzer	1.9.5	A Python tool written to automate SOAP pentesting of web services	https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_Project
 wyd	0.2	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
