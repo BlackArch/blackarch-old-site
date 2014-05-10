@@ -193,6 +193,7 @@ elettra	1.0	Encryption utility by Julia Identity	http://www.winstonsmith.info/ju
 elettra-gui	1.0	Gui for the elettra crypto application.	http://www.winstonsmith.info/julia/elettra/
 elite-proxy-finder	34.a3cd576	Finds public elite anonymity proxies and concurrently tests them.	https://github.com/DanMcInerney/elite-proxy-finder
 enabler	1	attempts to find the enable password on a cisco system via brute force.	http://packetstormsecurity.org/cisco/enabler.c
+encodeshellcode	0.1b	This is an encoding tool for 32-bit x86 shellcode that assists a researcher when dealing with character filter or byte restrictions in a buffer overflow vulnerability or some kind of IDS/IPS/AV blocking your code.	http://packetstormsecurity.com/files/119904/Encode-Shellcode.1b.html
 ent	1.0	Pseudorandom number sequence test.	http://www.fourmilab.ch/random
 enum-shares	7.97cba5a	Tool that enumerates shared folders across the network and under a custom user account.	https://github.com/dejanlevaja/enum_shares
 enum4linux	0.8.9	A tool for enumerating information from Windows and Samba systems.	http://labs.portcullis.co.uk/application/enum4linux/
@@ -286,7 +287,7 @@ hexinject	1.5	A very versatile packet injector and sniffer that provides a comma
 hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
 hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
 honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
-honssh	21.b9880b4	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
+honssh	35.61a65bf	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
 hookanalyser	3.0	A hook tool which can be potentially helpful in reversing applications and analyzing malware. It can hook to an API in a process and search for a pattern in memory or dump the buffer.	http://hookanalyser.blogspot.de/
 hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
@@ -305,7 +306,7 @@ hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go wi
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
 hydra	7.6	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
 hyenae	0.36_1	flexible platform independent packet generator	http://sourceforge.net/projects/hyenae/
-hyperion	1.0	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
+hyperion	1.1	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
 iaxflood	0.1	IAX flooder.	http://www.hackingexposedvoip.com/
 icmpquery	1.0	Send and receive ICMP queries for address mask and current time.	http://www.angio.net/security/
 icmptx	0.01	IP over ICMP	http://thomer.com/icmptx/
@@ -585,6 +586,7 @@ schnappi-dhcp	0.1	schnappi can fuck network with no DHCP	http://www.emanuelegent
 scout2	98.378c181	Security auditing tool for AWS environments.	http://isecpartners.github.io/Scout2/
 scrounge-ntfs	0.9	Data recovery program for NTFS file systems	http://memberwebs.com/stef/software/scrounge/
 sctpscan	1.0	A network scanner for discovery and security	http://www.p1sec.com/
+seat	0.3	Next generation information digging application geared toward the needs of security professionals. It uses information stored in search engine databases, cache repositories, and other public resources to scan web sites for potential vulnerabilities.	http://thesprawl.org/projects/search-engine-assessment-tool/
 secscan	1.5	Web Apps Scanner and Much more utilities.	http://code.google.com/p/secscan-py/
 secure-delete	3.1	Secure file, disk, swap, memory erasure utilities	http://www.thc.org/
 sees	5.aeba7ee	Increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same company's domain.	https://github.com/galkan/sees/
@@ -655,6 +657,7 @@ ssl-phuck3r	2.0	All in one script for Man-In-The-Middle attacks.	https://github.
 sslcat	1.0	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
 sslcaudit	1.1	Utility to perform security audits of SSL/TLS clients	https://github.com/grwl/sslcaudit
 ssldump	0.9b3	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
+sslmap	0.2.0	A lightweight TLS/SSL cipher suite scanner.	http://thesprawl.org/projects/latest/
 sslnuke	0.r5.c5faeaa	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	https://github.com/jtripper/sslnuke
 sslscan	1.8.2	A fast tools to scan SSL services, such as HTTPS.	http://sourceforge.net/projects/sslscan/
 sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
@@ -673,6 +676,7 @@ superscan	4	Powerful TCP port scanner, pinger, resolver.	http://www.foundstone.c
 suricata	1.4.7	An Open Source Next Generation Intrusion Detection and Prevention Engine	http://openinfosecfoundation.org/index.php/download-suricata
 svn-extractor	28.3af00fb	A simple script to extract all web resources by means of .SVN folder exposed over network.	https://github.com/anantshri/svn-extractor
 swfintruder	0.9.1	First tool for testing security in Flash movies. A runtime analyzer for SWF external movies. It helps to find flaws in Flash.	http://code.google.com/p/swfintruder/
+synflood	0.1	A very simply script to illustrate DoS SYN Flooding attack.	http://thesprawl.org/projects/syn-flooder/
 synscan	5.02	fast asynchronous half-open TCP portscanner	http://www.digit-labs.org/files/tools/synscan/
 sysdig	681.11bbb7d	Open source system-level exploration and troubleshooting tool.	http://www.sysdig.org/
 sysinternals-suite	20131227	Sysinternals tools suite	http://sysinternals.com
