@@ -2,6 +2,7 @@
 3proxy	0.7	Tiny free proxy server.	http://3proxy.ru/
 3proxy-win32	0.7	3proxy tiny free proxy server	http://3proxy.ru/
 42zip	42	Recursive Zip archive bomb.	http://blog.fefe.de/?ts=b6cea88d
+OCS	0.2	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
 acccheck	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	http://labs.portcullis.co.uk/tools/acccheck/
 ace	1.10	Automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface	http://ucsniff.sourceforge.net/ace.html
 admid-pack	0.1	ADM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful.	http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html
@@ -262,6 +263,7 @@ grepforrfi	0.1	Simple script for parsing web logs for RFIs and Webshells v1.2	ht
 grokevt	0.5.0	A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files.	http://code.google.com/p/grokevt/
 gsa	4.0.2	OpenVAS web frontend	http://www.openvas.org/
 gsd	1.2.2	OpenVAS GUI frontend	http://www.openvas.org/
+gtalk-decode	0.1	Google Talk decoder tool that demonstrates recovering passwords from accounts.	http://packetstormsecurity.com/files/119154/Google-Talk-Decoder.html
 gtp-scan	0.7	A small python script that scans for GTP (GPRS tunneling protocol) speaking hosts.	http://www.c0decafe.de/
 guymager	0.7.1	A forensic imager for media acquisition	http://guymager.sourceforge.net/
 gwtenum	7.f27a5aa	Enumeration of GWT-RCP method calls.	http://www.gdssecurity.com/l/t/d.php?k=GwtEnum
@@ -459,6 +461,7 @@ ntds-decode	0.1	This application dumps LM and NTLM hashes from active accounts s
 o-saft	245.74e6bfa	A tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.	https://www.owasp.org/index.php/O-Saft
 oat	1.3.1	A toolkit that could be used to audit security within Oracle database servers.	http://www.cqure.net/wp/test/
 obexstress	0.1	Script for testing remote OBEX service for some potential vulnerabilities	http://bluetooth-pentest.narod.ru/
+ocs	0.2	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
 ohrwurm	0.1	A small and simple RTP fuzzer	http://mazzoo.de/
 ollydbg	201g	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
 onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	http://labs.portcullis.co.uk/application/onesixtyone/
@@ -509,6 +512,7 @@ php-rfi-payload-decoder	29.1a51043	Decode and analyze RFI payloads developed in 
 phrasendrescher	1.2.2	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
 pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
+plcscan	0.1	This is a tool written in Python that will scan for PLC devices over s7comm or modbus protocols.	http://packetstormsecurity.com/files/119726/PLC-Device-Scanner.html
 plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
 pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
 pompem	59.f72a0f2	A python exploit tool finder.	https://github.com/rfunix/Pompem
@@ -805,4 +809,5 @@ zarp	0.1.5	A network attack tool centered around the exploitation of local netwo
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
 zmap	1.2.0	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
 zulu	0.1	A light weight 802.11 wireless frame generation tool to enable fast and easy debugging and probing of 802.11 networks.	http://sourceforge.net/projects/zulu-wireless/
+zykeys	0.1	Demonstrates how default wireless settings are derived on some models of ZyXEL routers.	http://packetstormsecurity.com/files/119156/Zykeys-Wireless-Tool.html
 zzuf	0.12	Transparent application input fuzzer.	http://sam.zoy.org/zzuf/
