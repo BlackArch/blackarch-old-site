@@ -2,7 +2,6 @@
 3proxy	0.7	Tiny free proxy server.	http://3proxy.ru/
 3proxy-win32	0.7	3proxy tiny free proxy server	http://3proxy.ru/
 42zip	42	Recursive Zip archive bomb.	http://blog.fefe.de/?ts=b6cea88d
-OCS	0.2	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
 acccheck	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	http://labs.portcullis.co.uk/tools/acccheck/
 ace	1.10	Automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface	http://ucsniff.sourceforge.net/ace.html
 admid-pack	0.1	ADM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful.	http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html
@@ -23,6 +22,7 @@ allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	ht
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fastboot)	http://developer.android.com/sdk/index.html
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
 android-udev-rules	7194.49247b5	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
+anontwi	1.0	A free software python client designed to navigate anonymously on social networks. It supports Identi.ca and Twitter.com.	http://anontwi.sourceforge.net/
 aphopper	0.3	AP Hopper is a program that automatically hops between access points of different wireless networks.	http://aphopper.sourceforge.net/
 apnbf	0.1	A small python script designed for enumerating valid APNs (Access Point Name) on a GTP-C speaking device.	http://www.c0decafe.de/
 arachni	0.4.7	A feature-full, modular, high-performance Ruby framework aimed towards helping penetration testers and administrators evaluate the security of web applications.	https://www.arachni-scanner.com
@@ -101,6 +101,7 @@ checkpwd	1.23	Oracle Password Checker (Cracker)	http://www.red-database-security
 checksec	1.5	The checksec.sh script is designed to test what standard Linux OS and PaX security features are being used.	http://www.trapkit.de/tools/checksec.html
 chkrootkit	0.49	Checks for rootkits on a system	http://www.chkrootkit.org/
 chownat	0.08b	Allows two peers behind two separate NATs with no port forwarding and no DMZ setup on their routers to directly communicate with each other	http://samy.pl/chownat/
+chrome-decode	0.1	Chrome web browser decoder tool that demonstrates recovering passwords.	http://packetstormsecurity.com/files/119153/Chrome-Web-Browser-Decoder.html
 chromefreak	9.d8db2a8	A Cross-Platform Forensic Framework for Google Chrome	http://osandamalith.github.io/ChromeFreak/
 ciphertest	4.5780d36	A better SSL cipher checker using gnutls	https://github.com/OpenSecurityResearch/ciphertest
 cirt-fuzzer	1.0	A simple TCP/UDP protocol fuzzer.	http://www.cirt.dk/
@@ -422,6 +423,7 @@ mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running Router
 mobiusft	0.5.19	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
 morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
 morxcrack	1.2	A cracking tool written in Perl to perform a dictionary-based attack on various hashing algorithm and CMS salted-passwords.	http://www.morxploit.com/morxcrack/
+mptcp	1.9.0	A tool for manipulation of raw packets that allows a large number of options.	http://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
 ms-sys	2.3.0	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	http://ms-sys.sourceforge.net/
 mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers.	http://www.cqure.net/wp/mssqlscan/
 msvpwn	0.1.r22.ga2e845a	Bypass Windows' authentication via binary patching.	https://bitbucket.org/mrabault/msvpwn
@@ -612,6 +614,7 @@ sipscan	0.0	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
 sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
 skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
 skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control.	https://github.com/samyk/skyjack
+skype-dump	0.1	This is a tool that demonstrates dumping MD5 password hashes from the configuration file in Skype.	http://packetstormsecurity.com/files/119155/Skype-Hash-Dumper.0.html
 skypefreak	15.ea94db5	A Cross Platform Forensic Framework for Skype.	http://osandamalith.github.io/SkypeFreak/
 slowhttptest	1.5	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
 slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
@@ -687,6 +690,7 @@ sysinternals-suite	20131227	Sysinternals tools suite	http://sysinternals.com
 t50	5.4.1	Experimental Multi-protocol Packet Injector Tool	http://t50.sourceforge.net/
 taof	0.3.2	Taof is a GUI cross-platform Python generic network protocol fuzzer.	http://taof.sf.net
 tbear	1.5	Transient Bluetooth Environment Auditor includes an ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool, and a Bluetooth hidden device locator.	http://freshmeat.net/projects/t-bear
+tcgetkey	0.1	A set of tools that deal with acquiring physical memory dumps via FireWire and then scan the memory dump to locate TrueCrypt keys and finally decrypt the encrypted TrueCrypt container using the keys.	http://packetstormsecurity.com/files/119146/tcgetkey.1.html
 tcpcontrol-fuzzer	0.1	2^6 TCP control bit fuzzer (no ECN or CWR).	https://www.ee.oulu.fi/research/ouspg/tcpcontrol-fuzzer
 tcpextract	1.1	Extracts files from captured TCP sessions. Support live streams and pcap files.	https://pypi.python.org/pypi/tcpextract/1.1
 tcpick	0.2.1	TCP stream sniffer and connection tracker	http://tcpick.sourceforge.net/
