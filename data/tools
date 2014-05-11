@@ -136,6 +136,7 @@ ctunnel	0.6	Tunnel and/or proxy TCP or UDP connections via a cryptographic tunne
 cuckoo	1.1	A malware analysis system.	http://cuckoosandbox.org/
 cupp	3.0	Common User Password Profiler	http://www.remote-exploit.org/?page_id=418
 cutycapt	10	A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.	http://cutycapt.sourceforge.net/
+cvechecker	3.5	The goal of cvechecker is to report about possible vulnerabilities on your system, by scanning the installed software and matching the results with the CVE database.	http://cvechecker.sourceforge.net/
 cymothoa	1	A stealth backdooring tool, that inject backdoor's shellcode into an existing process.	http://cymothoa.sourceforge.net/
 darkd0rk3r	1.0	Python script that performs dork searching and searches for local file inclusion and SQL injection errors.	http://packetstormsecurity.com/files/117403/Dark-D0rk3r.0.html
 darkjumper	5.8	This tool will try to find every website that host at the same server at your target	http://sourceforge.net/projects/darkjumper/
@@ -156,6 +157,7 @@ dhcpig	69.cc4109a	Enumerates hosts, subdomains, and emails from a given domain u
 dinouml	0.9.5	A network simulation tool, based on UML (User Mode Linux) that can simulate big Linux networks on a single PC	http://kernel.embedromix.ro/us/
 dirb	2.04	A web content scanner, brute forceing for hidden files	http://dirb.sourceforge.net/
 dirbuster	1.0_RC1	An application designed to brute force directories and files names on web/application servers	http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+dirscanner	0.1	This is a python script that scans webservers looking for administrative directories, php shells, and more.	http://packetstormsecurity.com/files/117773/Directory-Scanner-Tool.html
 dislocker	0.3	A tool to exploit the hash length extension attack in various hashing algorithms. With FUSE capabilities built in.	http://www.hsc.fr/ressources/outils/dislocker/
 dissector	1	This code dissects the internal data structures in ELF files. It supports x86 and x86_64 archs and runs under Linux.	http://packetstormsecurity.com/files/125972/Coloured-ELF-File-Dissector.html
 dissy	10	A graphical frontend to the objdump disassembler for compiler-generated code.	http://dissy.googlecode.com/
@@ -190,6 +192,7 @@ dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bi
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
 eapmd5pass	1.4	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
 easyfuzzer	3.6	A flexible fuzzer, not only for web, has a CSV output for efficient output analysis (platform independant).	http://www.mh-sec.de/downloads.html.en
+eazy	0.1	This is a small python tool that scans websites to look for PHP shells, backups, admin panels, and more.	http://packetstormsecurity.com/files/117572/EAZY-Web-Scanner.html
 edb	0.9.20	A QT4-based binary mode debugger with the goal of having usability on par with OllyDbg.	http://www.codef00.com/projects.php#Debugger
 eindeutig	20050628_1	Examine the contents of Outlook Express DBX email repository files (forensic purposes)	http://www.jonesdykstra.com/
 elettra	1.0	Encryption utility by Julia Identity	http://www.winstonsmith.info/julia/elettra/
@@ -360,6 +363,7 @@ kismet-earth	0.1	Various scripts to convert kismet logs to kml file to be used i
 kismet2earth	1.0	A set of utilities that convert from Kismet logs to Google Earth .kml format	http://code.google.com/p/kismet2earth/
 klogger	1.0	A keystroke logger for the NT-series of Windows.	http://ntsecurity.nu/toolbox/klogger/
 kolkata	3.0	A web application fingerprinting engine written in Perl that combines cryptography with IDS evasion.	http://www.blackhatlibrary.net/Kolkata
+laf	8.c7d6a3e	Login Area Finder: scans host/s for login panels.	https://github.com/takeshixx/laf
 lanmap2	124.4f8afed	Passive network mapping tool	http://github.com/rflynn/lanmap2
 lans	1.0	A Multithreaded asynchronous packet parsing/injecting arp spoofer.	https://github.com/DanMcInerney/LANs.py
 laudanum	1.0	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	http://laudanum.inguardians.com/#
