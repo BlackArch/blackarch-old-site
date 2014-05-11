@@ -119,6 +119,7 @@ complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp
 conscan	1.0.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
 cookie-cadger	1.07	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
+cpfinder	0.1	This is a simple script that looks for administrative web interfaces.	http://packetstormsecurity.com/files/118851/Control-Panel-Finder-Script.html
 cpptest	1.1.2	A portable and powerful, yet simple, unit testing framework for handling automated tests in C++.	http://cpptest.sourceforge.net/
 crackhor	2.ae7d83f	A Password cracking utility.	https://github.com/CoalfireLabs/crackHOR
 crackle	27.2a7bf34	Crack and decrypt BLE encryption	https://github.com/mikeryan/crackle/
@@ -292,6 +293,7 @@ hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.or
 honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
 honssh	35.61a65bf	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
 hookanalyser	3.0	A hook tool which can be potentially helpful in reversing applications and analyzing malware. It can hook to an API in a process and search for a pattern in memory or dump the buffer.	http://hookanalyser.blogspot.de/
+hostbox-ssh	0.1.1	A ssh password/account scanner.	http://stridsmanit.wordpress.com/2012/12/02/brute-forcing-passwords-with-hostbox-ssh-1-1/
 hotpatch	0.2	Hot patches executables on Linux using .so file injection	http://www.selectiveintellect.com/hotpatch.html
 hotspotter	0.4	Hotspotter passively monitors the network for probe request frames to identify the preferred networks of Windows XP clients, and will compare it to a supplied list of common hotspot network names.	http://www.remote-exploit.org/?page_id=418
 hpfeeds	131.dc4cf92	Honeynet Project generic authenticated datafeed protocol.	https://github.com/rep/hpfeeds
