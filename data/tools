@@ -676,7 +676,7 @@ sslcaudit	1.1	Utility to perform security audits of SSL/TLS clients	https://gith
 ssldump	0.9b3	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
 sslmap	0.2.0	A lightweight TLS/SSL cipher suite scanner.	http://thesprawl.org/projects/latest/
 sslnuke	0.r5.c5faeaa	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	https://github.com/jtripper/sslnuke
-sslscan	1.8.2	A fast tools to scan SSL services, such as HTTPS.	http://sourceforge.net/projects/sslscan/
+sslscan	237.80a2c96	Tests SSL/TLS enabled services to discover supported cipher suites.	https://github.com/DinoTools/sslscan
 sslsniff	0.8	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
 sslsplit	0.4.8	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections	http://www.roe.ch/SSLsplit
 sslstrip	0.9	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links	http://www.thoughtcrime.org/software/sslstrip
@@ -752,6 +752,10 @@ upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	ht
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
 username-anarchy	0.2	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
 usernamer	7.813139d	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
+uw-loveimap	0.1	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
+uw-offish	0.1	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
+uw-udpscan	0.1	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
+uw-zone	0.1	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
 v3n0m	73.46c4906	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
 vbrute	1.11dda8b	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
 vega	1.0	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
