@@ -192,6 +192,17 @@ https://kluisip.nl/public/blackarch/</a>
 <a href="http://blackarch.pr0s3c.nl/blackarch/" target="_blank">
 http://blackarch.pr0s3c.nl/blackarch/</a>
 <br /><br />
+<img src="images/flags/ru.png" /> <b>Russia</b>
+<br />
+<a href="http://mirror.yandex.ru/mirrors/blackarch/" target="_blank">
+http://mirror.yandex.ru/mirrors/blackarch/</a>
+<br />
+<a href="ftp://mirror.yandex.ru/mirrors/blackarch/iso/" target="_blank">
+ftp://mirror.yandex.ru/mirrors/blackarch/iso/
+<br />
+<a href="rsync://mirror.yandex.ru/mirrors/blackarch/iso/" target="_blank">
+rsync://mirror.yandex.ru/mirrors/blackarch/iso/
+<br /><br />
 <img src="images/flags/za.png" /> <b>South Africa</b>
 <br />
 <a href="http://blackarch.co.za/blackarch/" target="_blank">

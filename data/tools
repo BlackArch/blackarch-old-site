@@ -165,6 +165,7 @@ dizzy	0.8.2	A Python based fuzzing framework with many features.	http://www.c0de
 dmitry	1.3a	Deepmagic Information Gathering Tool. Gathers information about hosts. It is able to gather possible subdomains, email addresses, and uptime information and run tcp port scans, whois lookups, and more.	http://www.mor-pah.net/
 dnmap	0.6	The distributed nmap framework	http://sourceforge.net/projects/dnmap/
 dns-spoof	12.3918a10	Yet another DNS spoof utility.	https://github.com/maurotfilho/dns-spoof
+dns2geoip	0.1	A simple python script that brute forces DNS and subsequently geolocates the found subdomains.	http://packetstormsecurity.com/files/118036/DNS-GeoIP.html
 dns2tcp	0.5.2	A tool for relaying TCP connections over DNS	http://www.hsc.fr/ressources/outils/dns2tcp/index.html.en
 dnsa	0.5	DNSA is a dns security swiss army knife	http://packetfactory.openwall.net/projects/dnsa/index.html
 dnsbf	0.2	search for available domain names in an IP range	http://code.google.com/p/dnsbf
@@ -312,7 +313,7 @@ httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://n
 httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
 hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
-hydra	7.6	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
+hydra	8.0	A very fast network logon cracker which support many different services.	http://www.thc.org/thc-hydra/
 hyenae	0.36_1	flexible platform independent packet generator	http://sourceforge.net/projects/hyenae/
 hyperion	1.1	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
 iaxflood	0.1	IAX flooder.	http://www.hackingexposedvoip.com/
@@ -751,7 +752,7 @@ upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	ht
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
 username-anarchy	0.2	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
 usernamer	7.813139d	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
-v3n0m	0.1	A mutation of smartd0rk3r and can search for 10,446 Google dorks. It then performs several checks for vulnerabilities in the sites.	http://packetstormsecurity.com/files/118477/v3n0m-Scanner.1.html
+v3n0m	73.46c4906	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
 vbrute	1.11dda8b	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
 vega	1.0	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
 veil	191.d464fc1	A tool designed to generate metasploit payloads that bypass common anti-virus solutions.	https://github.com/veil-evasion/Veil
