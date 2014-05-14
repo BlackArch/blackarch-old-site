@@ -20,7 +20,8 @@ trap "rm -rf $tmp" EXIT
 cd "$tmp"
 
 # Retrieve the keyring.
-wget -q http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}
+curl -s -O 'http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}'
+#wget -q http://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz{,.sig}
 
 # Verify the keyring signature.
 # This is pointless if you do not verify the key fingerprint.
