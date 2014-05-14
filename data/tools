@@ -5,6 +5,7 @@
 acccheck	0.2.1	A password dictionary attack tool that targets windows authentication via the SMB protocol.	http://labs.portcullis.co.uk/tools/acccheck/
 ace	1.10	Automated Corporate Enumerator. A simple yet powerful VoIP Corporate Directory enumeration tool that mimics the behavior of an IP Phone in order to download the name and extension entries that a given phone can display on its screen interface	http://ucsniff.sourceforge.net/ace.html
 admid-pack	0.1	ADM DNS spoofing tools - Uses a variety of active and passive methods to spoof DNS packets. Very powerful.	http://packetstormsecurity.com/files/10080/ADMid-pkg.tgz.html
+adminpagefinder	0.1	This python script looks for a large amount of possible administrative interfaces on a given site.	http://packetstormsecurity.com/files/112855/Admin-Page-Finder-Script.html
 admsnmp	0.1	ADM SNMP audit scanner.
 aesfix	1.0.1	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
 aeskeyfind	1.0	A tool to find AES key in RAM	http://citp.princeton.edu/memory/code/
@@ -330,6 +331,7 @@ ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/i
 inception	335.1878c98	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
 inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
+intercepter-ng	0.9.8	A next generation sniffer including a lot of features: capturing passwords/hashes, sniffing chat messages, performing man-in-the-middle attacks, etc.	http://intercepter.nerf.ru/#down
 interrogate	0.0.4	A proof-of-concept tool for identification of cryptographic keys in binary material (regardless of target operating system), first and foremost for memory dump analysis and forensic usage.	https://github.com/carmaa/interrogate
 intersect	2.5	Post-exploitation framework	https://github.com/ohdae/Intersect.5
 intrace	1.5	Traceroute-like application piggybacking on existing TCP connections	http://intrace.googlecode.com
@@ -453,7 +455,7 @@ netmask	2.3.12	Helps determine network masks	http://packages.qa.debian.org/n/net
 netreconn	1.76	A collection of network scan/recon tools that are relatively small compared to their larger cousins.	http://packetstormsecurity.com/files/86076/NetReconn-Scanning-Tool-Collection.76.html
 netscan	1.0	Tcp/Udp/Tor port scanner with: synpacket, connect TCP/UDP and socks5 (tor connection).	http://packetstormsecurity.com/files/125569/Netscan-Port-Scanner.0.html
 netsed	1.2	Small and handful utility design to alter the contents of packets forwarded thru network in real time.	http://silicone.homelinux.org/projects/netsed/
-netsniff-ng	0.5.7	A high performance Linux network sniffer for packet inspection.	http://netsniff-ng.org/
+netsniff-ng	0.5.8	A high performance Linux network sniffer for packet inspection.	http://netsniff-ng.org/
 nfcutils	0.3.2	Provides a simple 'lsnfc' command that list tags which are in your NFC device field	http://code.google.com/p/nfc-tools
 nfex	2.5	A tool for extracting files from the network in real-time or post-capture from an offline tcpdump pcap savefile. It is based off of the code-base from the apparently defunct project tcpxtract.	https://code.google.com/p/nfex/
 nfspy	1.0	A Python library for automating the falsification of NFS credentials when mounting an NFS share	https://github.com/bonsaiviking/NfSpy
@@ -724,6 +726,7 @@ theharvester	2.2a	Python tool for gathering e-mail accounts and subdomain names 
 themole	0.3	Automatic SQL injection exploitation tool.	http://sourceforge.net/projects/themole/
 tiger	3.2.3	A security scanner, that checks computer for known problems. Can also use tripwire, aide and chkrootkit.	http://www.nongnu.org/tiger/
 tilt	77.9a07453	An easy and simple tool implemented in Python for ip reconnaissance, with reverse ip lookup.	https://github.com/AeonDave/tilt
+timegen	0.4	This program generates a *.wav file to "send" an own time signal to DCF77 compatible devices.	http://bastianborn.de/radio-clock-hack/
 tlssled	1.3	A Linux shell script whose purpose is to evaluate the security of a target SSL/TLS (HTTPS) web server implementation.	http://blog.taddong.com/2011/05/tlssled-v10.html
 tnscmd	1.3	a lame tool to prod the oracle tnslsnr process (1521/tcp)	http://www.jammed.com/~jwa/hacks/security/tnscmd/
 topera	19.3e230fd	An IPv6 security analysis toolkit, with the particularity that their attacks can't be detected by Snort.	https://github.com/toperaproject/topera
