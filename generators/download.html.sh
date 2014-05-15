@@ -220,6 +220,15 @@ http://mirror.zetup.net/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
+<a href="http://mirror.team-cymru.org/blackarch/" target="_blank">
+http://mirror.team-cymru.org/blackarch/
+<br />
+<a href="ftp://mirror.team-cymru.org/blackarch/" target="_blank">
+ftp://mirror.team-cymru.org/blackarch/
+<br />
+<a href="rsync://mirror.team-cymru.org/blackarch/" target="_blank">
+rsync://mirror.team-cymru.org/blackarch/
+<br />
 <a href="http://mirror.jmu.edu/blackarch/" target="_blank">
 http://mirror.jmu.edu/blackarch/</a>
 <br />
