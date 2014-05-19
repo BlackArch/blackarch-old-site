@@ -448,6 +448,7 @@ nbtool	1.51f2016	Some tools for NetBIOS and DNS investigation, attacks, and comm
 ncpfs	2.2.6	ncpfs allows you to mount volumes of NetWare servers under Linux.	http://www.novell.com/
 ndpi-xplico-svn	6937	Open and Extensible GPLv3 Deep Packet Inspection Library.	http://www.ntop.org/products/ndpi/
 netactview	0.6.2	A graphical network connections viewer for Linux similar in functionality with Netstat	http://netactview.sourceforge.net/index.html
+netbios-share-scanner	1.0	This tool could be used to check windows workstations and servers if they have accessible shared resources.	http://www.secpoint.com/netbios-share-scanner.html
 netcommander	1.3	An easy-to-use arp spoofing tool	https://github.com/evilsocket/netcommander
 netcon	0.1	A network connection establishment and management script.	http://www.paramecium.org/~leendert/
 netdiscover	0.3	An active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.	http://nixgeneration.com/~jaime/netdiscover/
