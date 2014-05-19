@@ -20,6 +20,7 @@ airgraph-ng	2371	Graphing tool for the aircrack suite	http://www.aircrack-ng.org
 airoscript	45.0a122ee	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
 airpwn	1.4	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
+androguard	1.9	Reverse engineering, Malware and goodware analysis of Android applications and more.	https://code.google.com/p/androguard/
 android-sdk-platform-tools	r19	Platform-Tools for Google Android SDK (adb and fastboot)	http://developer.android.com/sdk/index.html
 android-sdk	r22.3	Google Android SDK	http://developer.android.com/sdk/index.html
 android-udev-rules	7194.49247b5	Android udev rules.	https://github.com/bbqlinux/android-udev-rules
@@ -330,6 +331,7 @@ ikeprobe	0.1	Determine vulnerabilities in the PSK implementation of the VPN serv
 ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	http://ikecrack.sourceforge.net/
 ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/ilty/
 inception	335.1878c98	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
+indxparse	141.81c037d	A Tool suite for inspecting NTFS artifacts.	http://www.williballenthin.com/forensics/mft/indxparse/
 inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
 intercepter-ng	0.9.8	A next generation sniffer including a lot of features: capturing passwords/hashes, sniffing chat messages, performing man-in-the-middle attacks, etc.	http://intercepter.nerf.ru/#down
@@ -526,6 +528,7 @@ pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourcef
 phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
 php-mt-seed	3.2	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
 php-rfi-payload-decoder	29.1a51043	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
+phpstress	5.f987a7e	A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.	https://github.com/nightlionsecurity/phpstress
 phrasendrescher	1.2.2	A modular and multi processing pass phrase cracking tool	http://www.leidecker.info/projects/phrasendrescher/
 pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
@@ -722,7 +725,7 @@ termineter	0.1.0	Smart meter testing framework	https://code.google.com/p/termine
 tftp-bruteforce	0.1	TFTP-bruteforcer is a fast TFTP filename bruteforcer written in perl.	http://www.hackingexposedcisco.com/
 tftp-fuzz	1337	Master TFTP fuzzing script as part of the ftools series of fuzzers	http://nullsecurity.net/tools/fuzzer.html
 tftp-proxy	0.1	This tool accepts connection on tftp and reloads requested content from an upstream tftp server. Meanwhile modifications to the content can be done by pluggable modules. So this one's nice if your mitm with some embedded devices.	http://www.c0decafe.de/
-thc-ipv6	2.3	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
+thc-ipv6	2.5	A complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6, and includes an easy to use packet factory library.	http://thc.org/thc-ipv6/
 thc-keyfinder	1.0	Finds crypto keys, encrypted data and compressed data in files by analyzing the entropy of parts of the file.	https://www.thc.org/releases.php
 thc-pptp-bruter	0.1.4	A brute force program that works against pptp vpn endpoints (tcp port 1723).	http://www.thc.org
 thc-ssl-dos	1.4	A tool to verify the performance of SSL. To be used in your authorized and legitimate area ONLY. You need to accept this to make use of it, no use for bad intentions, you have been warned!	http://www.thc.org/thc-ssl-dos/
