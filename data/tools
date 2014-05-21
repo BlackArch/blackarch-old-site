@@ -473,7 +473,7 @@ nield	0.5.1	A tool to receive notifications from kernel through netlink socket, 
 nikto	2.1.5	A web server scanner which performs comprehensive tests against web servers for multiple items	http://www.cirt.net/nikto2
 nimbostratus	54.c7c206f	Tools for fingerprintinging and exploiting Amazon cloud infrastructures.	https://github.com/andresriancho/nimbostratus
 nipper	0.11.7	Network Infrastructure Parser	https://www.titania-security.com/
-nishang	0.3.0	Using PowerShell for Penetration Testing	https://code.google.com/p/nishang/
+nishang	0.3.0	Using PowerShell for Penetration Testing.	https://code.google.com/p/nishang/
 nkiller2	2.0	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
 nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
 nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
@@ -635,7 +635,7 @@ siparmyknife	11232011	A small command line tool for developers and administrator
 sipcrack	0.2	A SIP protocol login cracker.	http://www.remote-exploit.org/codes_sipcrack.html
 sipp	3.3	A free Open Source test tool / traffic generator for the SIP protocol.	http://sipp.sourceforge.net/
 sipsak	0.9.6	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://sipsak.org
-sipscan	0.0	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
+sipscan	0.1	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
 sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
 skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
 skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control.	https://github.com/samyk/skyjack
@@ -679,7 +679,7 @@ sqlbrute	1.0	Brute forces data out of databases using blind SQL injection.	http:
 sqlmap	1.0dev	An automatic SQL injection tool developed in Python	http://sqlmap.sourceforge.net
 sqlninja	0.2.6_r1	A tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end	http://sqlninja.sourceforge.net/
 sqlpat	1.0.1	This tool should be used to audit the strength of Microsoft SQL Server passwords offline.	http://www.cqure.net/wp/sqlpat/
-sqlping	3	SQL Server scanning tool that also checks for weak passwords using wordlists.	http://www.sqlsecurity.com/downloads
+sqlping	4	SQL Server scanning tool that also checks for weak passwords using wordlists.	http://www.sqlsecurity.com/downloads
 sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	http://sqlsus.sourceforge.net/
 ssh-privkey-crack	0.3	A SSH private key cracker	https://code.google.com/p/lusas/
 sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id=34
