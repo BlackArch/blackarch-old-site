@@ -107,6 +107,8 @@ chkrootkit	0.49	Checks for rootkits on a system	http://www.chkrootkit.org/
 chownat	0.08b	Allows two peers behind two separate NATs with no port forwarding and no DMZ setup on their routers to directly communicate with each other	http://samy.pl/chownat/
 chrome-decode	0.1	Chrome web browser decoder tool that demonstrates recovering passwords.	http://packetstormsecurity.com/files/119153/Chrome-Web-Browser-Decoder.html
 chromefreak	9.d8db2a8	A Cross-Platform Forensic Framework for Google Chrome	http://osandamalith.github.io/ChromeFreak/
+cidr2range	0.9	Script for listing the IP addresses contained in a CIDR netblock	http://www.cpan.org/authors/id/R/RA/RAYNERLUC
+cintruder	0.2.0	An automatic pentesting tool to bypass captchas.	http://cintruder.sourceforge.net/
 ciphertest	4.5780d36	A better SSL cipher checker using gnutls	https://github.com/OpenSecurityResearch/ciphertest
 cirt-fuzzer	1.0	A simple TCP/UDP protocol fuzzer.	http://www.cirt.dk/
 cisco-auditing-tool	1	Perl script which scans cisco routers for common vulnerabilities. Checks for default passwords, easily guessable community names, and the IOS history bug. Includes support for plugins and scanning multiple hosts.	http://www.scrypt.net
@@ -120,6 +122,7 @@ climber	23.f614304	Check UNIX/Linux systems for privilege escalation.	https://gi
 clusterd	95.81ac3f1	Automates the fingerprinting, reconnaissance, and exploitation phases of an application server attack.	https://github.com/hatRiot/clusterd
 cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://www.cgsecurity.org/wiki/CmosPwd
 cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	http://code.google.com/p/cms-explorer
+codetective	32.bb6be05	A tool to determine the crypto/encoding algorithm used according to traces of its representation.	https://www.digitalloft.org/init/plugin_wiki/page/codetective
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
 conscan	1.0.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
 cookie-cadger	1.07	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
@@ -143,6 +146,7 @@ cupp	3.0	Common User Password Profiler	http://www.remote-exploit.org/?page_id=41
 cutycapt	10	A Qt and WebKit based command-line utility that captures WebKit's rendering of a web page.	http://cutycapt.sourceforge.net/
 cvechecker	3.5	The goal of cvechecker is to report about possible vulnerabilities on your system, by scanning the installed software and matching the results with the CVE database.	http://cvechecker.sourceforge.net/
 cymothoa	1	A stealth backdooring tool, that inject backdoor's shellcode into an existing process.	http://cymothoa.sourceforge.net/
+darkbing	0.1	A tool written in python that leverages bing for mining data on systems that may be susceptible to SQL injection.	http://packetstormsecurity.com/files/111510/darkBing-SQL-Scanner.1.html
 darkd0rk3r	1.0	Python script that performs dork searching and searches for local file inclusion and SQL injection errors.	http://packetstormsecurity.com/files/117403/Dark-D0rk3r.0.html
 darkjumper	5.8	This tool will try to find every website that host at the same server at your target	http://sourceforge.net/projects/darkjumper/
 darkmysqli	1.6	Multi-Purpose MySQL Injection Tool	https://github.com/BlackArch/darkmysqli
@@ -245,6 +249,7 @@ fport	2.0	Identify unknown open ports and their associated applications.	http://
 fraud-bridge	10.775c563	ICMP and DNS tunneling via IPv4 and IPv6.	https://github.com/stealth/fraud-bridge
 frisbeelite	1.2	A GUI-based USB device fuzzer.	https://github.com/nccgroup/FrisbeeLite
 fs-nyarl	1.0	A network takeover & forensic analysis tool - useful to advanced PenTest tasks & for fun and profit.	http://www.fulgursecurity.com/en/content/fs-nyarl
+fstealer	0.1	Automates file system mirroring through remote file disclosur vulnerabilities on Linux machines.	http://packetstormsecurity.com/files/106450/FStealer-Filesystem-Mirroring-Tool.html
 ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
 ftp-fuzz	1337	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
 ftp-scanner	0.2.5	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
@@ -320,6 +325,7 @@ httpbog	1.0.0.0	A slow HTTP denial-of-service tool that works similarly to other
 httping	2.3.4	A 'ping'-like tool for http-requests.	http://www.vanheusden.com/httping/
 httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprint.html
 httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
+httpry	0.1.7	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
 httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
 hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
@@ -386,6 +392,7 @@ leo	4.11	Literate programmer's editor, outliner, and project manager	http://webp
 leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
+lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
 libewf	20140227	A library for support of the Expert Witness Compression Format (EWF).	https://code.google.com/p/libewf/
 linenum	18.b4c2541	Scripted Local Linux Enumeration & Privilege Escalation Checks	https://github.com/rebootuser/LinEnum
@@ -448,6 +455,7 @@ mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers
 msvpwn	0.1.r22.ga2e845a	Bypass Windows' authentication via binary patching.	https://bitbucket.org/mrabault/msvpwn
 multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	http://chaptersinwebsecurity.blogspot.de/2008/11/multiinjector-v03-released.html
 multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
+mutator	51.164132d	This project aims to be a wordlist mutator with hormones, which means that some mutations will be applied to the result of the ones that have been already done, resulting in something like: corporation -> C0rp0r4t10n_2012	https://bitbucket.org/alone/mutator/
 nacker	21.92704f8	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
 nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
 nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
@@ -540,6 +548,7 @@ pipal	1.1	A password analyser	http://www.digininja.org/projects/pipal.php
 pirana	0.3.1	Exploitation framework that tests the security of a email content filter.	http://www.guay-leroux.com/projects.html
 plcscan	0.1	This is a tool written in Python that will scan for PLC devices over s7comm or modbus protocols.	http://packetstormsecurity.com/files/119726/PLC-Device-Scanner.html
 plecost	2	Wordpress finger printer tool search and retrieve information about the plugins versions installed in Wordpress systems.	http://code.google.com/p/plecost/
+plown	13.ccf998c	A security scanner for Plone CMS.	https://github.com/unweb/plown
 pnscan	1.11	A parallel network scanner that can be used to survey TCP network services.	http://www.lysator.liu.se/~pen/pnscan/
 pompem	59.f72a0f2	A python exploit tool finder.	https://github.com/rfunix/Pompem
 portspoof	95.c07b53d	This program's primary goal is to enhance OS security through a set of new techniques.	http://portspoof.org/
@@ -564,6 +573,7 @@ python-utidylib	0.2	Python bindings for Tidy HTML parser/cleaner.	http://utidyli
 python2-yara	1.7.2	A malware identification and classification tool.	https://github.com/plusvic/yara
 radamsa	0.3	General purpose data fuzzer.	https://code.google.com/p/ouspg/wiki/Radamsa
 radare2	0.9.7	Open-source tools to disasm, debug, analyze and manipulate binary files.	http://radare.org/
+radiography	2	A forensic tool which grabs as much information as possible from a Windows system.	http://www.security-projects.com/?RadioGraPhy
 rainbowcrack	1.2	Password cracker based on the faster time-memory trade-off. With MySQL and Cisco PIX Algorithm patches	http://project-rainbowcrack.com/
 rarcrack	0.2	This program uses bruteforce algorithm to find correct password (rar, 7z, zip).	http://rarcrack.sourceforge.net/
 ratproxy	1.58	A passive web application security assessment tool	http://code.google.com/p/ratproxy/
@@ -776,6 +786,7 @@ uw-offish	0.1	Clear-text protocol simulator.	http://uberwall.org/bin/download/42
 uw-udpscan	0.1	Multi threaded udp scanner.	http://uberwall.org/bin/download/44/UWudpscan.tar.gz
 uw-zone	0.1	Multi threaded, randomized IP zoner.	http://uberwall.org/bin/download/43/UWzone.tgz
 v3n0m	73.46c4906	Popular linux version of Balthazar/NovaCygni's 'v3n0m' scanner. Searches 18k+ dorks over 13 search engines.	https://github.com/v3n0m-Scanner/V3n0M-Scanner
+vanguard	0.1	A comprehensive web penetration testing tool written in Perl thatidentifies vulnerabilities in web applications.	http://packetstormsecurity.com/files/110603/Vanguard-Pentesting-Scanner.html
 vbrute	1.11dda8b	Virtual hosts brute forcer.	https://github.com/nccgroup/vbrute
 vega	1.0	An open source platform to test the security of web applications	https://github.com/subgraph/Vega/wiki
 veil	191.d464fc1	A tool designed to generate metasploit payloads that bypass common anti-virus solutions.	https://github.com/veil-evasion/Veil
