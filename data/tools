@@ -873,7 +873,7 @@ xssless	34.d474fc6	An automated XSS payload generator written in python.	https:/
 xsss	0.40b	xsss is a brute force cross site scripting scanner	http://www.sven.de/xsss/
 yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
-zaproxy	2.3.0	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
+zaproxy	2.3.1	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
 zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
 zmap	1.2.0	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
