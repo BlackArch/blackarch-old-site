@@ -43,7 +43,6 @@ artillery	1.0.2	A combination of a honeypot, file-system monitoring, system hard
 asleap	2.2	Actively recover LEAP/PPTP passwords.	http://www.willhackforsushi.com/Asleap.html
 asp-audit	2BETA	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
 auto-xor-decryptor	3.6a1f8f7	Automatic XOR decryptor tool.	http://www.blog.mrg-effitas.com/publishing-of-mrg-effitas-automatic-xor-decryptor-tool/
-automake.11	1.11.6	A GNU tool for automatically creating Makefiles	http://www.gnu.org/software/automake
 autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backcookie	32.def5995	Small backdoor using cookie.	https://github.com/mrjopino/backcookie
 backdoor-factory	56.fa56b0a	Patch win32/64 binaries with shellcode.	https://github.com/secretsquirrel/the-backdoor-factory
