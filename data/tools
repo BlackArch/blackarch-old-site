@@ -140,7 +140,7 @@ crackle	37.d9f9714	Crack and decrypt BLE encryption	https://github.com/mikeryan/
 create-ap	47.104c556	This script creates a NATed or Bridged WiFi Access Point.	https://github.com/oblique/create_ap
 creddump	0.3	A python tool to extract various credentials and secrets from Windows registry hives.	https://code.google.com/p/creddump/
 creds	7416.a0072ad	Harvest FTP/POP/IMAP/HTTP/IRC credentials along with interesting data from each of the protocols.	https://github.com/DanMcInerney/creds.py
-creepy	20121023	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	http://github.com/ilektrojohn/creepy
+creepy	137.9f60449	A geolocation information gatherer. Offers geolocation information gathering through social networking platforms.	http://github.com/ilektrojohn/creepy.git
 crunch	3.6	A wordlist generator for all combinations/permutations of a given character set.	http://sourceforge.net/projects/crunch-wordlist/
 cryptcat	1.2.1	A lightweight version of netcat with integrated transport encryption capabilities.	http://sourceforge.net/projects/cryptcat
 crypthook	15.1532cbb	TCP/UDP symmetric encryption tunnel wrapper.	https://github.com/chokepoint/CryptHook
@@ -330,6 +330,7 @@ http-fuzz	0.1	A simple http fuzzer.	none
 http-put	1.0	Simple http put perl script
 http-traceroute	0.5	This is a python script that uses the Max-Forwards header in HTTP and SIP to perform a traceroute-like scanning functionality.	http://packetstormsecurity.com/files/107167/Traceroute-Like-HTTP-Scanner.html
 httpbog	1.0.0.0	A slow HTTP denial-of-service tool that works similarly to other attacks, but rather than leveraging request headers or POST data Bog consumes sockets by slowly reading responses.	http://sourceforge.net/projects/httpbog/
+httpforge	11.02.01	A set of shell tools that let you manipulate, send, receive, and analyze HTTP messages. These tools can be used to test, discover, and assert the security of Web servers, apps, and sites. An accompanying Python library is available for extensions.	http://packetstormsecurity.com/files/98109/HTTPForge.02.01.html
 httping	2.3.4	A 'ping'-like tool for http-requests.	http://www.vanheusden.com/httping/
 httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprint.html
 httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
@@ -459,6 +460,7 @@ mitmproxy	0.10.1	SSL-capable man-in-the-middle HTTP proxy	http://mitmproxy.org/
 mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
 mobiusft	0.5.19	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
 moloch	0.9.2	An open source large scale IPv4 full PCAP capturing, indexing and database system.	https://github.com/aol/moloch
+monocle	1.0	A local network host discovery tool. In passive mode, it will listen for ARP request and reply packets. In active mode, it will send ARP requests to the specific IP range. The results are a list of IP and MAC addresses present on the local network.	http://packetstormsecurity.com/files/99823/Monocle-Host-Discovery-Tool.0.html
 morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
 morxcrack	1.2	A cracking tool written in Perl to perform a dictionary-based attack on various hashing algorithm and CMS salted-passwords.	http://www.morxploit.com/morxcrack/
 mptcp	1.9.0	A tool for manipulation of raw packets that allows a large number of options.	http://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
@@ -632,6 +634,7 @@ ruby-uri-query_params	0.7.0	Access the query parameters of a URI, just like in P
 rww-attack	0.9.2	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Server's 'Remote Web Workplace' portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
 safecopy	1.7	A disk data recovery tool to extract data from damaged media	http://safecopy.sourceforge.net/
 sakis3g	0.2.0e	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
+sambascan	0.5.0	Allows you to search an entire network or a number of hosts for SMB shares. It will also list the contents of all public shares that it finds.	http://sourceforge.net/projects/sambascan2/
 samdump2	3.0.0	Dump password hashes from a Windows NT/2k/XP installation	http://sourceforge.net/projects/ophcrack/files/samdump2/
 samydeluxe	2.2ed1bac	Automatic samdump creation script.	http://github.com/jensp/samydeluxe
 sandy	4.224ff18	An open-source Samsung phone encryption assessment framework	https://github.com/donctl/sandy
@@ -877,7 +880,9 @@ xsser	1.6	A penetration testing tool for detecting and exploiting XSS vulnerabil
 xssless	34.d474fc6	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
 xsss	0.40b	xsss is a brute force cross site scripting scanner	http://www.sven.de/xsss/
 yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
+ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
+yinjector	0.1	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
 zaproxy	2.3.1	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
 zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
