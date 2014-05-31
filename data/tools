@@ -238,6 +238,7 @@ fbht	r12.a284878	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linu
 fern-wifi-cracker	219	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
 fernmelder	6.c6d4ebe	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
 fgscanner	11.893372c	An advanced, opensource URL scanner.	http://www.fantaghost.com/fgscanner
+fhttp	1.3	This is a framework for HTTP related attacks. It is written in Perl with a GTK interface, has a proxy for debugging and manipulation, proxy chaining, evasion rules, and more.	http://packetstormsecurity.com/files/104315/FHTTP-Attack-Tool.3.html
 fierce	0.9.9	A DNS scanner	http://ha.ckers.org/fierce/
 fiked	0.0.5	Fake IDE daemon	http://www.roe.ch/FakeIKEd
 fimap	1.00	A little tool for local and remote file inclusion auditing and exploitation	http://code.google.com/p/fimap/
@@ -584,6 +585,7 @@ pytacle	alpha2	Automates the task of sniffing GSM frames	http://packetstormsecur
 pytbull	2.0	A python based flexible IDS/IPS testing framework shipped with more than 300 tests	http://pytbull.sourceforge.net/
 python-utidylib	0.2	Python bindings for Tidy HTML parser/cleaner.	http://utidylib.berlios.de
 python2-yara	1.7.2	A malware identification and classification tool.	https://github.com/plusvic/yara
+quickrecon	0.3.2	A python script for simple information gathering. It attempts to find subdomain names, perform zone transfers and gathers emails from Google and Bing.	http://packetstormsecurity.com/files/104314/QuickRecon.3.2.html
 radamsa	0.3	General purpose data fuzzer.	https://code.google.com/p/ouspg/wiki/Radamsa
 radare2	0.9.7	Open-source tools to disasm, debug, analyze and manipulate binary files.	http://radare.org/
 radiography	2	A forensic tool which grabs as much information as possible from a Windows system.	http://www.security-projects.com/?RadioGraPhy
@@ -811,6 +813,7 @@ veil	201.9d55533	A tool designed to generate metasploit payloads that bypass com
 vfeed	0.1	Open Source Cross Linked and Aggregated Local Vulnerability Database main repository	http://www.toolswatch.org/vfeed
 videosnarf	0.63	A new security assessment tool for pcap analysis	http://ucsniff.sourceforge.net/videosnarf.html
 vinetto	0.07beta	A forensics tool to examine Thumbs.db files	http://vinetto.sourceforge.net
+viper	4.0	This is a simple perl script that enumerates local file inclusion attempts when given a specific target.	http://packetstormsecurity.com/files/102848/LFI-Scanner.0.html
 viproy-voipkit	20131102	VIPROY - VoIP Pen-Test Kit for Metasploit Framework.	http://viproy.com/
 vivisect	20130901	Vivisect is a Python based static analysis and reverse engineering framework, Vdb is a Python based research/reversing focused debugger and programatic debugging API by invisigoth of kenshoto	http://visi.kenshoto.com/
 vnak	1.cf0fda7	Aim is to be the one tool a user needs to attack multiple VoIP protocols.	https://www.isecpartners.com/vnak.html
