@@ -404,6 +404,7 @@ leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of com
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
 lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
+lfimap	1.4.8	This script is used to take the highest beneficts of the local file include vulnerability in a webserver.	https://code.google.com/p/lfimap/
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
 libdisasm	0.23	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
 libewf	20140227	A library for support of the Expert Witness Compression Format (EWF).	https://code.google.com/p/libewf/
@@ -443,15 +444,15 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	24680.823f31d	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
-metasploit-msfupdate	24675.e9bce66	http://www.metasploit.com
+metasploit	24696.ff6607b	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit-msfupdate	24696.ff6607b	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
 mfsniffer	0.1	A python script for capturing unencrypted TSO login credentials.	http://packetstormsecurity.com/files/120802/MF-Sniffer-TN3270-Password-Grabber.html
 mibble	2.9.3	Mibble is an open-source SNMP MIB parser (or SMI parser) written in Java. It can be used to read SNMP MIB files as well as simple ASN.1 files.	http://www.mibble.org/
 middler	1.0	A Man in the Middle tool to demonstrate protocol middling attacks.	http://code.google.com/p/middler/
-minimysqlator	0.5	Mini MySqlat0r is a multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	http://www.scrt.ch/pages_en/minimysqlator.html
+minimysqlator	0.5	A multi-platform application used to audit web sites in order to discover and exploit SQL injection vulnerabilities.	http://www.scrt.ch/en/attack/downloads/mini-mysqlat0r
 miranda-upnp	1.3	A Python-based Universal Plug-N-Play client application designed to discover, query and interact with UPNP devices	http://code.google.com/p/miranda-upnp/
 missidentify	1.0	A program to find Win32 applications	http://missidentify.sourceforge.net/
 missionplanner	1.2.55	A GroundControl Station for Ardupilot.	https://code.google.com/p/ardupilot-mega/wiki/Mission
@@ -522,6 +523,7 @@ openvas-scanner	3.4.0	The OpenVAS scanning Daemon	http://www.openvas.org/
 orakelcrackert	1.00	This tool can crack passwords which are encrypted using Oracle's latest SHA1 based password protection algorithm.	http://freeworld.thc.org/thc-orakelcrackert11g/
 origami	1.0.0_beta1b	A ruby framework designed to parse, analyze, and forge PDF documents.	http://security-labs.org/origami/
 oscanner	1.0.6	An Oracle assessment framework developed in Java.	http://www.cqure.net/wp/oscanner/
+ostinato	0.5.1	An open-source, cross-platform packet/traffic generator and analyzer with a friendly GUI. It aims to be "Wireshark in Reverse" and thus become complementary to Wireshark.	http://code.google.com/p/ostinato/
 osueta	63.038cf9e	A simple Python script to exploit the OpenSSH User Enumeration Timing Attack.	https://github.com/c0r3dump3d/osueta
 owabf	1.3	Outlook Web Access bruteforcer tool.	http://netsec.rs/70/tools.html
 owtf	543.fe62288	The Offensive (Web) Testing Framework.	https://www.owasp.org/index.php/OWASP_OWTF
@@ -537,6 +539,7 @@ paros	3.2.13	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. 
 parsero	54.4dfe77e	A robots.txt audit tool.	https://github.com/behindthefirewalls/Parsero
 pasco	20040505_1	Examines the contents of Internet Explorer's cache files for forensic purposes	http://www.jonesdykstra.com/
 passcracking	20131214	A little python script for sending hashes to passcracking.com and milw0rm	http://github.com/jensp/passcracking
+passe-partout	0.1	Tool to extract RSA and DSA private keys from any process linked with OpenSSL. The target memory is scanned to lookup specific OpenSSL patterns.	http://www.hsc.fr/ressources/outils/passe-partout/index.html.en
 passivedns	1.1.3	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
 pastenum	0.4.1	Search Pastebins for content, fork from nullthreat corelan pastenum2	http://github.com/shadowbq/pastenum
 patator	0.5	A multi-purpose bruteforcer	http://code.google.com/p/patator/
@@ -662,6 +665,7 @@ shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	https:
 shortfuzzy	0.1	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
 simple-ducky	1.1.1	A payload generator.	https://code.google.com/p/simple-ducky-payload-generator
+simple-lan-scan	1.0	A simple python script that leverages scapy for discovering live hosts on a network.	http://packetstormsecurity.com/files/97353/Simple-LAN-Scanner.0.html
 sinfp	1.21	A full operating system stack fingerprinting suite.	http://www.networecon.com/tools/sinfp/
 siparmyknife	11232011	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://packetstormsecurity.com/files/107301/sipArmyKnife_11232011.pl.txt
 sipcrack	0.2	A SIP protocol login cracker.	http://www.remote-exploit.org/codes_sipcrack.html
@@ -860,6 +864,7 @@ winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http:/
 winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
 wireless-ids	24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
 wirouter-keyrec	1.1.2	A powerful and platform independent software to recover the default WPA passphrases of the supported router models (Telecom Italia Alice AGPF, Fastweb Pirelli, Fastweb Tesley, Eircom Netopia, Pirelli TeleTu/Tele 2).	http://www.salvatorefresta.net/tools/
+witchxtool	1.1	A perl script that consists of a port scanner, LFI scanner, MD5 bruteforcer, dork SQL injection scanner, fresh proxy scanner, and a dork LFI scanner.	http://packetstormsecurity.com/files/97465/Witchxtool-Port-LFI-SQL-Scanner-And-MD5-Bruteforcing-Tool.1.html
 wlan2eth	1.3	re-writes 802.11 captures into standard Ethernet frames.	http://www.willhackforsushi.com/?page_id=79
 wmat	0.1	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.html
 wnmap	0.1	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
