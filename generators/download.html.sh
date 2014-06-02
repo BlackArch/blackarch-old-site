@@ -165,6 +165,12 @@ http://mirror.adversec.com/blackarch/</a>
 <br />
 <a href="http://blackarch.nullsecurity.net/blackarch/" target="_blank">
 http://blackarch.nullsecurity.net/blackarch/</a>
+<br />
+<a href="http://blackarch1.curesec.com/blackarch/" target="_blank">
+http://blackarch1.curesec.com/blackarch/</a>
+<br />
+<a href="http://blackarch2.curesec.com/blackarch/" target="_blank">
+http://blackarch2.curesec.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/gb.png" /> <b>Great Britain</b>
 <br />
