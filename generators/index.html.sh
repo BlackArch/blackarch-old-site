@@ -4,6 +4,16 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New Ecuador mirrors added!
+        </a><d>03 Jun 2014</d></h3>
+        <hr>
+        We would like to thank <a href="http://cedia.org.ec/" target="_blank">
+        cedia.org.ec</a>
+        and <a href="http://espoch.edu.ec/" target="_blank">espoch.edu.ec</a>
+        for becoming a mirror.<br /> They are offering the following access:
+        <a href="http://mirror.cedia.org.ec/blackarch/">http</a> |
+        <a href="http://mirror.espoch.edu.ec/blackarch">http</a>
+        <br /><br />
         <h3><a href="">New Germany mirrors added!
         </a><d>02 Jun 2014</d></h3>
         <hr>

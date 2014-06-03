@@ -404,6 +404,7 @@ leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of com
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
 lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
+lfi-sploiter	1.0	This tool helps you exploit LFI (Local File Inclusion) vulnerabilities. Post discovery, simply pass the affected URL and vulnerable parameter to this tool. You can also use this tool to scan a URL for LFI vulnerabilities.	http://packetstormsecurity.com/files/96056/Simple-Local-File-Inclusion-Exploiter.0.html
 lfimap	1.4.8	This script is used to take the highest beneficts of the local file include vulnerability in a webserver.	https://code.google.com/p/lfimap/
 lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
 libdisasm	0.23	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
@@ -418,6 +419,7 @@ lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://w
 luksipc	0.01	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
 lynis	1.5.3	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
 mac-robber	1.02	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
+maclookup	71e7433	Lookup MAC addresses in the IEEE MA-L/OUI public listing.	https://github.com/paraxor/maclookup
 magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
 magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
@@ -586,6 +588,7 @@ pwnat	0.3	A tool that allows any number of clients behind NATs to communicate wi
 pyew	2.3.0	A python tool to analyse malware.	https://code.google.com/p/pyew/
 pyinstaller	2.1	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
 pyminifakedns	0.1	Minimal DNS server written in Python; it always replies with a 127.0.0.1 A-record	http://code.activestate.com/recipes/491264/
+pyrasite	2.0	Code injection and introspection of running Python processes.	http://pyrasite.com/
 pyrit	0.4.0	WPA/WPA2-PSK attacking with gpu and cluster	http://code.google.com/p/pyrit
 pytacle	alpha2	Automates the task of sniffing GSM frames	http://packetstormsecurity.com/files/124299/pytacle-alpha2.tar.gz
 pytbull	2.0	A python based flexible IDS/IPS testing framework shipped with more than 300 tests	http://pytbull.sourceforge.net/
@@ -870,7 +873,7 @@ wmat	0.1	Automatic tool for testing webmail accounts	http://netsec.rs/70/tools.h
 wnmap	0.1	A shell script written with the purpose to automate and chain scans via nmap. You can run nmap with a custom mode written by user and create directories for every mode with the xml/nmap files inside.	http://nullsecurity.net/tools/automation.html
 wol-e	2.0	A suite of tools for the Wake on LAN feature of network attached computers	http://code.google.com/p/wol-e/
 wpbf	7.11b6ac1	Multithreaded WordPress brute forcer.	https://github.com/dejanlevaja/wpbf
-wpscan	1486.8f51ff2	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
+wpscan	1489.c8c126d	A vulnerability scanner which checks the security of WordPress installations using a black box approach.	http://wpscan.org
 ws-attacker	1.3	A modular framework for web services penetration testing.	http://ws-attacker.sourceforge.net/
 wsfuzzer	1.9.5	A Python tool written to automate SOAP pentesting of web services	https://www.owasp.org/index.php/Category:OWASP_WSFuzzer_Project
 wyd	0.2	Gets keywords from personal files. IT security/forensic tool.	http://www.remote-exploit.org/?page_id=418
@@ -884,7 +887,7 @@ xprobe2	0.3	An active OS fingerprinting tool	http://sourceforge.net/apps/mediawi
 xspy	1.0c	A utility for monitoring keypresses on remote X servers	http://www.freshports.org/security/xspy/
 xsser	1.6	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	http://xsser.sourceforge.net/
 xssless	34.d474fc6	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
-xsss	0.40b	xsss is a brute force cross site scripting scanner	http://www.sven.de/xsss/
+xsss	0.40b	xsss is a brute force cross site scripting scanner.	http://www.sven.de/xsss/
 yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
 ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/

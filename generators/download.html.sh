@@ -148,6 +148,14 @@ http://blackarch.dropswitch.net/blackarch/</a>
 <a href="http://mirrors.hustunique.com/blackarch/" target="_blank">
 http://mirrors.hustunique.com/blackarch/</a>
 <br /><br />
+<img src="images/flags/ec.png" /> <b>Ecuador</b>
+<br />
+<a href="http://mirror.cedia.org.ec/blackarch/" target="_blank">
+http://mirror.cedia.org.ec/blackarch/</a>
+<br />
+<a href="http://mirror.espoch.edu.ec/blackarch" target="_blank">
+http://mirror.espoch.edu.ec/blackarch</a>
+<br /><br />
 <img src="images/flags/fr.png" /> <b>France</b>
 <br />
 <a href="http://blackarch.leneveu.fr/blackarch/" target="_blank">
