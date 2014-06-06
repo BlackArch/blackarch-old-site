@@ -51,6 +51,7 @@ backfuzz	36.8e54ed6	A network protocol fuzzing toolkit.	https://github.com/local
 bamf	33.2525222	A modular framework designed to be a platform to launch attacks against botnets.	https://github.com/bwall/BAMF
 batman-adv	2013.4.0	batman kernel module, (included upstream since .38)	http://www.open-mesh.net/
 bbqsql	1.2	SQL injection exploitation tool.	https://github.com/neohapsis/bbqsql
+bdfproxy	16.cf83fe3	Patch Binaries via MITM: BackdoorFactory + mitmProxy	https://github.com/secretsquirrel/BDFProxy
 bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	http://www.aldeid.com/wiki/Bed
 beef	0.4.5.0.60.g32fab58	The Browser Exploitation Framework that focuses on the web browser	http://beefproject.com/
 beleth	0.r36.0963699	A Multi-threaded Dictionary based SSH cracker	https://github.com/chokepoint/Beleth
@@ -335,7 +336,7 @@ httpforge	11.02.01	A set of shell tools that let you manipulate, send, receive, 
 httping	2.3.4	A 'ping'-like tool for http-requests.	http://www.vanheusden.com/httping/
 httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprint.html
 httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
-httpry	0.1.7	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
+httpry	0.1.8	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
 httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
 hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
