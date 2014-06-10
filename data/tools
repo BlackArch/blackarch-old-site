@@ -453,6 +453,7 @@ littleblackbox	0.1.3	Penetration testing tool, search in a collection of thousan
 lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
+lorcon	2.0.0.20091101	Generic library for injecting 802.11 frames	http://802.11ninja.net/
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
 luksipc	0.01	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
 lynis	1.5.3	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
@@ -862,6 +863,7 @@ trid	2.11	An utility designed to identify file types from their binary signature
 trinity	3236.2b719d2	A Linux System call fuzzer.	http://codemonkey.org.uk/projects/trinity/
 trixd00r	0.0.1	An advanced and invisible userland backdoor based on TCP/IP for UNIX systems	http://nullsecurity.net/tools/backdoor.html
 truecrack	35	Password cracking for truecrypt(c) volumes.	http://code.google.com/p/truecrack/
+truecrypt	7.1a	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
 tsh	0.6	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
 tsh-sctp	2.850a2da	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
 tuxcut	5.0	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
