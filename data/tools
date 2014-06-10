@@ -50,6 +50,7 @@ backcookie	32.def5995	Small backdoor using cookie.	https://github.com/mrjopino/b
 backdoor-factory	63.6051eb4	Patch win32/64 binaries with shellcode.	https://github.com/secretsquirrel/the-backdoor-factory
 backfuzz	36.8e54ed6	A network protocol fuzzing toolkit.	https://github.com/localh0t/backfuzz
 bamf	33.2525222	A modular framework designed to be a platform to launch attacks against botnets.	https://github.com/bwall/BAMF
+basedomainname	0.1	Tool that can extract TLD (Top Level Domain), domain extensions (Second Level Domain + TLD), domain name, and hostname from fully qualified domain names.	http://www.morningstarsecurity.com/research
 batman-adv	2013.4.0	batman kernel module, (included upstream since .38)	http://www.open-mesh.net/
 bbqsql	1.2	SQL injection exploitation tool.	https://github.com/neohapsis/bbqsql
 bdfproxy	16.cf83fe3	Patch Binaries via MITM: BackdoorFactory + mitmProxy	https://github.com/secretsquirrel/BDFProxy
@@ -623,7 +624,7 @@ redirectpoison	1.1	A tool to poison a targeted issuer of SIP INVITE requests wit
 reglookup	1.0.1	Command line utility for reading and querying Windows NT registries	http://projects.sentinelchicken.org/reglookup
 relay-scanner	1.7	An SMTP relay scanner.	http://www.cirt.dk
 replayproxy	1.1	Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file.	https://code.google.com/p/replayproxy/
-responder	2.0.8	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	https://github.com/SpiderLabs/Responder
+responder	108.5c9fec9	A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.	https://github.com/SpiderLabs/Responder/
 rfcat	130515	RF ChipCon-based Attack Toolset	http://code.google.com/p/rfcat
 rfdump	1.6	A back-end GPL tool to directly inter-operate with any RFID ISO-Reader to make the contents stored on RFID tags accessible	http://www.rfdump.org
 rfidiot	e302bb7	An open source python library for exploring RFID devices.	http://rfidiot.org/
@@ -846,6 +847,7 @@ volatility	2.3	A memory forensics toolkit	https://www.volatilesystems.com/defaul
 vulscan	2.0	A collection of NSE scripts to turn Nmap into a vuln scanner	http://www.computec.ch/projekte/vulscan/?
 w3af	1.6	Web Application Attack and Audit Framework.	http://w3af.sourceforge.net/
 waffit	30	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
+wafp	0.01_26c3	An easy to use Web Application Finger Printing tool written in ruby using sqlite3 databases for storing the fingerprints.	http://packetstormsecurity.com/files/84468/Web-Application-Finger-Printer.01-26c3.html
 wapiti	2.3.0	A vulnerability scanner for web applications. It currently search vulnerabilities like XSS, SQL and XPath injections, file inclusions, command execution, LDAP injections, CRLF injections...	http://wapiti.sourceforge.net/
 wavemon	0.7.6	Ncurses-based monitoring application for wireless network devices	http://eden-feed.erg.abdn.ac.uk/wavemon/
 web-soul	2	A plugin based scanner for attacking and data mining web sites written in Perl.	http://packetstormsecurity.com/files/122064/Web-Soul-Scanner.html
@@ -900,6 +902,7 @@ yara	1.7	A malware identification and classification tool	http://code.google.com
 ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
 yinjector	0.1	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
+zackattack	5.1f96c14	A new tool set to do NTLM Authentication relaying unlike any other tool currently out there.	https://github.com/urbanesec/ZackAttack/
 zaproxy	2.3.1	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
 zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
