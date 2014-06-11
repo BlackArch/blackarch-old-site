@@ -342,6 +342,7 @@ heartbleed-honeypot	0.1	Script that listens on TCP port 443 and responds with co
 hex2bin	1.0.7	Converts Motorola and Intel hex files to binary.	http://hex2bin.sourceforge.net/
 hexinject	1.5	A very versatile packet injector and sniffer that provides a command-line framework for raw network access.	http://hexinject.sourceforge.net
 hexorbase	6	A database application designed for administering and auditing multiple database servers simultaneously from a centralized location. It is capable of performing SQL queries and bruteforce attacks against common database servers (MySQL, SQLite, Microsoft SQL Server, Oracle, PostgreSQL).	https://code.google.com/p/hexorbase/
+hharp	1beta	This tool can perform man-in-the-middle and switch flooding attacks. It has 4 major functions, 3 of which attempt to man-in-the-middle one or more computers on a network with a passive method or flood type method.	http://packetstormsecurity.com/files/81368/Hackers-Hideaway-ARP-Attack-Tool.html
 hidattack	0.1	HID Attack (attacking HID host implementations)	http://mulliner.org/bluetooth/hidattack.php
 honeyd	1.6.7	A small daemon that creates virtual hosts on a network.	https://github.com/DataSoft/Honeyd/
 honssh	43.46d8a98	A high-interaction Honey Pot solution designed to log all SSH communications between a client and server.	https://code.google.com/p/honssh/
@@ -354,7 +355,7 @@ hpfeeds	138.249b2f7	Honeynet Project generic authenticated datafeed protocol.	ht
 hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
 hqlmap	35.081395e	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
 htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
-htrosbif	134.9dc3f86	https://github.com/lkarsten/htrosbif
+htrosbif	134.9dc3f86	Active HTTP server fingerprinting and recon tool.	https://github.com/lkarsten/htrosbif
 htshells	760b5e9	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
 http-enum	0.3	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
 http-fuzz	0.1	A simple http fuzzer.	none
@@ -367,6 +368,7 @@ httprint	301	A web server fingerprinting tool.	http://www.net-square.com/httprin
 httprint-win32	301	A web server fingerprinting tool (Windows binaries).	http://net-square.com/httprint
 httpry	0.1.8	A specialized packet sniffer designed for displaying and logging HTTP traffic.	http://dumpsterventures.com/jason/httpry/
 httpsniff	0.4	Tool to sniff HTTP responses from TCP/IP based networks and save contained files locally for later review.	http://www.sump.org/projects/httpsniff/
+httpsscanner	1.2	A tool to test the strength of a SSL web server.	https://code.google.com/p/libre-tools/
 httptunnel	3.3	Creates a bidirectional virtual data connection tunnelled in HTTP requests	http://www.nocrew.org/software/httptunnel
 hulk	11.a9b9ad4	A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.	https://github.com/grafov/hulk
 hwk	0.4	Collection of packet crafting and wireless network flooding tools	http://www.nullsecurity.net/
@@ -513,6 +515,7 @@ moloch	0.9.2	An open source large scale IPv4 full PCAP capturing, indexing and d
 monocle	1.0	A local network host discovery tool. In passive mode, it will listen for ARP request and reply packets. In active mode, it will send ARP requests to the specific IP range. The results are a list of IP and MAC addresses present on the local network.	http://packetstormsecurity.com/files/99823/Monocle-Host-Discovery-Tool.0.html
 morxbrute	1.01	A customizable HTTP dictionary-based password cracking tool written in Perl	http://www.morxploit.com/morxbrute/
 morxcrack	1.2	A cracking tool written in Perl to perform a dictionary-based attack on various hashing algorithm and CMS salted-passwords.	http://www.morxploit.com/morxcrack/
+mp3nema	0.4	A tool aimed at analyzing and capturing data that is hidden between frames in an MP3 file or stream, otherwise noted as "out of band" data.	http://packetstormsecurity.com/files/76432/MP3nema-Forensic-Analysis-Tool.html
 mptcp	1.9.0	A tool for manipulation of raw packets that allows a large number of options.	http://packetstormsecurity.com/files/119132/Mptcp-Packet-Manipulator.9.0.html
 ms-sys	2.3.0	A tool to write Win9x-.. master boot records (mbr) under linux - RTM!	http://ms-sys.sourceforge.net/
 mssqlscan	0.8.4	A small multi-threaded tool that scans for Microsoft SQL Servers.	http://www.cqure.net/wp/mssqlscan/
