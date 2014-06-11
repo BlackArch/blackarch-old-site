@@ -221,6 +221,7 @@ dripper	v1.r1.gc9bb0c9	A fast, asynchronous DNS scanner; it can be used for enum
 dscanner	593.a942dd1	Swiss-army knife for D source code.	https://github.com/Hackerpilot/Dscanner
 dsd	77.45eb53f	Digital Speech Decoder	https://github.com/szechyjs/dsd
 dsniff	2.4b1	Collection of tools for network auditing and penetration testing	http://www.monkey.org/~dugsong/dsniff/
+dumb0	17.6efb56e	A simple tool to dump users in popular forums and CMS.	https://github.com/0verl0ad/Dumb0
 dump1090	287.6afdc9b	A simple Mode S decoder for RTLSDR devices.	https://github.com/MalcolmRobb/dump1090
 dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bin/download.pl?DumpAcl
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
@@ -353,6 +354,7 @@ hpfeeds	138.249b2f7	Honeynet Project generic authenticated datafeed protocol.	ht
 hping	3.0.0	A command-line oriented TCP/IP packet assembler/analyzer.	http://www.hping.org
 hqlmap	35.081395e	A tool to exploit HQL Injections.	https://github.com/PaulSec/HQLmap
 htexploit	0.77	A Python script that exploits a weakness in the way that .htaccess files can be configured to protect a web directory with an authentication process	http://www.mkit.com.ar/labs/htexploit/
+htrosbif	134.9dc3f86	https://github.com/lkarsten/htrosbif
 htshells	760b5e9	Self contained web shells and other attacks via .htaccess files.	https://github.com/wireghoul/htshells
 http-enum	0.3	A tool to enumerate the enabled HTTP methods supported on a webserver.	https://www.thexero.co.uk/tools/http-enum/
 http-fuzz	0.1	A simple http fuzzer.	none
@@ -470,7 +472,7 @@ malmon	0.3	Hosting exploit/backdoor detection daemon. It's written in python, an
 maltego	3.3.0	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	http://www.paterva.com/web5
 maltrieve	61.ffed12b	Originated as a fork of mwcrawler. It retrieves malware directly from the sources as listed at a number of sites.	https://github.com/technoskald/maltrieve
 malware-check-tool	1.2	Python script that detects malicious files via checking md5 hashes from an offline set or via the virustotal site. It has http proxy support and an update feature.	http://packetstormsecurity.com/files/93518/Malware-Check-Tool.2.html
-malwareanaylser	3.3	A freeware tool to perform static and dynamic analysis on malware.	http://malwareanalyser.blogspot.de/2011/10/malware-analyser.html
+malwareanalyser	3.3	A freeware tool to perform static and dynamic analysis on malware.	http://malwareanalyser.blogspot.de/2011/10/malware-analyser.html
 malwaredetect	0.1	Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware	http://www.virustotal.com
 malwasm	0.2	Offline debugger for malware's reverse engineering.	https://code.google.com/p/malwasm/
 marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4 (a 4 bit Harvard micro).	https://github.com/ApertureLabsLtd/marc4dasm
@@ -489,8 +491,8 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	24696.ff6607b	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
-metasploit-msfupdate	24696.ff6607b	http://www.metasploit.com
+metasploit	24810.44540e6	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit-msfupdate	24810.44540e6	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
