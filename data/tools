@@ -240,6 +240,7 @@ enum-shares	7.97cba5a	Tool that enumerates shared folders across the network and
 enum4linux	0.8.9	A tool for enumerating information from Windows and Samba systems.	http://labs.portcullis.co.uk/application/enum4linux/
 enumiax	1.0	IAX enumerator	http://sourceforge.net/projects/enumiax/
 enyelkm	1.2	Rootkit for Linux x86 kernels v2.6.	http://www.enye-sec.org/programas.html
+epicwebhoneypot	2.0a	Tool which aims to lure attackers using various types of web vulnerability scanners by tricking them into believing that they have found a vulnerability on a host.	http://sourceforge.net/projects/epicwebhoneypot/
 erase-registrations	1.0	IAX flooder	http://www.hackingexposedvoip.com/
 etherape	0.9.13	A graphical network monitor for various OSI layers and protocols	http://etherape.sourceforge.net/
 ettercap	0.8.0	A network sniffer/interceptor/logger for ethernet LANs - console	http://ettercap.github.com/ettercap/
@@ -437,7 +438,7 @@ lanmap2	124.4f8afed	Passive network mapping tool	http://github.com/rflynn/lanmap
 lans	1.0	A Multithreaded asynchronous packet parsing/injecting arp spoofer.	https://github.com/DanMcInerney/LANs.py
 laudanum	1.0	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	http://laudanum.inguardians.com/#
 lbd	20130719	Load Balancing detector	http://ge.mine.nu/code/lbd
-lbmap	135.45c5f13	Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia 2012.	https://github.com/wireghoul/lbmap
+lbmap	145.93e6b71	Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia 2012.	https://github.com/wireghoul/lbmap
 ldapenum	0.1	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
 leo	4.11	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
 leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
@@ -524,6 +525,7 @@ mtr	0.85	Combines the functionality of traceroute and ping into one tool (CLI ve
 multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses to test parameter manipulation.	http://chaptersinwebsecurity.blogspot.de/2008/11/multiinjector-v03-released.html
 multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
 mutator	51.164132d	This project aims to be a wordlist mutator with hormones, which means that some mutations will be applied to the result of the ones that have been already done, resulting in something like: corporation -> C0rp0r4t10n_2012	https://bitbucket.org/alone/mutator/
+mysql2sqlite	1.dd87f4	Converts a mysqldump file into a Sqlite 3 compatible file	https://gist.github.com/esperlu/943776
 nacker	21.92704f8	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
 nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
 nbtenum	3.3	A utility for Windows that can be used to enumerate NetBIOS information from one host or a range of hosts.	http://reedarvin.thearvins.com/
