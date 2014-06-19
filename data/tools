@@ -272,6 +272,7 @@ findmyhash	1.1.2	Crack different types of hashes using free online services	http
 firewalk	5.0	An active reconnaissance network security tool	http://packetfactory.openwall.net/projects/firewalk/
 firmware-mod-kit	099	Modify firmware images without recompiling!	http://code.google.com/p/firmware-mod-kit
 firstexecution	6.a275793	A Collection of different ways to execute code outside of the expected entry points.	https://github.com/nccgroup/firstexecution
+fl0p	0.1	A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet sequences, can peek into cryptographic tunnels, can tell human beings and robots apart, and performs a couple of other infosec-related tricks.	http://lcamtuf.coredump.cx/
 flare	0.6	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
 flasm	1.62	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
 flawfinder	1.27	Searches through source code for potential security flaws	http://www.dwheeler.com/flawfinder
@@ -465,12 +466,13 @@ lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
 loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
 lorcon	2.0.0.20091101	Generic library for injecting 802.11 frames	http://802.11ninja.net/
+lotophagi	0.1	a relatively compact Perl script designed to scan remote hosts for default (or common) Lotus NSF and BOX databases.	http://packetstormsecurity.com/files/55250/lotophagi.rar.html
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
 luksipc	0.01	A tool to convert unencrypted block devices to encrypted LUKS devices in-place.	http://www.johannes-bauer.com/linux/luksipc
 lynis	1.5.3	An auditing tool for Unix (specialists).	http://www.rootkit.nl/projects/lynis.html
 mac-robber	1.02	A digital investigation tool that collects data from allocated files in a mounted file system.	http://www.sleuthkit.org/mac-robber/download.php
 macchanger	1.6.0	A small utility to change your NIC's MAC address	http://ftp.gnu.org/gnu/macchanger
-maclookup	0.2	Lookup MAC addresses in the IEEE MA-L/OUI public listing.	https://github.com/paraxor/maclookup
+maclookup	0.3	Lookup MAC addresses in the IEEE MA-L/OUI public listing.	https://github.com/paraxor/maclookup
 magicrescue	1.1.9	Find and recover deleted files on block devices	http://freshmeat.net/projects/magicrescue/
 magictree	1.3	A penetration tester productivity tool designed to allow easy and straightforward data consolidation, querying, external command execution and report generation	http://www.gremwell.com
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
@@ -582,6 +584,7 @@ ollydbg	201g	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
 onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	http://labs.portcullis.co.uk/application/onesixtyone/
 onionshare	149.5900115	Securely and anonymously share a file of any size.	https://github.com/micahflee/onionshare/
 openstego	0.6.1	A tool implemented in Java for generic steganography, with support for password-based encryption of the data.	http://www.openstego.info/
+opensvp	64.56b2b8f	A security tool implementing "attacks" to be able to the resistance of firewall to protocol level attack.	https://github.com/regit/opensvp
 openvas-administrator	1.3.2	OpenVAS scanner administration tool	http://www.openvas.org/
 openvas-cli	1.2.0	The OpenVAS Command-Line Interface	http://www.openvas.org/
 openvas-client	3.0.3	A lightweight client. Although it is deprecated by upstream, it is still preferred by some. Please do not mark this as out-dated.	http://www.openvas.org/
