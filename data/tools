@@ -46,6 +46,7 @@ artillery	1.0.2	A combination of a honeypot, file-system monitoring, system hard
 asleap	2.2	Actively recover LEAP/PPTP passwords.	http://www.willhackforsushi.com/Asleap.html
 asp-audit	2BETA	An ASP fingerprinting tool and vulnerability scanner.	http://seclists.org/basics/2006/Sep/128
 athena-ssl-scanner	0.5.2	a SSL cipher scanner that checks all cipher codes. It can identify about 150 different ciphers.	http://packetstormsecurity.com/files/93062/Athena-SSL-Cipher-Scanner.html
+atstaketools	0.1	This is an archive of various @Stake tools that help perform vulnerability scanning and analysis, information gathering, password auditing, and forensics.	http://packetstormsecurity.com/files/50718/AtStakeTools.zip.html
 auto-xor-decryptor	3.6a1f8f7	Automatic XOR decryptor tool.	http://www.blog.mrg-effitas.com/publishing-of-mrg-effitas-automatic-xor-decryptor-tool/
 autopsy	2.24	A GUI for The Sleuth Kit.	http://www.sleuthkit.org/autopsy
 backcookie	34.66b0a27	Small backdoor using cookie.	https://github.com/mrjopino/backcookie
@@ -432,6 +433,7 @@ js-beautify	1.4.2	This little beautifier will reformat and reindent bookmarklets
 jsql	0.5	A lightweight application used to find database information from a distant server.	https://code.google.com/p/jsql-injection/
 junkie	1099.4cdf9ba	A modular packet sniffer and analyzer.	https://github.com/securactive/junkie
 jynx2	2.0	An expansion of the original Jynx LD_PRELOAD rootkit	http://www.blackhatlibrary.net/Jynx2
+katsnoop	0.1	Utility that sniffs HTTP Basic Authentication information and prints the base64 decoded form.	http://packetstormsecurity.com/files/52514/katsnoop.tbz2.html
 kautilya	0.4.5	Pwnage with Human Interface Devices using Teensy++2.0 and Teensy 3.0 devices	http://code.google.com/p/kautilya
 keimpx	0.2	Tool to verify the usefulness of credentials across a network over SMB.	http://code.google.com/p/keimpx/
 khc	0.2	A small tool designed to recover hashed known_hosts fiels back to their plain-text equivalents.	http://packetstormsecurity.com/files/87003/Known-Host-Cracker.2.html
@@ -457,7 +459,7 @@ lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getti
 lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
 lfi-sploiter	1.0	This tool helps you exploit LFI (Local File Inclusion) vulnerabilities. Post discovery, simply pass the affected URL and vulnerable parameter to this tool. You can also use this tool to scan a URL for LFI vulnerabilities.	http://packetstormsecurity.com/files/96056/Simple-Local-File-Inclusion-Exploiter.0.html
 lfimap	1.4.8	This script is used to take the highest beneficts of the local file include vulnerability in a webserver.	https://code.google.com/p/lfimap/
-lft	3.35	A layer four traceroute implementing numerous other features	http://pwhois.org/lft/
+lft	3.36	A layer four traceroute implementing numerous other features.	http://pwhois.org/lft/
 libdisasm	0.23	A disassembler library.	http://bastard.sourceforge.net/libdisasm.html
 libewf	20140227	A library for support of the Expert Witness Compression Format (EWF).	https://code.google.com/p/libewf/
 libpst	0.6.63	Outlook .pst file converter	http://www.five-ten-sg.com/libpst/
@@ -941,6 +943,7 @@ voiper	0.07	A VoIP security testing toolkit incorporating several VoIP fuzzers a
 voiphopper	2.04	A security validation tool that tests to see if a PC can mimic the behavior of an IP Phone. It rapidly automates a VLAN Hop into the Voice VLAN.	http://voiphopper.sourceforge.net/
 voipong	2.0	A utility which detects all Voice Over IP calls on a pipeline, and for those which are G711 encoded, dumps actual conversation to seperate wave files.	http://www.enderunix.org/voipong/
 volatility	2.3	A memory forensics toolkit	https://www.volatilesystems.com/default/volatility
+vstt	0.5.0	VSTT is a multi-protocol tunneling tool. It accepts input by TCP stream sockets and FIFOs, and can send data via TCP, POP3, and ICMP tunneling.	http://www.wendzel.de/dr.org/files/Projects/vstt/
 vulscan	2.0	A collection of NSE scripts to turn Nmap into a vuln scanner	http://www.computec.ch/projekte/vulscan/?
 w3af	1.6	Web Application Attack and Audit Framework.	http://w3af.sourceforge.net/
 waffit	30	A set of security tools to identify and fingerprint Web Application Firewall/WAF products protecting a website	http://code.google.com/p/waffit/
