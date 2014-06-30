@@ -4,6 +4,22 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New Taiwan mirror added!
+        </a><d>30 Jun 2014</d></h3>
+        <hr>
+        We would like to thank <a href="http://cs.nctu.edu.tw/">cs.nctu.edu.tw
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="http://blackarch.cs.nctu.edu.tw/">http</a>
+        <br /><br />
+        <h3><a href="">New Canada mirror added!
+        </a><d>30 Jun 2014</d></h3>
+        <hr>
+        We would like to thank <a href="http://clibre.uqam.ca/">clibre.uqam.ca
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="http://mirror.clibre.uqam.ca/blackarch/">http</a>
+        <br /><br />
         <h3><a href="">New Ecuador mirrors added!
         </a><d>03 Jun 2014</d></h3>
         <hr>
