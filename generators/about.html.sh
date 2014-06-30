@@ -175,6 +175,14 @@ cat <<EOF
       <td>B8EF 5522 B09F EF1E 48C1  6955 1A3B C9D4 9548 C879</td>
       <td>Contributor</td>
     </tr>
+    <tr>
+      <td>Abelardo Ricart</td>
+      <td>abby</td>
+      <td>aricart[at]gmail.com</td>
+      <td><a href="gpg/abby.asc" target="_blank">0xF126259B</a></td>
+      <td>9A70 71CD 4CDB 255A 98AF  B0DF 23FD A57D F126 259B</td>
+      <td>Contributor</td>
+    </tr>
 	</table>
 </div>
 EOF
