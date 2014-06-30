@@ -140,6 +140,9 @@ The following list contains official BlackArch Linux mirror sites.
 <br /><br />
 <img src="images/flags/ca.png" /> <b>Canada</b>
 <br />
+<a href="http://mirror.clibre.uqam.ca/blackarch/" target="_blank">
+http://mirror.clibre.uqam.ca/blackarch/</a>
+<br />
 <a href="http://blackarch.dropswitch.net/blackarch/" target="_blank">
 http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />
@@ -231,6 +234,11 @@ http://blackarch.smartdefence.cl/blackarch/</a>
 <br />
 <a href="http://mirror.zetup.net/blackarch/" target="_blank">
 http://mirror.zetup.net/blackarch/</a>
+<br /><br />
+<img src="images/flags/tw.png" /> <b>Taiwan</b>
+<br />
+<a href="http://blackarch.cs.nctu.edu.tw/" target="_blank">
+http://blackarch.cs.nctu.edu.tw/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
