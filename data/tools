@@ -496,6 +496,7 @@ malwasm	0.2	Offline debugger for malware's reverse engineering.	https://code.goo
 marc4dasm	6.f11860f	This python-based tool is a disassembler for the Atmel MARC4 (a 4 bit Harvard micro).	https://github.com/ApertureLabsLtd/marc4dasm
 maskprocessor	0.69	A High-Performance word generator with a per-position configurable charset	http://hashcat.net/wiki/doku.php?id=maskprocessor
 masscan	348.15418bc	TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.	https://github.com/robertdavidgraham/masscan
+mat	0.5	Metadata Anonymisation Toolkit composed of a GUI application, a CLI application and a library.	https://mat.boum.org/
 matahari	0.1.30	A reverse HTTP shell to execute commands on remote machines behind firewalls.	http://matahari.sourceforge.net
 mausezahn	0.40	A free fast traffic generator written in C which allows you to send nearly every possible and impossible packet.	http://www.perihel.at/sec/mz/
 mbenum	1.5.0	Queries the master browser for whatever information it has registered.	http://www.cqure.net/wp/mbenum/
