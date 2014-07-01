@@ -122,7 +122,7 @@ blackarchlinux-live-2014.07.01-i686.iso</a>
 blackarchlinux-netinst-2014.07.01-x86_64.iso</a>
 - SHA1: 76942cf449dae317bb57d999aed93fb6479d03e0 - Size: 351 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.07.21-i686.iso">
+<a href="blackarch/iso/blackarchlinux-netinst-2014.07.01-i686.iso">
 blackarchlinux-netinst-2014.07.01-i686.iso</a>
 - SHA1: dfc75062e9206d8b3ecb010cbf147bcffdf1664a - Size: 315 MB
 <br /><br />
