@@ -108,23 +108,23 @@ Example:
 <br /><br />
 <b>Live-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.04.21-x86_64.iso">
-blackarchlinux-live-2014.04.21-x86_64.iso</a>
-- SHA1: a78ed45f6bac28a5242aaa74e85a963f9dabd35f - Size: 2.5 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.07.01-x86_64.iso">
+blackarchlinux-live-2014.07.01-x86_64.iso</a>
+- SHA1: d95bff4c7e852434db77ca3d865bc04ae2f28060 - Size: 3.8 GB
 <br />
-<a href="blackarch/iso/blackarchlinux-live-2014.04.21-i686.iso">
-blackarchlinux-live-2014.04.21-i686.iso</a>
-- SHA1: ed535702d1a929ac8d886ceae7e37dcf1898b88d - Size: 2.9 GB
+<a href="blackarch/iso/blackarchlinux-live-2014.07.01-i686.iso">
+blackarchlinux-live-2014.07.01-i686.iso</a>
+- SHA1: 0ba079fa0ee4234fcc4785a2d1bf7cf03a9afc96 - Size: 3.3 GB
 <br /><br />
 <b>Netinstall-ISO</b>
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.04.21-x86_64.iso">
-blackarchlinux-netinst-2014.04.21-x86_64.iso</a>
-- SHA1: 42ed6c8914cdeb24d17abf00b68a3c7b5620545e - Size: 345 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.07.01-x86_64.iso">
+blackarchlinux-netinst-2014.07.01-x86_64.iso</a>
+- SHA1: 76942cf449dae317bb57d999aed93fb6479d03e0 - Size: 351 MB
 <br />
-<a href="blackarch/iso/blackarchlinux-netinst-2014.04.21-i686.iso">
-blackarchlinux-netinst-2014.04.21-i686.iso</a>
-- SHA1: 1205c7a3d1823732743225ad4e9e9181647db277 - Size: 305 MB
+<a href="blackarch/iso/blackarchlinux-netinst-2014.07.21-i686.iso">
+blackarchlinux-netinst-2014.07.01-i686.iso</a>
+- SHA1: dfc75062e9206d8b3ecb010cbf147bcffdf1664a - Size: 315 MB
 <br /><br />
 <h3>Installing BlackArch Linux using Live-ISO, Netinstall-ISO or ArchLinux</h3>
 <hr />

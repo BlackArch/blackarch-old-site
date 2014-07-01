@@ -4,6 +4,28 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New ISOs!</a><d>01 Jul 2014</d></h3>
+        <hr>
+        Today, we released new BlackArch Linux ISOs including more than 1000 tools
+        and lot's of improvements. Also, armv6h and armv7h repositories are
+        filled with about 950 tools.
+        <br /><br />
+        A short ChangeLog:
+        <ul>
+          <li>- added new gtk theme</li>
+          <li>- added more locales for lxdm and system</li>
+          <li>- replaced wallpaper and logos</li>
+          <li>- added bash completions</li>
+          <li>- added exploits to /usr/share/exploits using sploitctl</li>
+          <li>- added a bunch of new tools / updated tools (more than 1000)</li>
+          <li>- added new packages with help flags to each wm's menus</li>
+          <li>- added missing users and groups in /etc/passwd and /etc/group</li>
+        </ul>
+        <br />
+        We wanted to say "thank you" to all users and supporters of BlackArch
+        Linux who contributed, donated and motivated us for testings, fixes and
+        improvements.
+        <br /><br />
         <h3><a href="">New Taiwan mirror added!
         </a><d>30 Jun 2014</d></h3>
         <hr>
