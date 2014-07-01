@@ -10,7 +10,8 @@ cat <<\EOF
         We would like to thank <a href="http://cs.nctu.edu.tw/">cs.nctu.edu.tw
         </a> for becoming a mirror.<br />
         They are offering the following access:
-        <a href="http://blackarch.cs.nctu.edu.tw/">http</a>
+        <a href="http://blackarch.cs.nctu.edu.tw/">http</a> |
+        <a href="rsync://blackarch.cs.nctu.edu.tw/blackarch">rsync</a>
         <br /><br />
         <h3><a href="">New Canada mirror added!
         </a><d>30 Jun 2014</d></h3>

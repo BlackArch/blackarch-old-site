@@ -239,6 +239,9 @@ http://mirror.zetup.net/blackarch/</a>
 <br />
 <a href="http://blackarch.cs.nctu.edu.tw/" target="_blank">
 http://blackarch.cs.nctu.edu.tw/</a>
+<br />
+<a href="rsync://blackarch.cs.nctu.edu.tw/blackarch" target="_blank">
+rsync://blackarch.cs.nctu.edu.tw/blackarch</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
