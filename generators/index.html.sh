@@ -4,6 +4,14 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">Torrent files for new ISOs!</a><d>02 Jul 2014</d></h3>
+        <hr>
+        Torrent files for new ISOs have been added.
+        <br />
+        You can get them
+        <a href="http://www.blackarch.org/blackarch/torrent/">here</a> or on our
+        <a href="http://www.blackarch.org/download.html#mirrors">mirror</a> sites.
+        <br /><br />
         <h3><a href="">New ISOs!</a><d>01 Jul 2014</d></h3>
         <hr>
         Today, we released new BlackArch Linux ISOs including more than 1000 tools
