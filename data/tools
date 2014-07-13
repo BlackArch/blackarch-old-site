@@ -144,7 +144,7 @@ cms-explorer	1.0	Designed to reveal the specific modules, plugins, components an
 cms-few	0.1	Joomla, Mambo, PHP-Nuke, and XOOPS CMS SQL injection vulnerability scanning tool written in Python.	http://packetstormsecurity.com/files/64722/cms_few.py.txt.html
 codetective	32.bb6be05	A tool to determine the crypto/encoding algorithm used according to traces of its representation.	https://www.digitalloft.org/init/plugin_wiki/page/codetective
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
-conscan	1.0.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
+conscan	1.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
 cookie-cadger	1.07	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
 cpfinder	0.1	This is a simple script that looks for administrative web interfaces.	http://packetstormsecurity.com/files/118851/Control-Panel-Finder-Script.html
@@ -279,6 +279,7 @@ fl0p	0.1	A passive L7 flow fingerprinter that examines TCP/UDP/ICMP packet seque
 flare	0.6	Flare processes an SWF and extracts all scripts from it.	http://www.nowrap.de/flare.html
 flasm	1.62	Disassembler tool for SWF bytecode	http://www.nowrap.de/flasm.html
 flawfinder	1.27	Searches through source code for potential security flaws	http://www.dwheeler.com/flawfinder
+flowinspect	94.01c8921	A network traffic inspection tool.	https://github.com/7h3rAm/flowinspect
 flunym0us	2.0	A Vulnerability Scanner for Wordpress and Moodle.	http://code.google.com/p/flunym0us/
 foremost	1.5.7	A console program to recover files based on their headers, footers, and internal data structures	http://foremost.sourceforge.net/
 fpdns	0.9.3	Program that remotely determines DNS server versions	http://code.google.com/p/fpdns/
@@ -307,6 +308,7 @@ geoedge	0.2	This little tools is designed to get geolocalization information of 
 geoip	1.5.1	Non-DNS IP-to-country resolver C library & utils	http://www.maxmind.com/app/c
 geoipgen	0.4	GeoIPgen is a country to IP addresses generator.	http://code.google.com/p/geoipgen/
 getsids	0.0.1	Getsids tries to enumerate Oracle Sids by sending the services command to the Oracle TNS listener. Like doing ‘lsnrctl service’.	http://www.cqure.net/wp/getsids/
+gggooglescan	0.4	A Google scraper which performs automated searches and returns results of search queries in the form of URLs or hostnames.	http://www.morningstarsecurity.com/research/gggooglescan
 ghettotooth	1.0	Ghettodriving for bluetooth	http://www.oldskoolphreak.com/tfiles/ghettotooth.txt
 ghost-phisher	1.62	GUI suite for phishing and penetration attacks	http://code.google.com/p/ghost-phisher
 ghost-py	0.1b3	Webkit based webclient (relies on PyQT).	http://jeanphix.github.com/Ghost.py/
@@ -405,6 +407,7 @@ intrace	1.5	Traceroute-like application piggybacking on existing TCP connections
 inundator	0.5	An ids evasion tool, used to anonymously inundate intrusion detection logs with false positives in order to obfuscate a real attack.	http://inundator.sourceforge.net/
 inviteflood	2.0	Flood a device with INVITE requests	https://launchpad.net/~wagungs/+archive/kali-linux/+build/4386635
 iodine	0.7.0	Tunnel IPv4 data through a DNS server	http://code.kryo.se/iodine
+iosforensic	1.0	iOS forensic tool https://www.owasp.org/index.php/Projects/OWASP_iOSForensic	https://github.com/Flo354/iOSForensic
 ip-https-tools	5.b22e2b3	Tools for the IP over HTTPS (IP-HTTPS) Tunneling Protocol.	https://github.com/takeshixx/ip-https-tools
 ipaudit	1.0BETA2	IPAudit monitors network activity on a network.	http://ipaudit.sourceforge.net
 ipba2	032013	IOS Backup Analyzer	http://www.ipbackupanalyzer.com/
@@ -510,8 +513,7 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	25071.a60dfda	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
-metasploit-msfupdate	25071.a60dfda	http://www.metasploit.com
+metasploit	25179.98a82bd	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
@@ -658,6 +660,7 @@ portspoof	100.70b6bf2	This program's primary goal is to enhance OS security thro
 posttester	0.1	A jar file that will send POST requests to servers in order to test for the hash collision vulnerability discussed at the Chaos Communication Congress in Berlin.	http://packetstormsecurity.com/files/109010/MagicHash-Collision-Testing-Tool.html
 powerfuzzer	1_beta	Powerfuzzer is a highly automated web fuzzer based on many other Open Source fuzzers available (incl. cfuzzer, fuzzled, fuzzer.pl, jbrofuzz, webscarab, wapiti, Socket Fuzzer). It can detect XSS, Injections (SQL, LDAP, commands, code, XPATH) and others.	http://www.powerfuzzer.com
 powersploit	2.2	A PowerShell Post-Exploitation Framework	https://github.com/mattifestation/PowerSploit
+praeda	37.093d1c0	An automated data/information harvesting tool designed to gather critical information from various embedded devices.	https://github.com/percx/Praeda
 prometheus	175.497b2ce	A Firewall analyzer written in ruby	https://github.com/averagesecurityguy/prometheus
 propecia	2	A fast class scanner that scans for a specified open port with banner grabbing	http://www.redlevel.org
 protos-sip	2	SIP test suite.	https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c07-sip
