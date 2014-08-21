@@ -243,6 +243,17 @@ http://blackarch.cs.nctu.edu.tw/</a>
 <a href="rsync://blackarch.cs.nctu.edu.tw/blackarch" target="_blank">
 rsync://blackarch.cs.nctu.edu.tw/blackarch</a>
 <br /><br />
+<img src="images/flags/tr.png" /> <b>Turkey</b>
+<br />
+<a href="http://knuth.mirrortr.com/blackarch" target="_blank">
+http://knuth.mirrortr.com/blackarch</a>
+<br />
+<a href="ftp://knuth.mirrortr.com/blackarch" target="_blank">
+ftp://knuth.mirrortr.com/blackarch</a>
+<br />
+<a href="rsync://knuth.mirrortr.com/blackarch" target="_blank">
+rsync://knuth.mirrortr.com/blackarch</a>
+<br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
 <a href="http://mirror.team-cymru.org/blackarch/" target="_blank">

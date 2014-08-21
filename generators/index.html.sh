@@ -4,6 +4,16 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New Turkey mirror added!
+        </a><d>21 Aug 2014</d></h3>
+        <hr>
+        We would like to thank <a href="http://knuth.mirrortr.com/blackarch">
+        knuth.mirrortr.com</a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="http://knuth.mirrortr.com/blackarch">http</a> |
+        <a href="ftp://knuth.mirrortr.com/blackarch">ftp</a> |
+        <a href="rsync://knuth.mirrortr.com/blackarch">rsync</a>
+        <br /><br />
         <h3><a href="">Torrent files for new ISOs!</a><d>02 Jul 2014</d></h3>
         <hr>
         Torrent files for new ISOs have been added.
