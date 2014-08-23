@@ -462,6 +462,7 @@ lbmap	145.93e6b71	Proof of concept scripts for advanced web application fingerpr
 ldapenum	0.1	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
 leo	4.11	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
 leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
+levye	84.5406303	A brute force tool which is support sshkey, vnckey, rdp, openvpn.	https://github.com/galkan/levye
 lfi-autopwn	3.0	A Perl script to try to gain code execution on a remote server via LFI	http://www.blackhatlibrary.net/Lfi_autopwn.pl
 lfi-exploiter	1.1	This perl script leverages /proc/self/environ to attempt getting code execution out of a local file inclusion vulnerability..	http://packetstormsecurity.com/files/124332/LFI-Exploiter.1.html
 lfi-fuzzploit	1.1	A simple tool to help in the fuzzing for, finding, and exploiting of local file inclusion vulnerabilities in Linux-based PHP applications.	http://packetstormsecurity.com/files/106912/LFI-Fuzzploit-Tool.1.html
@@ -493,7 +494,7 @@ magictree	1.3	A penetration tester productivity tool designed to allow easy and 
 make-pdf	0.1.4	This tool will embed javascript inside a PDF document	http://blog.didierstevens.com/programs/pdf-tools/
 makepasswd	1.10_9	Generates true random passwords with the emphasis on security over pronounceability (Debian version)	http://packages.qa.debian.org/m/makepasswd.html
 malheur	0.5.4	A tool for the automatic analyze of malware behavior.	http://www.mlsec.org/malheur/
-maligno	1.0	An open source penetration testing tool written in python, that serves Metasploit payloads. It generates shellcode with msfvenom and transmits it over HTTP or HTTPS.	http://www.encripto.no/tools/
+maligno	1.2	An open source penetration testing tool written in python, that serves Metasploit payloads. It generates shellcode with msfvenom and transmits it over HTTP or HTTPS.	http://www.encripto.no/tools/
 malmon	0.3	Hosting exploit/backdoor detection daemon. It's written in python, and uses inotify (pyinotify) to monitor file system activity. It checks files smaller then some size, compares their md5sum and hex signatures against DBs with known exploits/backdoor.	http://sourceforge.net/projects/malmon/
 maltego	3.3.0	An open source intelligence and forensics application, enabling to easily gather information about DNS, domains, IP addresses, websites, persons, etc.	http://www.paterva.com/web5
 maltrieve	123.578cd04	Originated as a fork of mwcrawler. It retrieves malware directly from the sources as listed at a number of sites.	https://github.com/technoskald/maltrieve
@@ -515,6 +516,7 @@ mdcrack	1.2	MD4/MD5/NTLM1 hash cracker	http://c3rb3r.openwall.net/mdcrack/
 mdk3	6	WLAN penetration tool	http://homepages.tu-darmstadt.de/~p_larbig/wlan/
 mdns-scan	0.5	Scan mDNS/DNS-SD published services on the local network.
 medusa	2.1.1	A speedy, massively parallel, modular, login brute-forcer for network.	http://www.foofus.net/jmk/medusa/medusa.html
+melkor	1.0	An ELF fuzzer that mutates the existing data in an ELF sample given to create orcs (malformed ELFs), however, it does not change values randomly (dumb fuzzing), instead, it fuzzes certain metadata with semi-valid values through the use of fuzzing rules (knowledge base).	http://packetstormsecurity.com/files/127924/Melkor-ELF-Fuzzer.0.html
 memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	http://www.porcupine.org/forensics/tct.html
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
@@ -584,7 +586,7 @@ nimbostratus	54.c7c206f	Tools for fingerprintinging and exploiting Amazon cloud 
 nipper	0.11.7	Network Infrastructure Parser	https://www.titania-security.com/
 nishang	0.3.0	Using PowerShell for Penetration Testing.	https://code.google.com/p/nishang/
 nkiller2	2.0	A TCP exhaustion/stressing tool.	http://sock-raw.org/projects.html
-nmap	6.46	Utility for network discovery and security auditing	http://nmap.org/
+nmap	6.47	Utility for network discovery and security auditing	http://nmap.org/
 nmbscan	1.2.6	Tool to scan the shares of a SMB/NetBIOS network, using the NMB/SMB/NetBIOS protocols.	http://nmbscan.gbarbier.org/
 nomorexor	0.1	Tool to help guess a files 256 byte XOR key by using frequency analysis	https://github.com/hiddenillusion/NoMoreXOR
 notspikefile	0.1	A Linux based file format fuzzing tool	http://packetstormsecurity.com/files/39627/notSPIKEfile.tgz.html
@@ -766,7 +768,7 @@ shellme	3.8c7919d	Because sometimes you just need shellcode and opcodes quickly.
 shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
 shortfuzzy	0.1	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
-siege	3.0.5	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
+siege	3.0.7	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
 simple-ducky	1.1.1	A payload generator.	https://code.google.com/p/simple-ducky-payload-generator
 simple-lan-scan	1.0	A simple python script that leverages scapy for discovering live hosts on a network.	http://packetstormsecurity.com/files/97353/Simple-LAN-Scanner.0.html
 sinfp	1.21	A full operating system stack fingerprinting suite.	http://www.networecon.com/tools/sinfp/
@@ -803,6 +805,7 @@ snoopy-ng	93.e305420	A distributed, sensor, data collection, interception, analy
 snort	2.9.6.1	A lightweight network intrusion detection system.	http://www.snort.org
 snscan	1.05	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
 socat	1.7.2.4	Multipurpose relay	http://www.dest-unreach.org/socat/
+soot	2.5.0	A Java Bytecode Analysis and Transformation Framework.	http://www.sable.mcgill.ca/soot
 spade	114	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
 sparty	0.1	An open source tool written in python to audit web applications using sharepoint and frontpage architecture.	http://sparty.secniche.org/
 spectools	2010_04_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
@@ -848,7 +851,7 @@ statsprocessor	0.082	A high-performance word-generator based on per-position Mar
 steghide	0.5.1	Embeds a message in a file by replacing some of the least significant bits	http://steghide.sourceforge.net
 stompy	0.0.4	an advanced utility to test the quality of WWW session identifiers and other tokens that are meant to be unpredictable.	http://lcamtuf.coredump.cx/
 storm-ring	0.1	This simple tool is useful to test a PABX with "allow guest" parameter set to "yes" (in this scenario an anonymous caller could place a call).	http://packetstormsecurity.com/files/115852/Storm-Ringing-PABX-Test-Tool.html
-stunnel	5.02	A program that allows you to encrypt arbitrary TCP connections inside SSL	http://www.stunnel.org
+stunnel	5.03	A program that allows you to encrypt arbitrary TCP connections inside SSL	http://www.stunnel.org
 subdomainer	1.2	A tool designed for obtaining subdomain names from public sources.	http://www.edge-security.com/subdomainer.php
 subterfuge	5.0	Automated Man-in-the-Middle Attack Framework	http://kinozoa.com
 sucrack	1.2.3	A multi-threaded Linux/UNIX tool for brute-force cracking local user accounts via su	http://labs.portcullis.co.uk/application/sucrack
@@ -868,7 +871,7 @@ taof	0.3.2	Taof is a GUI cross-platform Python generic network protocol fuzzer.	
 tbear	1.5	Transient Bluetooth Environment Auditor includes an ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool, and a Bluetooth hidden device locator.	http://freshmeat.net/projects/t-bear
 tcgetkey	0.1	A set of tools that deal with acquiring physical memory dumps via FireWire and then scan the memory dump to locate TrueCrypt keys and finally decrypt the encrypted TrueCrypt container using the keys.	http://packetstormsecurity.com/files/119146/tcgetkey.1.html
 tcpcontrol-fuzzer	0.1	2^6 TCP control bit fuzzer (no ECN or CWR).	https://www.ee.oulu.fi/research/ouspg/tcpcontrol-fuzzer
-tcpdump	4.5.1	A tool for network monitoring and data acquisition	http://www.tcpdump.org
+tcpdump	4.6.1	A tool for network monitoring and data acquisition	http://www.tcpdump.org
 tcpextract	1.1	Extracts files from captured TCP sessions. Support live streams and pcap files.	https://pypi.python.org/pypi/tcpextract/1.1
 tcpflow	1.4.4	Captures data transmitted as part of TCP connections then stores the data conveniently	http://afflib.org/software/tcpflow
 tcpick	0.2.1	TCP stream sniffer and connection tracker	http://tcpick.sourceforge.net/
@@ -1024,7 +1027,7 @@ zackattack	5.1f96c14	A new tool set to do NTLM Authentication relaying unlike an
 zaproxy	2.3.1	A local intercepting proxy with integrated penetration testing tool for finding vulnerabilities in web applications.	http://code.google.com/p/zaproxy/
 zarp	0.1.5	A network attack tool centered around the exploitation of local networks.	https://defense.ballastsecurity.net/wiki/index.php/Zarp
 zerowine	0.0.2	Malware Analysis Tool - research project to dynamically analyze the behavior of malware	http://zerowine.sf.net/
-zmap	1.2.0	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
+zmap	1.2.1	Fast network scanner designed for Internet-wide network surveys.	https://zmap.io/
 zulu	0.1	A light weight 802.11 wireless frame generation tool to enable fast and easy debugging and probing of 802.11 networks.	http://sourceforge.net/projects/zulu-wireless/
 zykeys	0.1	Demonstrates how default wireless settings are derived on some models of ZyXEL routers.	http://packetstormsecurity.com/files/119156/Zykeys-Wireless-Tool.html
 zzuf	0.12	Transparent application input fuzzer.	http://sam.zoy.org/zzuf/
