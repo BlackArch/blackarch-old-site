@@ -297,6 +297,7 @@ fstealer	0.1	Automates file system mirroring through remote file disclosur vulne
 ftester	1.0	A tool designed for testing firewall filtering policies and Intrusion Detection System (IDS) capabilities.	http://www.inversepath.com/ftester.html
 ftp-fuzz	1337	The master of all master fuzzing scripts specifically targeted towards FTP server sofware	http://nullsecurity.net/tools/fuzzer.html
 ftp-scanner	0.2.5	Multithreaded ftp scanner/brute forcer. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
+ftp-spider	1.0	FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with write permissions, find user specified data within repository.	http://packetstormsecurity.com/files/35120/ftp-spider.pl.html
 ftpmap	0.4	scans remote FTP servers to identify what software and what versions they are running.	http://wcoserver.googlecode.com/files/
 fusil	1.4	Fusil the fuzzer is a Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files	http://bitbucket.org/haypo/fusil/wiki/Home
 fuzzap	14.f13932c	A python script for obfuscating wireless networks.	https://github.com/lostincynicism/FuzzAP
@@ -1017,15 +1018,15 @@ xf86-video-qxl-git	r541.cbe70e9	Xorg X11 qxl video driver.	http://www.spice-spac
 xorbruteforcer	0.0	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
 xorsearch	1.9.2	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	http://blog.didierstevens.com/programs/xorsearch/
 xortool	0.93	A tool to analyze multi-byte xor cipher.	https://github.com/hellman/xortool/
-xprobe2	0.3	An active OS fingerprinting tool	http://sourceforge.net/apps/mediawiki/xprobe/index.php?title=Main_Page
+xprobe2	0.3	An active OS fingerprinting tool.	http://sourceforge.net/apps/mediawiki/xprobe/index.php?title=Main_Page
 xspy	1.0c	A utility for monitoring keypresses on remote X servers	http://www.freshports.org/security/xspy/
 xsser	1.6	A penetration testing tool for detecting and exploiting XSS vulnerabilites.	http://xsser.sourceforge.net/
 xssless	35.9eee648	An automated XSS payload generator written in python.	https://github.com/mandatoryprogrammer/xssless
-xsss	0.40b	xsss is a brute force cross site scripting scanner.	http://www.sven.de/xsss/
+xsss	0.40b	A brute force cross site scripting scanner.	http://www.sven.de/xsss/
 xssscan	8031.fd3f93b	Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.	https://github.com/gwroblew/detectXSSlib
 xsssniper	0.9	An automatic XSS discovery tool	https://github.com/gbrindisi/xsssniper
 xssya	13.15ebdfe	A Cross Site Scripting Scanner & Vulnerability Confirmation.	https://github.com/yehia-mamdouh/XSSYA
-yara	1.7	A malware identification and classification tool	http://code.google.com/p/yara-project/
+yara	3.0.0	A malware identification and classification tool.	https://plusvic.github.io/yara/
 ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
 yinjector	0.1	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
