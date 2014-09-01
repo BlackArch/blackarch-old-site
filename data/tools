@@ -394,6 +394,7 @@ hyenae	0.36_1	flexible platform independent packet generator	http://sourceforge.
 hyperion	1.1	A runtime encrypter for 32-bit portable executables.	http://nullsecurity.net/tools/binary.html
 iaxflood	0.1	IAX flooder.	http://www.hackingexposedvoip.com/
 iaxscan	0.02	A Python based scanner for detecting live IAX/2 hosts and then enumerating (by bruteforce) users on those hosts.	http://code.google.com/p/iaxscan/
+ibrute	9.895e92a	An AppleID password bruteforce tool. It uses Find My Iphone service API, where bruteforce protection was not implemented.	https://github.com/hackappcom/ibrute/
 icmpquery	1.0	Send and receive ICMP queries for address mask and current time.	http://www.angio.net/security/
 icmptx	0.01	IP over ICMP	http://thomer.com/icmptx/
 iheartxor	0.01	iheartxor is a tool for bruteforcing encoded strings within a boundary defined by a regular expression. It will bruteforce the key value range of 0x1 through 0x255.	http://hooked-on-mnemonics.blogspot.com.es/p/iheartxor.html
@@ -404,7 +405,7 @@ ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to 
 ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/ilty/
 inception	335.1878c98	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
 indxparse	141.81c037d	A Tool suite for inspecting NTFS artifacts.	http://www.williballenthin.com/forensics/mft/indxparse/
-inetsim	1.2.4	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples	http://www.inetsim.org
+inetsim	1.2.5	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples.	http://www.inetsim.org
 infip	0.1	A python script that checks output from netstat against RBLs from Spamhaus.	http://packetstormsecurity.com/files/104927/infIP.1-Blacklist-Checker.html
 inguma	0.1.1	A free penetration testing and vulnerability discovery toolkit entirely written in python. Framework includes modules to discover hosts, gather information about, fuzz targets, brute force usernames and passwords, exploits, and a disassembler.	http://inguma.sourceforge.net
 intercepter-ng	0.9.8	A next generation sniffer including a lot of features: capturing passwords/hashes, sniffing chat messages, performing man-in-the-middle attacks, etc.	http://intercepter.nerf.ru/#down
@@ -1019,7 +1020,7 @@ wyd	0.2	Gets keywords from personal files. IT security/forensic tool.	http://www
 x-scan	3.3	A general network vulnerabilities scanner for scanning network vulnerabilities for specific IP address scope or stand-alone computer by multi-threading method, plug-ins are supportable.	http://www.xfocus.org/
 xcavator	5.bd9e2d8	Man-In-The-Middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/nccgroup/xcavator
 xf86-video-qxl-git	r541.cbe70e9	Xorg X11 qxl video driver.	http://www.spice-space.org/
-xorbruteforcer	0.0	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
+xorbruteforcer	0.1	Script that implements a XOR bruteforcing of a given file, although a specific key can be used too.	http://eternal-todo.com/category/bruteforce
 xorsearch	1.9.2	Program to search for a given string in an XOR, ROL or ROT encoded binary file.	http://blog.didierstevens.com/programs/xorsearch/
 xortool	0.93	A tool to analyze multi-byte xor cipher.	https://github.com/hellman/xortool/
 xprobe2	0.3	An active OS fingerprinting tool.	http://sourceforge.net/apps/mediawiki/xprobe/index.php?title=Main_Page
@@ -1030,7 +1031,7 @@ xsss	0.40b	A brute force cross site scripting scanner.	http://www.sven.de/xsss/
 xssscan	8093.7b1548e	Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.	https://github.com/gwroblew/detectXSSlib
 xsssniper	0.9	An automatic XSS discovery tool	https://github.com/gbrindisi/xsssniper
 xssya	13.15ebdfe	A Cross Site Scripting Scanner & Vulnerability Confirmation.	https://github.com/yehia-mamdouh/XSSYA
-yara	3.0.0	A malware identification and classification tool.	https://plusvic.github.io/yara/
+yara	3.1.0	A malware identification and classification tool.	https://plusvic.github.io/yara/
 ycrawler	0.1	A web crawler that is useful for grabbing all user supplied input related to a given website and will save the output. It has proxy and log file support.	http://packetstormsecurity.com/files/98546/yCrawler-Web-Crawling-Utility.html
 yersinia	0.7.1	A network tool designed to take advantage of some weakness in different network protocols	http://www.yersinia.net/
 yinjector	0.1	A MySQL injection penetration tool. It has multiple features, proxy support, and multiple exploitation methods.	http://packetstormsecurity.com/files/98359/yInjector-MySQL-Injection-Tool.html
