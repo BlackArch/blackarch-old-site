@@ -62,7 +62,7 @@ bdfproxy	30.1fdc86e	Patch Binaries via MITM: BackdoorFactory + mitmProxy	https:/
 bed	0.5	Collection of scripts to test for buffer overflows, format string vulnerabilities.	http://www.aldeid.com/wiki/Bed
 beef	0.4.5.0.98.ga40e8ca	The Browser Exploitation Framework that focuses on the web browser	http://beefproject.com/
 beholder	0.8.9	A wireless intrusion detection tool that looks for anomalies in a wifi environment.	http://www.beholderwireless.org/
-beleth	0.r36.0963699	A Multi-threaded Dictionary based SSH cracker	https://github.com/chokepoint/Beleth
+beleth	36.0963699	A Multi-threaded Dictionary based SSH cracker.	https://github.com/chokepoint/Beleth
 bfbtester	2.0.1	Performs checks of single and multiple argument command line overflows and environment variable overflows	http://sourceforge.net/projects/bfbtester/
 bgp-md5crack	0.1	RFC2385 password cracker	http://www.c0decafe.de/
 bing-ip2hosts	0.4	Enumerates all hostnames which Bing has indexed for a specific IP address.	http://www.morningstarsecurity.com/research/bing-ip2hosts
@@ -70,6 +70,7 @@ bing-lfi-rfi	0.1	This is a python script for searching Bing for sites that may h
 binwalk	2.0.1	A tool for searching a given binary image for embedded files.	http://binwalk.org
 binwally	3.ca092a7	Binary and Directory tree comparison tool using the Fuzzy Hashing concept (ssdeep).	https://github.com/bmaia/binwally
 bios_memimage	1.2	A tool to dump RAM contents to disk (aka cold boot attack).	http://citp.princeton.edu/memory/code/
+birp	60.1d7c49f	A tool that will assist in the security assessment of mainframe applications served over TN3270.	https://github.com/sensepost/birp
 bittwist	2.0	A simple yet powerful libpcap-based Ethernet packet generator. It is designed to complement tcpdump, which by itself has done a great job at capturing network traffic.	http://bittwist.sourceforge.net/
 bkhive	1.1.1	Program for dumping the syskey bootkey from a Windows NT/2K/XP system hive.	http://sourceforge.net/projects/ophcrack
 blackarch-menus	0.2	BlackArch specific XDG-compliant menu	http://www.blackarch.org/
@@ -737,6 +738,7 @@ rootbrute	0.1	Local root account bruteforcer.	http://www.packetstormsecurity.org
 ropeadope	1.1	A linux log cleaner.	http://www.highhacksociety.com/
 ropeme	1.0	ROPME is a set of python scripts to generate ROP gadgets and payload.	http://www.vnsecurity.net/2010/08/ropeme-rop-exploit-made-easy/
 ropgadget	5.1	Lets you search your gadgets on your binaries (ELF format) to facilitate your ROP exploitation.	https://github.com/JonathanSalwan/ROPgadget
+ropper	15.059bda3	It can show information about files in different file formats and you can find gadgets to build rop chains for different architectures. For disassembly ropper uses the awesome Capstone Framework.	https://github.com/sashs/Ropper
 rpdscan	2.a71b0f3	Remmina Password Decoder and scanner.	https://github.com/freakyclown/RPDscan
 rrs	1.70	A reverse (connecting) remote shell. Instead of listening for incoming connections it will connect out to a listener (rrs in listen mode). With tty support and more.	http://www.cycom.se/dl/rrs
 rsakeyfind	1.0	A tool to find RSA key in RAM.	http://citp.princeton.edu/memory/code/
