@@ -530,7 +530,7 @@ memdump	1.01	Dumps system memory to stdout, skipping over holes in memory maps.	
 memfetch	0.05b	dumps any userspace process memory without affecting its execution	http://lcamtuf.coredump.cx/
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
-metasploit	26973.67786e3	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+metasploit	26991.c32b977	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
@@ -657,7 +657,7 @@ peach	3.0.202	A SmartFuzzer that is capable of performing both generation and mu
 peda	49.9b1d28d	Python Exploit Development Assistance for GDB.	https://github.com/longld/peda
 peepdf	0.3	A Python tool to explore PDF files in order to find out if the file can be harmful or not	http://eternal-todo.com/tools/peepdf-pdf-analysis-tool
 pentbox	1.8	A security suite that packs security and stability testing oriented tools for networks and systems.	http://www.pentbox.net
-perl-image-exiftool	9.60	Reader and rewriter of EXIF informations that supports raw files	http://search.cpan.org/perldoc?exiftool
+perl-image-exiftool	9.70	Reader and rewriter of EXIF informations that supports raw files	http://search.cpan.org/perldoc?exiftool
 perl-tftp	1.0b3	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TFTP/TFTP.pm
 pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
 pextractor	0.18b	A forensics tool that can extract all files from an executable file created by a joiner or similar.	http://packetstormsecurity.com/files/62977/PExtractor_v0.18b_binary_and_src.rar.html
