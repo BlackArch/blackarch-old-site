@@ -950,6 +950,7 @@ ufo-wardriving	4	Allows you to test the security of wireless networks by detecti
 umap	25.3ad8121	The USB host security assessment tool.	https://github.com/nccgroup/umap
 umit	1.0	A powerful nmap frontend.	http://www.umitproject.org/
 unhide	20130526	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
+unicorn	9.a18cb5d	A simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.	https://github.com/trustedsec/unicorn
 unicornscan	0.4.7	A new information gathering and correlation engine.	http://www.unicornscan.org/
 uniofuzz	1337	The universal fuzzing tool for browsers, web services, files, programs and network services/ports	http://nullsecurity.net/tools/fuzzer.html
 uniscan	6.2	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
