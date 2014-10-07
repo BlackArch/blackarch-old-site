@@ -4,6 +4,31 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New ISOs!</a><d>07 Oct 2014</d></h3>
+        <hr>
+        Today, we released new BlackArch Linux ISOs including more than 1000 tools
+        and lot's of improvements. Also, armv6h and armv7h repositories are
+        filled with more than 1050 tools.
+        <br /><br />
+        A short ChangeLog:
+        <ul>
+          <li>- tool fix: beef</li>
+          <li>- fixed pam issues</li>
+          <li>- added services and login.defs file</li>
+          <li>- removed kde/openbox and i3-debug menu items from lxdm</li>
+          <li>- fixed blackarch keyring issue</li>
+          <li>- disabled dhcpcd service</li>
+          <li>- upgraded menu entries for awesome, openbox and fluxbox</li>
+          <li>- upgraded tools</li>
+          <li>- added a bunch of new tools (contains now more than 1050 tools)</li>
+          <li>- upgraded archiso profile</li>
+          <li>- and more ...</li>
+        </ul>
+        <br />
+        We wanted to say "thank you" to all users and supporters of BlackArch
+        Linux who contributed, donated and motivated us for testings, fixes and
+        improvements.
+        <br /><br />
         <h3><a href="">New Turkey mirror added!
         </a><d>21 Aug 2014</d></h3>
         <hr>
