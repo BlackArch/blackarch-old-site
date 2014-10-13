@@ -143,9 +143,6 @@ The following list contains official BlackArch Linux mirror sites.
 <a href="http://mirror.clibre.uqam.ca/blackarch/" target="_blank">
 http://mirror.clibre.uqam.ca/blackarch/</a>
 <br />
-<a href="https://deadbeef.ninja/blackarch/" target="_blank">
-https://deadbeef.ninja/blackarch/</a>
-<br />
 <a href="http://blackarch.dropswitch.net/blackarch/" target="_blank">
 http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />
@@ -258,6 +255,9 @@ ftp://knuth.mirrortr.com/blackarch/</a>
 rsync://knuth.mirrortr.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
+<br />
+<a href="https://deadbeef.ninja/blackarch/" target="_blank">
+https://deadbeef.ninja/blackarch/</a>
 <br />
 <a href="http://mirror.team-cymru.org/blackarch/" target="_blank">
 http://mirror.team-cymru.org/blackarch/

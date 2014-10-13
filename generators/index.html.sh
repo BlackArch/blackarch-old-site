@@ -4,7 +4,7 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
-        <h3><a href="">New Canada mirror added!
+        <h3><a href="">New US mirror added!
         </a><d>13 Oct 2014</d></h3>
         <hr>
         We would like to thank <a href="https://deadbeef.ninja/">
