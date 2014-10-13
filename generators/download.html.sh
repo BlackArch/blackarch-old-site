@@ -143,6 +143,9 @@ The following list contains official BlackArch Linux mirror sites.
 <a href="http://mirror.clibre.uqam.ca/blackarch/" target="_blank">
 http://mirror.clibre.uqam.ca/blackarch/</a>
 <br />
+<a href="https://deadbeef.ninja/blackarch/" target="_blank">
+https://deadbeef.ninja/blackarch/</a>
+<br />
 <a href="http://blackarch.dropswitch.net/blackarch/" target="_blank">
 http://blackarch.dropswitch.net/blackarch/</a>
 <br /><br />

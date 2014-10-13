@@ -4,6 +4,14 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+        <h3><a href="">New Canada mirror added!
+        </a><d>13 Oct 2014</d></h3>
+        <hr>
+        We would like to thank <a href="https://deadbeef.ninja/">
+        deadbeef.ninja</a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="https://deadbeef.ninja/blackarch">https</a>
+        <br /><br />
         <h3><a href="">New ISOs!</a><d>07 Oct 2014</d></h3>
         <hr>
         Today, we released new BlackArch Linux ISOs including more than 1000 tools
