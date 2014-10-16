@@ -257,7 +257,7 @@ enyelkm	1.2	Rootkit for Linux x86 kernels v2.6.	http://www.enye-sec.org/programa
 epicwebhoneypot	2.0a	Tool which aims to lure attackers using various types of web vulnerability scanners by tricking them into believing that they have found a vulnerability on a host.	http://sourceforge.net/projects/epicwebhoneypot/
 erase-registrations	1.0	IAX flooder	http://www.hackingexposedvoip.com/
 etherape	0.9.13	A graphical network monitor for various OSI layers and protocols	http://etherape.sourceforge.net/
-ettercap	0.8.0	A network sniffer/interceptor/logger for ethernet LANs - console	http://ettercap.github.com/ettercap/
+ettercap	0.8.1	A network sniffer/interceptor/logger for ethernet LANs - console	http://ettercap.github.com/ettercap/
 evilgrade	2.0.0	Modular framework that takes advantage of poor upgrade implementations by injecting fake updates	http://www.infobyte.com.ar/developments.html
 evilmaid	1.01	TrueCrypt loader backdoor to sniff volume password	http://theinvisiblethings.blogspot.com
 exiv2	0.24	Exif and Iptc metadata manipulation library and tools	http://exiv2.org
@@ -699,7 +699,7 @@ ptunnel	0.72	A tool for reliably tunneling TCP connections over ICMP echo reques
 pwd-hash	2.0	A password hashing tool that use the crypt function to generate the hash of a string given on standard input.	http://vladz.devzero.fr/pwd-hash.php
 pwdump	7.1	Extracts the binary SAM and SYSTEM file from the filesystem and then the hashes.	http://www.tarasco.org/security/pwdump_7/index.html
 pwnat	0.3	A tool that allows any number of clients behind NATs to communicate with a server behind a separate NAT with *no* port forwarding and *no* DMZ setup on any routers in order to directly communicate with each other	http://samy.pl/pwnat/
-pwntools	2.1.1	The CTF framework used by #Gallopsled in every CTF.	https://github.com/Gallopsled/pwntools
+pwntools	2.1.3	The CTF framework used by #Gallopsled in every CTF.	https://github.com/Gallopsled/pwntools
 pyew	2.3.0	A python tool to analyse malware.	https://code.google.com/p/pyew/
 pyfiscan	930.0326ac3	Free web-application vulnerability and version scanner.	https://github.com/fgeek/pyfiscan
 pyinstaller	2.1	A program that converts (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, Solaris and AIX.	http://www.pyinstaller.org/
@@ -952,6 +952,7 @@ udis86	1.7.2	A minimalistic disassembler library	http://udis86.sourceforge.net/
 udptunnel	19	Tunnels TCP over UDP packets.	http://code.google.com/p/udptunnel/
 uefi-firmware-parser	101.be34a60	Parse BIOS/Intel ME/UEFI firmware related structures: Volumes, FileSystems, Files, etc	https://github.com/theopolis/uefi-firmware-parser
 ufo-wardriving	4	Allows you to test the security of wireless networks by detecting their passwords based on the router model	http://www.ufo-wardriving.com/
+ufonet	9.5484a90	A tool designed to launch DDoS attacks against a target, using 'Open Redirect' vectors on third party web applications, like botnet.	https://github.com/epsylon/ufonet
 umap	25.3ad8121	The USB host security assessment tool.	https://github.com/nccgroup/umap
 umit	1.0	A powerful nmap frontend.	http://www.umitproject.org/
 unhide	20130526	A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.	http://sourceforge.net/projects/unhide/
