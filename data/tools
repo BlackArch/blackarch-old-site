@@ -21,6 +21,7 @@ airgraph-ng	2371	Graphing tool for the aircrack suite	http://www.aircrack-ng.org
 airoscript	45.0a122ee	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
 airpwn	1.4	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 allthevhosts	1.0	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
+american-fuzzy-lop	0.45b	A practical, instrumentation-driven fuzzer for binary formats.	https://code.google.com/p/american-fuzzy-lop/
 androguard	1.9	Reverse engineering, Malware and goodware analysis of Android applications and more.	https://code.google.com/p/androguard/
 androick	5.35048d7	A python tool to help in forensics analysis on android.	https://github.com/Flo354/Androick
 android-apktool	1.5.2	A tool for reengineering Android apk files.	http://forum.xda-developers.com/showthread.php?t=1755243
@@ -412,6 +413,7 @@ ikecrack	1.00	An IKE/IPSec crack tool designed to perform Pre-Shared-Key analysi
 ikeprobe	0.1	Determine vulnerabilities in the PSK implementation of the VPN server.	http://www.ernw.de/download/ikeprobe.zip
 ikeprober	1.12	Tool crafting IKE initiator packets and allowing many options to be manually set. Useful to find overflows, error conditions and identifiyng vendors	http://ikecrack.sourceforge.net/
 ilty	1.0	An interception phone system for VoIP network.	http://chdir.org/~nico/ilty/
+imagejs	30.5c97c61	Small tool to package javascript into a valid image file.	https://github.com/jklmnn/imagejs
 inception	415.7f32b49	A FireWire physical memory manipulation and hacking tool exploiting IEEE 1394 SBP DMA.	http://www.breaknenter.org/projects/inception/
 indxparse	150.1b50750	A Tool suite for inspecting NTFS artifacts.	http://www.williballenthin.com/forensics/mft/indxparse/
 inetsim	1.2.5	A software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples.	http://www.inetsim.org
@@ -1028,6 +1030,7 @@ wifiphisher	15.a9a0e58	Fast automated phishing attacks against WPA networks.	htt
 wifitap	2b16088	WiFi injection tool through tun/tap device.	https://github.com/GDSSecurity/wifitap
 wifite	2.28fc5cd	A tool to attack multiple WEP and WPA encrypted networks at the same time.	http://code.google.com/p/wifite/
 wig	238.294e10f	WebApp Information Gatherer.	https://github.com/jekyc/wig
+wikigen	8.348aa99	A script to generate wordlists out of wikipedia pages.	https://github.com/zombiesam/wikigen
 winexe	1.00	Remotely execute commands on Windows NT/2000/XP/2003 systems.	http://sourceforge.net/projects/winexe/
 winfo	2.0	Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.	http://www.ntsecurity.nu/toolbox/winfo/
 wireless-ids	24.b132071	Ability to detect suspicious activity such as (WEP/WPA/WPS) attack by sniffing the air for wireless packets.	https://github.com/SYWorks/wireless-ids
