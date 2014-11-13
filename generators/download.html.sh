@@ -242,6 +242,15 @@ http://blackarch.cs.nctu.edu.tw/</a>
 <br />
 <a href="rsync://blackarch.cs.nctu.edu.tw/blackarch/" target="_blank">
 rsync://blackarch.cs.nctu.edu.tw/blackarch/</a>
+<br />
+<a href="http://ftp.yzu.edu.tw/Linux/blackarch/" target="_blank">
+http://ftp.yzu.edu.tw/Linux/blackarch/</a>
+<br />
+<a href="ftp://ftp.yzu.edu.tw/Linux/blackarch/" target="_blank">
+ftp://ftp.yzu.edu.tw/Linux/blackarch/</a>
+<br />
+<a href="rsync://ftp.yzu.edu.tw/Linux/blackarch/" target="_blank">
+rsync://ftp.yzu.edu.tw/Linux/blackarch/</a>
 <br /><br />
 <img src="images/flags/tr.png" /> <b>Turkey</b>
 <br />
