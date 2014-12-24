@@ -193,6 +193,7 @@ ddrescue	1.19	GNU data recovery tool	http://www.gnu.org/software/ddrescue/ddresc
 deblaze	0.3	A remote method enumeration tool for flex servers	http://deblaze-tool.appspot.com/
 delldrac	0.1a	DellDRAC and Dell Chassis Discovery and Brute Forcer.	https://www.trustedsec.com/september/owning-dell-drac-awesome-hack/
 depant	0.3a	Check network for services with default passwords.	http://midnightresearch.com/projects/depant/
+detect-it-easy	31.489aca0	A program for determining types of files.	https://github.com/horsicq/Detect-It-Easy
 device-pharmer	35.c1d449e	Opens 1K+ IPs or Shodan search results and attempts to login.	https://github.com/DanMcInerney/device-pharmer
 dex2jar	0.0.9.13	A tool for converting Android's .dex format to Java's .class format	http://code.google.com/p/dex2jar
 dff-scanner	1.1	Tool for finding path of predictable resource locations.	http://netsec.rs/70/tools.html
@@ -277,6 +278,7 @@ fakedns	17.87d4216	A regular-expression based python MITM DNS server with correc
 fakemail	1.0	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
 fakenetbios	7.b83701e	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN.	https://github.com/mubix/FakeNetBIOS
 fang	1.2	A multi service threaded MD5 cracker.	https://github.com/evilsocket/fang
+faraday	856.8c0fcff	A new concept (IPE) Integrated Penetration-Test Environment a multiuser Penetration test IDE. Designed for distribution, indexation and analyze of the generated data during the process of a security audit.	http://www.faradaysec.com/
 fbht	r12.a284878	A Facebook Hacking Tool	https://github.com/chinoogawa/fbht-linux
 fcrackzip	1.0	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
 fern-wifi-cracker	219	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
@@ -543,6 +545,7 @@ memfetch	0.05b	dumps any userspace process memory without affecting its executio
 metacoretex	0.8.0	MetaCoretex is an entirely JAVA vulnerability scanning framework for databases.	http://metacoretex.sourceforge.net/
 metagoofil	1.4b	An information gathering tool designed for extracting metadata of public documents	http://www.edge-security.com/metagoofil.php
 metasploit	29541.e394368	An open source platform that supports vulnerability research, exploit development and the creation of custom security tools representing the largest collection of quality-assured exploits.	http://www.metasploit.com
+meterssh	7.eb241a3	A way to take shellcode, inject it into memory then tunnel whatever port you want to over SSH to mask any type of communications as a normal SSH connection.	https://github.com/trustedsec/meterssh
 metoscan	05	Tool for scanning the HTTP methods supported by a webserver. It works by testing a URL and checking the responses for the different requests.	http://www.open-labs.org/
 mfcuk	0.3.8	MIFARE Classic Universal toolKit	http://code.google.com/p/mfcuk/
 mfoc	0.10.7	Mifare Classic Offline Cracker	http://code.google.com/p/mfoc/
