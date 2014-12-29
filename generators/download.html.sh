@@ -265,6 +265,15 @@ rsync://knuth.mirrortr.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
+<a href="https://blackarch.mirror.packetfire.org/" target="_blank">
+https://blackarch.mirror.packetfire.org/</a>
+<br />
+<a href="http://blackarch.mirror.packetfire.org/" target="_blank">
+http://blackarch.mirror.packetfire.org/</a>
+<br />
+<a href="rsync://blackarch.mirror.packetfire.org/" target="_blank">
+rsync://blackarch.mirror.packetfire.org/</a>
+<br />
 <a href="https://deadbeef.ninja/blackarch/" target="_blank">
 https://deadbeef.ninja/blackarch/</a>
 <br />

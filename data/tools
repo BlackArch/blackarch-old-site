@@ -671,7 +671,7 @@ pathod	0.11.1	Crafted malice for tormenting HTTP clients and servers.	http://pat
 pblind	1.0	Little utility to help exploiting blind sql injection vulnerabilities.	http://www.edge-security.com/pblind.php
 pcapfix	1.1.0	Tries to repair your broken pcap and pcapng files.	http://f00l.de/pcapfix/
 pcapsipdump	0.2	A tool for dumping SIP sessions (+RTP traffic, if available) to disk in a fashion similar to 'tcpdump -w' (format is exactly the same), but one file per sip session (even if there is thousands of concurrect SIP sessions).	http://pcapsipdump.sourceforge.net/
-pcredz	0.9	A tool that extracts credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, and more from a pcap file or from a live interface.	https://github.com/lgandx/PCredz
+pcredz	1.0.0	A tool that extracts credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, and more from a pcap file or from a live interface.	https://github.com/lgandx/PCredz
 pdf-parser	0.4.2	Parses a PDF document to identify the fundamental elements used in the analyzed file	http://blog.didierstevens.com/programs/pdf-tools/
 pdfbook-analyzer	2	Utility for facebook memory forensics.	http://sourceforge.net/projects/pdfbook/
 pdfcrack	0.12	Password recovery tool for PDF-files.	http://pdfcrack.sourceforge.net/
@@ -846,6 +846,7 @@ smtp-user-enum	1.2	Username guessing tool primarily for use against the default 
 smtp-vrfy	1.0	An SMTP Protocol Hacker.
 smtpmap	0.8.234_BETA	Tool to identify the running smtp software on a given host.	http://www.projectiwear.org/~plasmahh/software.html
 smtpscan	0.5	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html
+smtptx	1.0	A very simple tool used for sending simple email and do some basic email testing from a pentester perspective.	http://www.0x90.se/
 sn00p	0.8	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
 sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft.	http://www.delirandom.net/sniffjoke/
 snmp-fuzzer	0.1.1	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/

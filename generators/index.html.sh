@@ -4,6 +4,16 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+    <h3><a href="">New US mirror added!
+        </a><d>29 Dec 2014</d></h3>
+        <hr>
+        We would like to thank <a href="http://packetfire.org/">Packetfire
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="https://blackarch.mirror.packetfire.org/">https</a> |
+        <a href="http://blackarch.mirror.packetfire.org/">http</a> |
+        <a href="rsync://blackarch.mirror.packetfire.org/">rsync</a>
+        <br /><br />
     <h3><a href="">New Taiwan mirror added!
         </a><d>12 Nov 2014</d></h3>
         <hr>
