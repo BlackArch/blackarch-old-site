@@ -583,6 +583,7 @@ multiinjector	0.3	Automatic SQL injection utility using a lsit of URI addresses 
 multimac	1.0.3	Multiple MACs on an adapter	http://sourceforge.net/projects/multimac/
 multitun	43.9804513	Tunnel arbitrary traffic through an innocuous WebSocket.	https://github.com/covertcodes/multitun
 mutator	51.164132d	This project aims to be a wordlist mutator with hormones, which means that some mutations will be applied to the result of the ones that have been already done, resulting in something like: corporation -> C0rp0r4t10n_2012	https://bitbucket.org/alone/mutator/
+mwebfp	16.a800b98	Mass Web Fingerprinter.	https://github.com/falcon-lnhg/mwebfp
 mysql2sqlite	1.dd87f4	Converts a mysqldump file into a Sqlite 3 compatible file	https://gist.github.com/esperlu/943776
 nacker	23.b67bb39	A tool to circumvent 802.1x Network Access Control on a wired LAN.	https://github.com/carmaa/nacker
 nbnspoof	1.0	NBNSpoof - NetBIOS Name Service Spoofer	http://www.mcgrewsecurity.com/tools/nbnspoof/
@@ -802,6 +803,7 @@ scanssh	2.1	Fast SSH server and open proxy scanner.	http://www.monkey.org/~provo
 scapy	2.3.1	A powerful interactive packet manipulation program written in Python	http://www.secdev.org/projects/scapy/
 schnappi-dhcp	0.1	schnappi can fuck network with no DHCP	http://www.emanuelegentili.eu/
 scout2	196.7cc58b4	Security auditing tool for AWS environments.	http://isecpartners.github.io/Scout2/
+scrape-dns	58.3df392f	Searches for interesting cached DNS entries.	https://github.com/304GEEK/Scrape-DNS
 scrapy	4423.79c3274	A fast high-level scraping and web crawling framework.	http://www.scrapy.org/
 scrounge-ntfs	0.9	Data recovery program for NTFS file systems	http://memberwebs.com/stef/software/scrounge/
 sctpscan	1.0	A network scanner for discovery and security	http://www.p1sec.com/
