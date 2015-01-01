@@ -196,6 +196,7 @@ ddrescue	1.19	GNU data recovery tool	http://www.gnu.org/software/ddrescue/ddresc
 deblaze	0.3	A remote method enumeration tool for flex servers	http://deblaze-tool.appspot.com/
 delldrac	0.1a	DellDRAC and Dell Chassis Discovery and Brute Forcer.	https://www.trustedsec.com/september/owning-dell-drac-awesome-hack/
 depant	0.3a	Check network for services with default passwords.	http://midnightresearch.com/projects/depant/
+depdep	2.0	A merciless sentinel which will seek sensitive files containing critical info leaking through your network.	https://github.com/galkan/depdep
 detect-it-easy	31.489aca0	A program for determining types of files.	https://github.com/horsicq/Detect-It-Easy
 device-pharmer	35.c1d449e	Opens 1K+ IPs or Shodan search results and attempts to login.	https://github.com/DanMcInerney/device-pharmer
 dex2jar	0.0.9.13	A tool for converting Android's .dex format to Java's .class format	http://code.google.com/p/dex2jar
