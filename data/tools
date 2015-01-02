@@ -853,6 +853,7 @@ smtpmap	0.8.234_BETA	Tool to identify the running smtp software on a given host.
 smtpscan	0.5	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html
 smtptx	1.0	A very simple tool used for sending simple email and do some basic email testing from a pentester perspective.	http://www.0x90.se/
 sn00p	0.8	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
+snapception	8.c156f9e	Intercept and decrypt all snapchats received over your network.	https://github.com/thebradbain/snapception
 sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft.	http://www.delirandom.net/sniffjoke/
 snmp-fuzzer	0.1.1	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/
 snmpattack	1.8	SNMP scanner and attacking tool.	http://www.c0decafe.de/
