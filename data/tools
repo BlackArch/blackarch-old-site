@@ -157,7 +157,7 @@ complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp
 configpush	0.8.5	This is a tool to span /8-sized networks quickly sending snmpset requests with default or otherwise specified community string to Cisco devices.	http://packetstormsecurity.com/files/126621/Config-Push-snmpset-Utility.html
 conpot	0.3.1	ICS honeypot with the goal to collect intelligence about the motives and methods of adversaries targeting industrial control systems url="http://conpot.org"
 conscan	1.1	A blackbox vulnerability scanner for the Concre5 CMS.	http://nullsecurity.net/tools/scanner.html
-cookie-cadger	1.07	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
+cookie-cadger	1.08	An auditing tool for Wi-Fi or wired Ethernet connections.	https://cookiecadger.com/
 cowpatty	4.6	Wireless WPA/WPA2 PSK handshake cracking utility	http://www.wirelessdefence.org/Contents/Files/
 cpfinder	0.1	This is a simple script that looks for administrative web interfaces.	http://packetstormsecurity.com/files/118851/Control-Panel-Finder-Script.html
 cppcheck	1.67	A tool for static C/C++ code analysis	http://cppcheck.wiki.sourceforge.net/
@@ -488,6 +488,7 @@ latd	1.31	A LAT terminal daemon for Linux and BSD.	http://sourceforge.net/projec
 laudanum	1.0	A collection of injectable files, designed to be used in a pentest when SQL injection flaws are found and are in multiple languages for different environments.	http://laudanum.inguardians.com/#
 lbd	20130719	Load Balancing detector	http://ge.mine.nu/code/lbd
 lbmap	145.93e6b71	Proof of concept scripts for advanced web application fingerprinting, presented at OWASP AppSecAsia 2012.	https://github.com/wireghoul/lbmap
+ldap-brute	21.acc06e3	A semi fast tool to bruteforce values of LDAP injections over HTTP.	https://github.com/droope/ldap-brute
 ldapenum	0.1	Enumerate domain controllers using LDAP.	https://gobag.googlecode.com/svn-history/r2/trunk/ldap/ldapenum/
 leo	4.11	Literate programmer's editor, outliner, and project manager	http://webpages.charter.net/edreamleo/front.html
 leroy-jenkins	0.r3.bdc3965	A python tool that will allow remote execution of commands on a Jenkins server and its nodes.	https://github.com/captainhooligan/Leroy-Jenkins
@@ -1004,7 +1005,7 @@ upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	ht
 upx	3.91	Ultimate executable compressor.	http://upx.sourceforge.net/
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
 urldigger	02c	A python tool to extract URL addresses from different HOT sources and/or detect SPAM and malicious code	https://code.google.com/p/urldigger/
-username-anarchy	0.2	Tools for generating usernames when penetration testing	http://www.morningstarsecurity.com/research/username-anarchy
+username-anarchy	0.2	Tools for generating usernames when penetration testing.	http://www.morningstarsecurity.com/research/username-anarchy
 usernamer	7.813139d	Pentest Tool to generate usernames/logins based on supplied names.	https://github.com/jseidl/usernamer
 uw-loveimap	0.1	Multi threaded imap bounce scanner.	http://uberwall.org/bin/download/45/UWloveimap.tgz
 uw-offish	0.1	Clear-text protocol simulator.	http://uberwall.org/bin/download/42/UW_offish.1.tar.gz
@@ -1053,7 +1054,7 @@ websploit	3.0.0	An Open Source Project For, Social Engineering Works, Scan, Craw
 weevely	1.1	Stealth tiny web shell	http://epinna.github.io/Weevely/
 wepbuster	1.0_beta_0.7	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
 wfuzz	25.2c7caa7	Utility to bruteforce web applications to find their not linked resources.	https://github.com/xmendez/wfuzz
-whatweb	0.4.7	Next generation web scanner that identifies what websites are running.	http://www.morningstarsecurity.com/research/whatweb
+whatweb	4023.36d2a13	Next generation web scanner that identifies what websites are running.	http://www.morningstarsecurity.com/research/whatweb
 wi-feye	1.0	An automated wireless penetration testing tool written in python, its designed to simplify common attacks that can be performed on wifi networks so that they can be executed quickly and easily.	http://wi-feye.za1d.com/download.php
 wifi-honey	1.0	A management tool for wifi honeypots	http://www.digininja.org/projects/wifi_honey.php
 wifi-monitor	0.r22.71340a3	Prints the IPs on your local network that're sending the most packets	https://github.com/DanMcInerney/wifi-monitor
