@@ -152,6 +152,7 @@ clusterd	129.0f04a49	Automates the fingerprinting, reconnaissance, and exploitat
 cmospwd	5.0	Decrypts password stored in CMOS used to access BIOS setup.	http://www.cgsecurity.org/wiki/CmosPwd
 cms-explorer	1.0	Designed to reveal the specific modules, plugins, components and themes that various cms driven websites are running	http://code.google.com/p/cms-explorer
 cms-few	0.1	Joomla, Mambo, PHP-Nuke, and XOOPS CMS SQL injection vulnerability scanning tool written in Python.	http://packetstormsecurity.com/files/64722/cms_few.py.txt.html
+cmsmap	194.37c9510	A python open source Content Management System scanner that automates the process of detecting security flaws of the most popular CMSs.	https://www.dionach.com/blog/cmsmap-%E2%80%93-a-simple-cms-vulnerability-scanner
 codetective	37.f94d9e8	A tool to determine the crypto/encoding algorithm used according to traces of its representation.	https://www.digitalloft.org/init/plugin_wiki/page/codetective
 complemento	0.7.6	A collection of tools for pentester: LetDown is a powerful tcp flooder ReverseRaider is a domain scanner that use wordlist scanning or reverse resolution scanning Httsquash is an http server scanner, banner grabber and data retriever	http://complemento.sourceforge.net
 configpush	0.8.5	This is a tool to span /8-sized networks quickly sending snmpset requests with default or otherwise specified community string to Cisco devices.	http://packetstormsecurity.com/files/126621/Config-Push-snmpset-Utility.html
@@ -364,8 +365,8 @@ hamster	2.0.0	Tool for HTTP session sidejacking.	http://hamster.erratasec.com/
 handle	0.0	An small application designed to analyze your system searching for global objects related to running proccess and display information for every found object, like tokens, semaphores, ports, files,..	http://www.tarasco.org/security/handle/index.html
 hasere	1.0	Discover the vhosts using google and bing.	https://github.com/galkan/hasere
 hash-identifier	1.1	Identifies the different types of hashes used to encrypt data, especially passwords	http://code.google.com/p/hash-identifier
-hashcat	0.47	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
-hashcat-utils	1.0	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
+hashcat	0.48	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
+hashcat-utils	1.1	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
 hasher	32.e9d1394	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
 hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
 hashpump	34.0b3c286	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
@@ -566,7 +567,7 @@ missionplanner	1.2.55	A GroundControl Station for Ardupilot.	https://code.google
 mitmap	0.1	Shell Script for launching a Fake AP with karma functionality and launches ettercap for packet capture and traffic manipulation.	http://www.darkoperator.com/tools-and-scripts/
 mitmer	22.b01c7fe	A man-in-the-middle and phishing attack tool that steals the victim's credentials of some web services like Facebook.	https://github.com/husam212/MITMer
 mitmf	183.846f854	A Framework for Man-In-The-Middle attacks written in Python.	https://github.com/byt3bl33d3r/MITMf
-mitmproxy	0.10.1	SSL-capable man-in-the-middle HTTP proxy.	http://mitmproxy.org/
+mitmproxy	0.11.1	SSL-capable man-in-the-middle HTTP proxy.	http://mitmproxy.org/
 mkbrutus	1.0.2	Password bruteforcer for MikroTik devices or boxes running RouterOS.	http://mkbrutusproject.github.io/MKBRUTUS/
 mobiusft	0.5.21	An open-source forensic framework written in Python/GTK that manages cases and case items, providing an abstract interface for developing extensions.	http://savannah.nongnu.org/projects/mobiusft
 modscan	0.1	A new tool designed to map a SCADA MODBUS TCP based network.	https://code.google.com/p/modscan/
@@ -661,6 +662,7 @@ packit	1.0	A network auditing tool. Its value is derived from its ability to cus
 pacumen	1.92a0884	Packet Acumen - Analyse encrypted network traffic and more (side-channel attacks).	https://github.com/bniemczyk/pacumen
 padbuster	0.3.3	Automated script for performing Padding Oracle attacks.	http://www.gdssecurity.com/l/t.php
 paketto	1.10	Advanced TCP/IP Toolkit.	http://www.doxpara.com/paketto
+panhunt	26.cd58866	Searches for credit card numbers (PANs) in directories.	https://github.com/Dionach/PANhunt
 panoptic	178.73b2b4c	A tool that automates the process of search and retrieval of content for common log and config files through LFI vulnerability.	https://github.com/lightos/Panoptic
 paranoic	1.7	A simple vulnerability scanner written in Perl.	http://packetstormsecurity.com/files/128065/Paranoic-Scan.7.html
 paros	3.2.13	Java-based HTTP/HTTPS proxy for assessing web app vulnerabilities. Supports editing/viewing HTTP messages on-the-fly, spiders, client certificates, proxy-chaining, intelligent scanning for XSS and SQLi, etc.	http://www.parosproxy.org
@@ -668,6 +670,7 @@ parsero	56.fc5f7ec	A robots.txt audit tool.	https://github.com/behindthefirewall
 pasco	20040505_1	Examines the contents of Internet Explorer's cache files for forensic purposes	http://www.jonesdykstra.com/
 passcracking	20131214	A little python script for sending hashes to passcracking.com and milw0rm	http://github.com/jensp/passcracking
 passe-partout	0.1	Tool to extract RSA and DSA private keys from any process linked with OpenSSL. The target memory is scanned to lookup specific OpenSSL patterns.	http://www.hsc.fr/ressources/outils/passe-partout/index.html.en
+passhunt	5.332f374	Search drives for documents containing passwords.	https://github.com/Dionach/PassHunt
 passivedns	1.1.3	A network sniffer that logs all DNS server replies for use in a passive DNS setup.	https://github.com/gamelinux/passivedns
 pastenum	0.4.1	Search Pastebins for content, fork from nullthreat corelan pastenum2	http://github.com/shadowbq/pastenum
 patator	82.c37ff75	A multi-purpose bruteforcer.	https://github.com/lanjelot/patator
@@ -691,6 +694,7 @@ perl-tftp	1.0b3	TFTP - TFTP Client class for perl	http://search.cpan.org/~gsm/TF
 pev	0.60	Command line based tool for PE32/PE32+ file analysis	http://pev.sourceforge.net/
 pextractor	0.18b	A forensics tool that can extract all files from an executable file created by a joiner or similar.	http://packetstormsecurity.com/files/62977/PExtractor_v0.18b_binary_and_src.rar.html
 pgdbf	94.baa1d95	Convert XBase / FoxPro databases to PostgreSQL	https://github.com/kstrauser/pgdbf
+phemail	27.7ae21f2	A python open source phishing email tool that automates the process of sending phishing emails as part of a social engineering test.	https://github.com/Dionach/PhEmail
 phoss	0.1.13	Sniffer designed to find HTTP, FTP, LDAP, Telnet, IMAP4, VNC and POP3 logins.	http://www.phenoelit.org/fr/tools.html
 php-mt-seed	3.2	PHP mt_rand() seed cracker	http://www.openwall.com/php_mt_seed/
 php-rfi-payload-decoder	30.bd42caa	Decode and analyze RFI payloads developed in PHP.	https://github.com/bwall/PHP-RFI-Payload-Decoder
@@ -820,6 +824,7 @@ sfuzz	0.7.0	A simple fuzzer.	http://aconole.brad-x.com/programs/sfuzz.html
 shellcodecs	0.1	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
 shellme	3.8c7919d	Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.	https://github.com/hatRiot/shellme
 shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
+shodan	1.2.2	Python library for Shodan (https://developer.shodan.io).	http://github.com/achillean/shodan-python
 shortfuzzy	0.1	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
 siege	3.0.9	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
@@ -982,7 +987,7 @@ truecrack	35	Password cracking for truecrypt(c) volumes.	http://code.google.com/
 truecrypt	7.1a	Free open-source cross-platform disk encryption software	http://www.truecrypt.org/
 tsh	0.6	An open-source UNIX backdoor that compiles on all variants, has full pty support, and uses strong crypto for communication.	http://packetstormsecurity.com/search/?q=tsh
 tsh-sctp	2.850a2da	An open-source UNIX backdoor.	https://github.com/infodox/tsh-sctp
-tuxcut	5.0	Netcut-like program for Linux written in PyQt	http://bitbucket.org/a_atalla/tuxcut/
+tuxcut	5.1	Netcut-like program for Linux written in PyQt.	http://bitbucket.org/a_atalla/tuxcut/
 twofi	2.0	Twitter Words of Interest.	http://www.digininja.org/projects/twofi.php
 u3-pwn	2.0	A tool designed to automate injecting executables to Sandisk smart usb devices with default U3 software install	http://www.nullsecurity.net/tools/backdoor.html
 uatester	1.06	User Agent String Tester	http://code.google.com/p/ua-tester/
