@@ -5,6 +5,16 @@ cat <<\EOF
 <div id="maincontent">
     <div id="left">
     <h3><a href="">New US mirror added!
+        </a><d>04 Jan 2015</d></h3>
+        <hr>
+        We would like to thank <a href="http://mirrors.cdndepo.com/">CDN Depot
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="https://blackarch.cdndepo.com/">https</a> |
+        <a href="http://blackarch.cdndepo.com/">http</a> |
+        <a href="rsync://blackarch.cdndepo.com/">rsync</a>
+        <br /><br />
+    <h3><a href="">New US mirror added!
         </a><d>29 Dec 2014</d></h3>
         <hr>
         We would like to thank <a href="http://packetfire.org/">Packetfire

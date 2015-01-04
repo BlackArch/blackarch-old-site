@@ -265,6 +265,15 @@ rsync://knuth.mirrortr.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/us.png" /> <b>USA</b>
 <br />
+<a href="https://blackarch.cdndepo.com/" target="_blank">
+https://blackarch.cdndepo.com/</a>
+<br />
+<a href="http://blackarch.cdndepo.com/" target="_blank">
+http://blackarch.cdndepo.com/</a>
+<br />
+<a href="rsync://blackarch.cdndepo.com/" target="_blank">
+rsync://blackarch.cdndepo.com/</a>
+<br />
 <a href="https://blackarch.mirror.packetfire.org/" target="_blank">
 https://blackarch.mirror.packetfire.org/</a>
 <br />
