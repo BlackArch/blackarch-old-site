@@ -305,7 +305,7 @@ flawfinder	1.31	Searches through source code for potential security flaws.	http:
 flowinspect	94.01c8921	A network traffic inspection tool.	https://github.com/7h3rAm/flowinspect
 flunym0us	2.0	A Vulnerability Scanner for Wordpress and Moodle.	http://code.google.com/p/flunym0us/
 foremost	1.5.7	A console program to recover files based on their headers, footers, and internal data structures	http://foremost.sourceforge.net/
-fpdns	0.9.3	Program that remotely determines DNS server versions	http://code.google.com/p/fpdns/
+fpdns	20130404	Program that remotely determines DNS server versions.	https://github.com/kirei/fpdns
 fping	3.10	A utility to ping multiple hosts at once	http://www.fping.org/
 fport	2.0	Identify unknown open ports and their associated applications.	http://www.foundstone.com/us/resources/proddesc/fport.htm
 fraud-bridge	10.775c563	ICMP and DNS tunneling via IPv4 and IPv6.	https://github.com/stealth/fraud-bridge
@@ -511,7 +511,7 @@ list-urls	0.1	Extracts links from webpage	http://www.whoppix.net
 littleblackbox	0.1.3	Penetration testing tool, search in a collection of thousands of private SSL keys extracted from various embedded devices.	http://code.google.com/p/littleblackbox/wiki/FAQ
 lodowep	1.2.1	Lodowep is a tool for analyzing password strength of accounts on a Lotus Domino webserver system.	http://www.cqure.net/wp/lodowep/
 logkeys	0.1.1a	Simple keylogger supporting also USB keyboards.	http://logkeys.googlecode.com/
-loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols	http://c0decafe.de/loki.html
+loki	0.2.7	Python based framework implementing many packet generation and attack modules for Layer 2 and 3 protocols.	http://c0decafe.de/loki.html
 lorcon	2.0.0.20091101	Generic library for injecting 802.11 frames	http://802.11ninja.net/
 lotophagi	0.1	a relatively compact Perl script designed to scan remote hosts for default (or common) Lotus NSF and BOX databases.	http://packetstormsecurity.com/files/55250/lotophagi.rar.html
 lsrtunnel	0.2	lsrtunnel spoofs connections using source routed packets.	http://www.synacklabs.net/projects/lsrtunnel/
