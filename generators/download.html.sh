@@ -235,6 +235,23 @@ http://blackarch.smartdefence.cl/blackarch/</a>
 <a href="http://mirror.zetup.net/blackarch/" target="_blank">
 http://mirror.zetup.net/blackarch/</a>
 <br /><br />
+<img src="images/flags/ch.png" /> <b>Switzerland</b>
+<br />
+<a href="https://mirror.tillo.ch/ftp/blackarch/" target="_blank">
+https://mirror.tillo.ch/ftp/blackarch/</a>
+<br />
+<a href="http://mirror.tillo.ch/ftp/blackarch/" target="_blank">
+http://mirror.tillo.ch/ftp/blackarch/</a>
+<br />
+<a href="ftpes://mirror.tillo.ch/blackarch/" target="_blank">
+ftpes://mirror.tillo.ch/blackarch/</a>
+<br />
+<a href="ftp://mirror.tillo.ch/blackarch/" target="_blank">
+ftp://mirror.tillo.ch/blackarch/</a>
+<br />
+<a href="rsync://mirror.tillo.ch/blackarch/" target="_blank">
+rsync://mirror.tillo.ch/blackarch/</a>
+<br /><br />
 <img src="images/flags/tw.png" /> <b>Taiwan</b>
 <br />
 <a href="http://blackarch.cs.nctu.edu.tw/" target="_blank">

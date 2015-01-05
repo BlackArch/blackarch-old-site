@@ -4,6 +4,18 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+    <h3><a href="">New CH mirror added!
+        </a><d>05 Jan 2015</d></h3>
+        <hr>
+        We would like to thank <a href="https://mirror.tillo.ch/">tillo.ch
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="https://mirror.tillo.ch/ftp/blackarch/">https</a> |
+        <a href="http://mirror.tillo.ch/ftp/blackarch/">http</a> |
+        <a href="ftpes://mirror.tillo.ch/blackarch/">ftpes</a> |
+        <a href="ftp://mirror.tillo.ch/blackarch/">ftpes</a> |
+        <a href="rsync://mirror.tillo.ch/blackarch/">rsync</a>
+        <br /><br />
     <h3><a href="">New US mirror added!
         </a><d>04 Jan 2015</d></h3>
         <hr>
