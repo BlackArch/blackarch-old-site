@@ -143,6 +143,8 @@ cisco-global-exploiter	1.3	A perl script that targets multiple vulnerabilities i
 cisco-ocs	0.2	Cisco Router Default Password Scanner.	http://www.question-defense.com/2013/01/11/ocs-version-2-release-ocs-cisco-router-default-password-scanner
 cisco-router-config	1.1	copy-router-config and merge-router-config to copy and merge Cisco Routers Configuration
 cisco-scanner	0.2	Multithreaded Cisco HTTP vulnerability scanner. Tested on Linux, OpenBSD and Solaris.	http://wayreth.eu.org/old_page/
+cisco-snmp-enumeration	2.e9b1f93	Automated Cisco SNMP Enumeration, Brute Force, Configuration Download and Password Cracking.	https://github.com/nccgroup/cisco-snmp-enumeration
+cisco-snmp-slap	5.daf0589	IP address spoofing tool in order to bypass an ACL protecting an SNMP service on Cisco IOS devices.	https://github.com/nccgroup/cisco-snmp-slap
 cisco-torch	0.4b	Cisco Torch mass scanning, fingerprinting, and exploitation tool.	http://www.arhont.com
 cisco5crack	2.c4b228c	Crypt and decrypt the cisco enable 5 passwords.	https://github.com/madrisan/cisco7crack
 cisco7crack	2.f1c21dd	Crypt and decrypt the cisco enable 7 passwords.	https://github.com/madrisan/cisco7crack
@@ -200,7 +202,7 @@ depant	0.3a	Check network for services with default passwords.	http://midnightre
 depdep	2.0	A merciless sentinel which will seek sensitive files containing critical info leaking through your network.	https://github.com/galkan/depdep
 detect-it-easy	32.bfbeac1	A program for determining types of files.	https://github.com/horsicq/Detect-It-Easy
 device-pharmer	35.c1d449e	Opens 1K+ IPs or Shodan search results and attempts to login.	https://github.com/DanMcInerney/device-pharmer
-dex2jar	0.0.9.13	A tool for converting Android's .dex format to Java's .class format	http://code.google.com/p/dex2jar
+dex2jar	0.0.9.15	A tool for converting Android's .dex format to Java's .class format	http://code.google.com/p/dex2jar
 dff-scanner	1.1	Tool for finding path of predictable resource locations.	http://netsec.rs/70/tools.html
 dhcdrop	0.5	Remove illegal dhcp servers with IP-pool underflow. Stable version	http://www.netpatch.ru/dhcdrop.html
 dhcpig	69.cc4109a	Enumerates hosts, subdomains, and emails from a given domain using google	https://github.com/kamorin/DHCPig
@@ -250,6 +252,7 @@ dumpacl	0.0	Dumps NTs ACLs and audit settings.	http://www.systemtools.com/cgi-bi
 dumpzilla	03152013	A forensic tool for firefox.	http://www.dumpzilla.org/
 eapmd5pass	1.4	An implementation of an offline dictionary attack against the EAP-MD5 protocol	http://www.willhackforsushi.com/?page_id=67
 easy-creds	3.9	A bash script that leverages ettercap and other tools to obtain credentials.	https://github.com/brav0hax/easy-creds
+easyda	7.0867f9b	Easy Windows Domain Access Script.	https://github.com/nccgroup/easyda
 easyfuzzer	3.6	A flexible fuzzer, not only for web, has a CSV output for efficient output analysis (platform independant).	http://www.mh-sec.de/downloads.html.en
 eazy	0.1	This is a small python tool that scans websites to look for PHP shells, backups, admin panels, and more.	http://packetstormsecurity.com/files/117572/EAZY-Web-Scanner.html
 edb	0.9.20	A QT4-based binary mode debugger with the goal of having usability on par with OllyDbg.	http://www.codef00.com/projects.php#Debugger
@@ -368,7 +371,7 @@ hash-identifier	1.1	Identifies the different types of hashes used to encrypt dat
 hashcat	0.48	A multithreaded cross platform hash cracker.	http://hashcat.net/hashcat/
 hashcat-utils	1.1	Utilites for Hashcat	http://hashcat.net/wiki/doku.php?id=hashcat_utils
 hasher	32.e9d1394	A tool that allows you to quickly hash plaintext strings, or compare hashed values with a plaintext locally.	https://github.com/ChrisTruncer/Hasher
-hashid	2.6.0	Software to identify the different types of hashes used to encrypt data	https://github.com/psypanda/hashID
+hashid	264.945a8c1	Software to identify the different types of hashes used to encrypt data.	https://github.com/psypanda/hashID
 hashpump	34.0b3c286	A tool to exploit the hash length extension attack in various hashing algorithms.	https://github.com/bwall/HashPump
 hashtag	0.41	A python script written to parse and identify password hashes.	https://github.com/SmeegeSec/HashTag
 haystack	1035.ac2ffa4	A Python framework for finding C structures from process memory - heap analysis - Memory structures forensics.	https://github.com/trolldbois/python-haystack
@@ -635,6 +638,7 @@ obfsproxy	0.2.12	A pluggable transport proxy written in Python.	https://pypi.pyt
 oclhashcat	1.30	Worlds fastest WPA cracker with dictionary mutation engine.	http://hashcat.net/oclhashcat/
 ocs	0.2	Compact mass scanner for Cisco routers with default telnet/enable passwords.	http://packetstormsecurity.com/files/119462/OCS-Cisco-Scanner.2.html
 ohrwurm	0.1	A small and simple RTP fuzzer.	http://mazzoo.de/
+oletools	0.07	Tools to analyze Microsoft OLE2 files.	http://www.decalage.info/python/oletools
 ollydbg	201g	A 32-bit assembler-level analysing debugger	http://www.ollydbg.de
 onesixtyone	0.7	An SNMP scanner that sends multiple SNMP requests to multiple IP addresses	http://labs.portcullis.co.uk/application/onesixtyone/
 onionshare	439.027d774	Securely and anonymously share a file of any size.	https://github.com/micahflee/onionshare/
@@ -825,6 +829,7 @@ sfuzz	0.7.0	A simple fuzzer.	http://aconole.brad-x.com/programs/sfuzz.html
 shellcodecs	0.1	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
 shellme	3.8c7919d	Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.	https://github.com/hatRiot/shellme
 shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
+shocker	52.4c9df3a	A tool to find and exploit servers vulnerable to Shellshock.	https://github.com/nccgroup/shocker
 shodan	1.2.2	Python library for Shodan (https://developer.shodan.io).	http://github.com/achillean/shodan-python
 shortfuzzy	0.1	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
 sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
@@ -897,6 +902,7 @@ sqlping	4	SQL Server scanning tool that also checks for weak passwords using wor
 sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	http://sqlsus.sourceforge.net/
 ssdp-scanner	1.0	SSDP amplification scanner written in Python. Makes use of Scapy.	http://packetstormsecurity.com/files/127994/SSDP-Amplification-Scanner.html
 ssh-privkey-crack	0.3	A SSH private key cracker	https://code.google.com/p/lusas/
+ssh-user-enum	5.3d83131	SSH User Enumeration Script in Python Using The Timing Attack.	https://github.com/nccgroup/ssh-user-enum
 sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id=34
 sshscan	7401.3bfd4ae	A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.	https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py
 sshtrix	0.0.2	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
@@ -1008,6 +1014,7 @@ uniofuzz	1337	The universal fuzzing tool for browsers, web services, files, prog
 uniscan	6.2	A simple Remote File Include, Local File Include and Remote Command Execution vulnerability scanner.	http://sourceforge.net/projects/uniscan/
 unix-privesc-check	1.4	Tries to find misconfigurations that could allow local unprivilged users to escalate privileges to other users or to access local apps (e.g. databases)	http://pentestmonkey.net/tools/audit/unix-privesc-check
 unsecure	1.2	Bruteforces network login masks.	http://www.sniperx.net/
+upnp-pentest-toolkit	1.1	UPnP Pentest Toolkit for Windows.	https://github.com/nccgroup/UPnP-Pentest-Toolkit
 upnpscan	0.4	Scans the LAN or a given address range for UPnP capable devices.	http://www.cqure.net/wp/upnpscan/
 upx	3.91	Ultimate executable compressor.	http://upx.sourceforge.net/
 urlcrazy	0.5	Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.	http://www.morningstarsecurity.com/research/urlcrazy
