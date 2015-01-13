@@ -185,13 +185,21 @@ http://blackarch2.curesec.com/blackarch/</a>
 <br /><br />
 <img src="images/flags/gb.png" /> <b>Great Britain</b>
 <br />
-<a href="http://www.mirrorservice.org/sites/blackarch.org/blackarch/">
+<a href="http://www.mirrorservice.org/sites/blackarch.org/blackarch/" target="_blank">
 http://www.mirrorservice.org/sites/blackarch.org/blackarch/</a>
 <br /><br />
 <img src="images/flags/ie.png" /> <b>Ireland</b>
 <br />
 <a href="ftp.heanet.ie/mirrors/blackarch/" target="_blank">
 http://ftp.heanet.ie/mirrors/blackarch/</a>
+<br /><br />
+<img src="images/flags/it.png" /> <b>Italy</b>
+<br />
+<a href="http://blackarch.mirror.garr.it/mirrors/blackarch/" target="_blank">
+http://blackarch.mirror.garr.it/mirrors/blackarch/</a>
+<br />
+<a href="rsync://blackarch.mirror.garr.it/blackarch/" target="_blank">
+rsync://blackarch.mirror.garr.it/blackarch/</a>
 <br /><br />
 <img src="images/flags/jp.png" /> <b>Japan</b>
 <br />

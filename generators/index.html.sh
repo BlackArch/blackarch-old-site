@@ -4,6 +4,15 @@ cat common/header
 cat <<\EOF
 <div id="maincontent">
     <div id="left">
+    <h3><a href="">New IT mirror added!
+        </a><d>13 Jan 2015</d></h3>
+        <hr>
+        We would like to thank <a href="https://mirror.garr.it/">garr.it
+        </a> for becoming a mirror.<br />
+        They are offering the following access:
+        <a href="http://blackarch.mirror.garr.it/mirrors/blackarch/">http</a> |
+        <a href="rsync://blackarch.mirror.garr.it/blackarch/">rsync</a>
+        <br /><br />
     <h3><a href="">New CH mirror added!
         </a><d>05 Jan 2015</d></h3>
         <hr>
