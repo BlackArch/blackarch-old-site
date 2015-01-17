@@ -9,21 +9,13 @@ BlackArch is compatible with normal Arch installations. It acts as an unofficial
 <br />
 If you wish to install BlackArch on an ARM device, see the <a href="#arm">ARM</a> section.
 <br /><br />
-<b>1.</b>Run <a href="http://blackarch.org/strap.sh"
-	target="_blank">http://blackarch.org/strap.sh</a> as root. Example:
+Run <a href="http://blackarch.org/strap.sh"
+  target="_blank">http://blackarch.org/strap.sh</a> as root. Example:
 <br /><br />
 <p id="cfont_tab">curl -s http://blackarch.org/strap.sh | sudo sh</p>
 <br />
-<b>2.</b> Append the following lines to your <span id="cfont_tab">/etc/pacman.conf</span> file:
+and follow the instructions.
 <br /><br />
-<p id="cfont_tab">[blackarch]</p>
-<p id="cfont_tab">Server = &lt;mirror_site&gt;/$repo/os/$arch</p>
-<br />
-Replace <span id="cfont_tab">&lt;mirror_site&gt;</span> with a mirror site of your choosing. Please use one of our official mirrors. See <a href="#mirrors">Mirror Sites</a>.
-<br /><br />
-<b>3.</b> Now run:
-<p id="cfont_tab"># pacman -Syyu</p>
-<br />
 <h3>Installing Packages</h3>
 <hr>
 You may now install tools from the blackarch repository.

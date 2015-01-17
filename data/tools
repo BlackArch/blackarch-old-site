@@ -457,6 +457,7 @@ ircsnapshot	93.9ba3c6c	Tool to gather information from IRC servers.	https://gith
 irpas	0.10	Internetwork Routing Protocol Attack Suite.	http://phenoelit-us.org/irpas
 isr-form	1.0	Simple html parsing tool that extracts all form related information and generates reports of the data. Allows for quick analyzing of data.	http://www.infobyte.com.ar/
 jad	1.5.8e	Java decompiler	http://www.varaneckas.com/jad
+jadx	0.5.4	Dex to Java command line and GUI decompiler tool that produces Java source code from Android Dex and APK files.	https://github.com/skylot/jadx
 javasnoop	1.1	A tool that lets you intercept methods, alter data and otherwise hack Java applications running on your computer	https://code.google.com/p/javasnoop/
 jboss-autopwn	1.3bc2d29	A JBoss script for obtaining remote shell access.	https://github.com/SpiderLabs/jboss-autopwn
 jbrofuzz	2.5	Web application protocol fuzzer that emerged from the needs of penetration testing.	http://sourceforge.net/projects/jbrofuzz/
